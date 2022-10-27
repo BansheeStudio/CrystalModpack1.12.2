@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=15
+building.buildingorientation=3
+building.version=2
+building.max=2
+building.icon=steelaxe
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Timburmadur Hus
+initial.priority=1000
+initial.male=vikinglumberman
+initial.female=vikingwife
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+
+upgrade3.priority=90
+upgrade3.pathlevel=1
+
+upgrade4.priority=85
+

@@ -1,0 +1,33 @@
+name=Qaryat Alsayd
+weight=5
+radius=55
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+biome=Savanna Plateau M
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=outback
+
+namelist=villages
+
+//starting buildings=
+centre=fishingvillage
+start=grove
+start=grove
+start=wheatfield
+start=wheatfield
+
+//to be built in priority
+core=architect
+
+

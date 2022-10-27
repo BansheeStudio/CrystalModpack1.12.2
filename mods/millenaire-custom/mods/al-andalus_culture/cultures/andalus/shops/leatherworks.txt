@@ -1,0 +1,5 @@
+sells=saddle,leatherhelmet,leatherchest,leatherlegs,leatherboots
+
+buys=leather,rottenflesh,rabbit_hide
+
+deliverto=leather,rottenflesh,rabbit_hide

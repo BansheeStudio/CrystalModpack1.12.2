@@ -1,0 +1,4 @@
+culture.outlaws=Outlaws 
+culture.fullname=The Outlaws 
+
+villager.searaider=Sea Raider

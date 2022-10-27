@@ -1,0 +1,28 @@
+golden_apple;minecraft:golden_apple;0;Golden Apple
+healing_potion;minecraft:potion;8197;Health Potion I
+knowledge_book;minecraft:knowledge_book;0;Knowledge Book
+name_tag;minecraft:name_tag;0;Name Tag
+regen_potion;minecraft:potion;8193;Regen Potion I
+shield;minecraft:shield;0;Wooden Shield
+
+glazed_terracotta_brown;minecraft:brown_glazed_terracotta;0;Brown Glazed Terracotta
+glazed_terracotta_lime;minecraft:lime_glazed_terracotta;0;Lime Glazed Terracotta
+glazed_terracotta_white;minecraft:white_glazed_terracotta;0;White Glazed Terracotta
+
+glazed_terracotta_gray;minecraft:gray_glazed_terracotta;0;Gray Glazed Terracotta
+glazed_terracotta_light_blue;minecraft:light_blue_glazed_terracotta;0;Light Blue Glazed Terracotta
+glazed_terracotta_orange;minecraft:orange_glazed_terracotta;0;Orange Glazed Terracotta
+glazed_terracotta_yellow;minecraft:yellow_glazed_terracotta;0;Yellow Glazed Terracotta
+
+andalusboots;andalus:andalusian_boots;0;Andalusian Boots
+andalushelmet;andalus:andalusian_helmet;0;Andalusian Boots 
+andaluslegs;andalus:andalusian_legs;0;Andalusian Leggings
+andalusplate;andalus:andalusian_plate;0;Andalusian Chestplate
+andalusspear;andalus:andalusian_spear;0;Andalusian Spear
+carved_wood;andalus:carved_wood;0;Carved Wood
+couscous;andalus:couscous;0;Couscous
+dates;andalus:dates;0;Dates
+lamp_stand;andalus:lamp_stand;0;Lamp Stand
+mint;andalus:mint;0;Mint
+mint_tea;andalus:mint_tea;0;Mint Tea
+relic_sword;andalus:relic_sword;0;Zulfiqar

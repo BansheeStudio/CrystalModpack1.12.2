@@ -1,0 +1,13 @@
+priority=50
+
+duration=90000
+
+heldItems=sugar,redflower
+
+input=glass,1
+input=sugar,3
+input=redflower,3
+output=regen_potion,1
+
+buildinglimit=regen_potion,3
+

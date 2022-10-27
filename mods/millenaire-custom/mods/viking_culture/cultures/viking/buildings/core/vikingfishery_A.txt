@@ -1,0 +1,31 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=21
+building.buildingorientation=2
+building.max=2
+building.icon=fishraw
+
+//Parameters for initial construction
+initial.startlevel=-3
+initial.nativename=Fiskveidar
+initial.priority=1000
+initial.male=vikingfisherman
+initial.female=vikingwife
+initial.prioritymovein=20
+initial.tag=fishingspot
+initial.tag=oven
+initial.tag=nopaths
+initial.shop=vikingfishery
+
+//Parameters for specific upgrades
+upgrade1.priority=85
+
+upgrade2.priority=75
+
+upgrade3.priority=65
+
+upgrade4.priority=60
+
+upgrade5.priority=60
+upgrade5.pathlevel=1
+

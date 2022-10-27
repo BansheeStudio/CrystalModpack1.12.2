@@ -1,0 +1,43 @@
+goal.cookstoneandalus=Smelting stone
+
+goal.bleachblackwool=Bleaching wool
+goal.bleachgraywool=Bleaching wool
+goal.bleachlightgraywool=Bleaching wool
+goal.carvesandstoneandalus=Carving sandstone
+goal.MakeSandstone2=Making sandstone
+goal.makeandalusboots=Crafting boots
+goal.makeandalushelmet=Crafting a helmet
+goal.makeandaluslegs=Crafting leggings
+goal.makeandalusplate=Crafting a chestplate
+goal.makeandalusspear=Crafting a spear
+goal.makebrownglazed=Making glazed terracotta 
+goal.makecarvedwood=Carving wood
+goal.makechainboots=Making chain mail boots
+goal.makechainchest=Making a chain mail chestplate
+goal.makechainlegs=Making chain mail leggings
+goal.makecouscous=Making couscous
+goal.makehay2=Making hay
+goal.makehealthpotion=Making potions
+goal.makelampstand=Making a lampstand
+goal.makelimeglazed=Making glazed terracotta 
+goal.makeminttea=Making mint tea
+goal.makenametagandalus=Making a name tag
+goal.makeregenpotion=Making potions
+goal.makesaddle=Making a saddle
+goal.makewhiteglazed=Making Glazed terracotta 
+goal.tanhideandalus=Tanning hides
+
+goal.gatherdates=Gathering dates
+goal.gathermint=Gathering mint 
+
+goal.pickredflower=Picking flowers
+
+goal.gathersandandalus=Gathering Sand
+goal.minedioriteandalus=Mining diorite
+goal.minesandstoneandalus=Mining sandstone
+goal.minestoneandalus=Mining stone
+
+goal.growdates=Growing dates
+
+goal.keepstallmerc=Keeping stall
+

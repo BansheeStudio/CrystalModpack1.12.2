@@ -1,0 +1,208 @@
+architect_byzantine.construction=$name! Gnorízeis óti oi Romaíoi eínai oi kalýteroi kataskevastés? / $name! Did you know that Romans are the best architects?
+architect_byzantine.construction=$name! Des pos ftiaxno ena architektoniko dimiourgima! / $name! Watch me build a beautiful structure.
+architect_byzantine.construction=Aftó to ktírio tha ginei poli ómorfo! / This building will be beautiful!
+architect_byzantine.construction=Den échei teliosei, allá vlépo tin omorfiá stin douleiá mou. / It's not done, but I already see the beauty in my work.
+architect_byzantine.construction=Dimioúrgo tóso entiposiakes domés. I architektoniki eínai pragmatiká i pio ómorfi morfí téchnis./ I build such elaborate structures. Building is truly the most beautiful form of art.
+architect_byzantine.construction=An me áfinan na kataskeváso ktíria me ton trópo mou, aftó to chorió tha veltionótan déka forés!. / If they let me construct buildings my way, this village would improve tenfold!
+architect_byzantine.construction=I architektonikí mas eínai anóteri apó óla ta álla ktíria se olókliro ton kósmo. / Our architecture is superior to all other buildings across the world.
+architect_byzantine.construction=Eínai kríma pou to romaïkó talénto tha éprepe na spatalitheí se tétoia anóita kataskevastiká schédia. / It's such a pity that Roman talent should be wasted on such lackluster construction plans. 
+architect_byzantine.construction=Sas arései to tropos kataskeuis mou? / Do you like my style?
+architect_byzantine.construction=Chtizo apo tote pou thymamai. I architektoniki échei gínei i zoí mou. / I've been building longer than I can remember. Building has become my life.
+
+architect_byzantine.getResourcesForBuild=Apó poú proérchetai to chorió? / Where does the village get these blocks from?
+architect_byzantine.getResourcesForBuild=Chreiázomai ylika gia na ftiáxo tis kalýteres kataskevés! / I need blocks to build the best structures!
+architect_byzantine.getResourcesForBuild=Káthe kataskeví archízei me ta blok. / Every build starts with the blocks.
+architect_byzantine.getResourcesForBuild=Prépei na epiléxo prosektiká ta ylika o ídios. / I must carefully select the blocks myself.
+architect_byzantine.getResourcesForBuild=Pós metaférete tósa pollá ylika ótan ftiáchnete $name? / How do you carry so many blocks when you build $name?
+architect_byzantine.getResourcesForBuild=To cheirótero méros tou ktiríou eínai na i metafora ton ylikon. / The worst part of building is getting the blocks.
+
+architect_byzantine.gopray=Elpízo o Theós mou dínei émpnefsi gia to epómeno ktírio mou! / I hope God gives me inspiration for my next building!
+architect_byzantine.gopray=Giatí o Theós me ékane architéktona? / Why did God make me an architect?
+architect_byzantine.gopray=I prosefchí eínai éna simantikó méros tis oikodómisis. / Praying is an important part of building.
+architect_byzantine.gopray=Katanoeí ta provlímata pou échoun oi architéktones. / He understands the troubles architects have.
+
+architect_byzantine.gorest=An den koimithó, yparxei periptosi na kano palabomara. / If I do not sleep, I might mess up building something.
+architect_byzantine.gorest=Den boró na oikodomíso ótan eimai kourasmenos. / I cannot build when tired.
+architect_byzantine.gorest=Eínai dýskolo na chtizei kaneis sto skotádi. / It is hard to build in the dark.
+architect_byzantine.gorest=Telos bardias, kalynychta. / I am done with building for the day.
+architect_byzantine.gorest=Ísos tha oneireftó ta kalýtera ktíria ston kósmo! / Maybe I will dream of building the world's best buildings!
+
+architect_byzantine.gosocialise=Kaneís se aftó to chorió den katalavaínei ta provlímata tis oikodómisis. / No one in this village understands the troubles of building.
+architect_byzantine.gosocialise=Káthe architéktonas chreiázetai émpnefsi apó állous. / Every architect needs inspiration from others.
+architect_byzantine.gosocialise=Oi architéktones chreiázontai polles apopseis gia na evdokimísoun. / Architects need feedback to thrive.
+architect_byzantine.gosocialise=Ti na skéftetai to chorió gia ta ktíriá mou? / What does the village think of my buildings?
+
+architect_byzantine.goDrink=Óra na ftiáxete éna frésko romaïkó krasí! / Time to get some fresh Roman wine!
+architect_byzantine.goDrink=Xérate óti to romaïkó krasí eínai to kalýtero ston kósmo? / Did you know that Roman wine is the best in the world?
+
+wife_byzantine.goDrink=Óra na ftiáxete éna frésko romaïkó krasí! / Time to get some fresh Roman wine!
+wife_byzantine.goDrink=Xérate óti to romaïkó krasí eínai to kalýtero ston kósmo? / Did you know that Roman wine is the best in the world?
+
+villager.gopray='atlub al'iirshad min =Allah fi hadhih al'awqat aleasibat. / I ask for God's guidance in these troubling times. 
+villager.gopray=bialtaakid =Allah ladayh khutat lana fi hadhih al'aradii algharibat. / Surely God has a plan for us in these strange lands.
+villager.gopray=yjb 'an tusli aydana ya $name. / You should pray too, $name.
+villager.gorest=ybdw 'ana alwaqt yatir eindama nanamun. / Time seems to fly when we sleep.
+villager.gorest=hadha eamal kaf lilyawm , waqt lilraahati. / That's enough work for today, time to rest.
+villager.gorest=waqt lildhahab 'iilaa alsarir. / Off to bed.
+villager.gorest=waqt lilraahati. / Time to rest.
+villager.calltoarms=iilaa alsilah 'ayuha al'iikhuata! / To arms, brothers!
+villager.calltoarms='aeatahum aljahima! / Give 'em hell!
+villager.calltoarms=alkufaar yuhajimun alqariyata! / Infidels are attacking the village!
+villager.calltoarms=aldukhla'! / Intruders!
+villager.greeting=marhabaan $name! / Hello, $name!
+villager.greeting='iinah yawm jamil alyawm , 'alays kadhalk? / It's a fine day today, isn't it?
+villager.greeting=hasalat ealaa bed alnuwm almaneash allaylat almadiyata! / I had some refreshing sleep last night!
+villager.greeting=yawm jayid ya $name. / Good day, $name.
+villager.greeting=marhaba. / Hello there.
+villager.greeting=la 'atadhakar 'ana altaqs fi al'undulus kan mithl hdha tmamana. / I don't remember the weather in Andalusia to be quite like this.
+villager.construction=laqad bada'at balfel tabdu jamila! / It's already starting to look beautiful!
+villager.construction=lm yakun albina' bihadhih alsuhulat min qbl! / Building has never been this easy!
+villager.construction=sayakun hdha eamal faniyin rayieun. / This is going to be a fine work of art.
+villager.construction=$name, shahidni 'adae hadhih alktl!/ $name, watch me place these blocks!
+
+andalus_armourysmith.makeandalushelmet='iidha aikhtar hula' alfalasifat khawdhat 'aw athnatayn miniyin , faqad yusaeid dhlk fi himayat tafkirihim almujrid. / If only those philosophers picked up a helmet or two from me, it might help protect their abstract thinking.
+andalus_armourysmith.makeandalushelmet=qabl muhawalat qutil shakhs ma , yjb 'an yuhawil almar' awlaan 'alaa yuqtl bishim tayish fi alraas. / Before trying to kill someone, one must first try not to get killed with a stray arrow to the head.
+andalus_armourysmith.makeandalushelmet=alkhawdhat hi 'afdal sidiyq lilmuharib. / The helmet is a warrior's best friend.
+andalus_armourysmith.gopraymalemuslim=barak =Allah fi fawladhi. / May God bless my steel.
+andalus_armourysmith.gopraymalemuslim='atasa'al limadha jaealani =Allah hdadana? / I wonder why God made me a smith?
+andalus_armourysmith.gorest=alrrahat aljayidat satukhafif min alam zahri. / A good rest should ease my aching back.
+andalus_armourysmith.gorest=rubama taetini 'ahlami 'ilhamana lieamal alghid. / Maybe my dreams will give me inspiration for tomorrow's work.
+andalus_armourysmith.gosocialise=hal sameta? alkalimat hi 'an hnak hdha alshay' alsihriu min alshrq yusamaa fawaladh dimashq. / Have you heard? Word is there's this magical thing from the east called Damascus steel. 
+andalus_armourysmith.gosocialise=almatraqat almaedaniat la tataqadam fi aleumr abdana , lkn yjb ealaa alrajul alkhuruj min almanzil bayn alhin walakhir. / Hammering metal never gets old but a man's gotta go outside every now and then.
+andalus_armourysmith.makeandalusplate=aldarae aljayd qad yasnae alfariq bayn alhayat walmawt. / Good armor might just make the difference between life and death.
+andalus_armourysmith.makeandalusplate=yjb 'an tadfae li mblghana 'idafyana mqabl sune dareik $ name , fa'ant 'akbar min hawla' alshamaliiyn alsaakhibina. / You should pay me extra for making your armor $name, you're bigger than those loudmouth Northmen.
+andalus_armourysmith.makeandaluslegs=aldarae lays elajana likasr alssaqin walakunah bialtaakid 'afdal min aleilaj. 'ant la turid 'an takun mshlwlana fi almaqam al'awal alan , 'alays kdhlk? / Armor ain't no cure to broken legs but it sure is better than a cure. Wouldn't wanna be a cripple in the first place now would ya? 
+andalus_armourysmith.makeandaluslegs=yumkinuk alaietimad ealaa fawladhi. / You can count on my steel.
+andalus_armourysmith.makeandalusboots=yahtaj kl musafir 'iilaa zawj 'ahdhiyat jayd. / Every traveler needs a good pair of boots. 
+andalus_armourysmith.makeandalusspear=alnuqtat alty mufaduha 'ana alramh hu silah almushajarat almutafawiq hi alnuqtat alty yumkinuni alwuquf bijanibiha hataa 'umut. /  The point that a spear is the superior melee weapon is a point I can stand by till I die.
+andalus_armourysmith.makeandalusspear='alsaqaha binihayat mudababa! / Stick 'em with the pointy end!
+andalus_armourysmith.makeandalusspear='aet bedana min hula' lirijalik wadeihim fi tashkil sulb. sayuqaf dhlk silah alfursan mytana fi musaratih. / Give some of these to your men and put them in a solid formation. That'll stop a cavalry charge dead in its tracks.
+andalus_armourysmith.greeting=la tahtamu bishira' 'adwat jurliin min sanie al'adawat hdha. al'adat alwahidat alty satahtajuha hi 'adat harb jayidat altasamim! / Don't bother buying girly instruments from that toolsmith. The only tool you'll ever need is a fine-built tool of war!
+
+andalus_fortarmourysmith.makeandalushelmet='iidha aikhtar hula' alfalasifat khawdhat 'aw athnatayn miniyin , faqad yusaeid dhlk fi himayat tafkirihim almujrid. / If only those philosophers picked up a helmet or two from me, it might help protect their abstract thinking.
+andalus_fortarmourysmith.makeandalushelmet=qabl muhawalat qutil shakhs ma , yjb 'an yuhawil almar' awlaan 'alaa yuqtl bishim tayish fi alraas. / Before trying to kill someone, one must first try not to get killed with a stray arrow to the head.
+andalus_fortarmourysmith.makeandalushelmet=alkhawdhat hi 'afdal sidiyq lilmuharib. / The helmet is a warrior's best friend.
+andalus_fortarmourysmith.gopraymalemuslim=barak =Allah fi fawladhi. / May God bless my steel.
+andalus_fortarmourysmith.gopraymalemuslim='atasa'al limadha jaealani =Allah hdadana? / I wonder why God made me a smith?
+andalus_fortarmourysmith.gorest=alrrahat aljayidat satukhafif min alam zahri. / A good rest should ease my aching back.
+andalus_fortarmourysmith.gorest=rubama taetini 'ahlami 'ilhamana lieamal alghid. / Maybe my dreams will give me inspiration for tomorrow's work.
+andalus_fortarmourysmith.gosocialise=hal sameta? alkalimat hi 'an hnak hdha alshay' alsihriu min alshrq yusamaa fawaladh dimashq. / Have you heard? Word is there's this magical thing from the east called Damascus steel. 
+andalus_fortarmourysmith.gosocialise=almatraqat almaedaniat la tataqadam fi aleumr abdana , lkn yjb ealaa alrajul alkhuruj min almanzil bayn alhin walakhir. / Hammering metal never gets old but a man's gotta go outside every now and then.
+andalus_fortarmourysmith.makeandalusplate=aldarae aljayd qad yasnae alfariq bayn alhayat walmawt. / Good armor might just make the difference between life and death.
+andalus_fortarmourysmith.makeandalusplate=yjb 'an tadfae li mblghana 'idafyana mqabl sune dareik $ name , fa'ant 'akbar min hawla' alshamaliiyn alsaakhibina. / You should pay me extra for making your armor $name, you're bigger than those loudmouth Northmen.
+andalus_fortarmourysmith.makeandaluslegs=aldarae lays elajana likasr alssaqin walakunah bialtaakid 'afdal min aleilaj. 'ant la turid 'an takun mshlwlana fi almaqam al'awal alan , 'alays kdhlk? / Armor ain't no cure to broken legs but it sure is better than a cure. Wouldn't wanna be a cripple in the first place now would ya? 
+andalus_fortarmourysmith.makeandaluslegs=yumkinuk alaietimad ealaa fawladhi. / You can count on my steel.
+andalus_fortarmourysmith.makeandalusboots=yahtaj kl musafir 'iilaa zawj 'ahdhiyat jayd. / Every traveler needs a good pair of boots. 
+andalus_fortarmourysmith.makeandalusspear=alnuqtat alty mufaduha 'ana alramh hu silah almushajarat almutafawiq hi alnuqtat alty yumkinuni alwuquf bijanibiha hataa 'umut. /  The point that a spear is the superior melee weapon is a point I can stand by till I die.
+andalus_fortarmourysmith.makeandalusspear='alsaqaha binihayat mudababa! / Stick 'em with the pointy end!
+andalus_fortarmourysmith.makeandalusspear='aet bedana min hula' lirijalik wadeihim fi tashkil sulb. sayuqaf dhlk silah alfursan mytana fi musaratih. / Give some of these to your men and put them in a solid formation. That'll stop a cavalry charge dead in its tracks.
+andalus_fortarmourysmith.greeting=la tahtamu bishira' 'adwat jurliin min sanie al'adawat hdha. al'adat alwahidat alty satahtajuha hi 'adat harb jayidat altasamim! / Don't bother buying girly instruments from that toolsmith. The only tool you'll ever need is a fine-built tool of war!
+
+andalus_sheikh.greeting=naharuk saeid ya $name. marhabaan bikum fi qaryatina almutawadieat. / Good day, $name. Welcome to our humble village.
+andalus_sheikh.greeting=$name, hal taerif ean maerakat ghuadalit? / $name, do you know about the battle of Guadalete?
+andalus_sheikh.patrol='abna' alnabii yutalibun bihadhih al'ard biaism al'iislam! / The sons of the Prophet claim this land in the name of Islam! 
+andalus_sheikh.patrol=yjb ealaa shakhs ma 'iislah hadhih al'aradi alty mazaqatha alharb. / Someone must mend these war-torn lands. 
+
+andalus_richtrader.greeting=nhark saeid ya $name. taeal wadaena nhqiq rbhana meana fi hadha alealm! / Good day, $name. Come and let us make a profit together in this world!
+andalus_richtrader.greeting=ladayi alkthyr min alqasas li'arwiiha ean alealam alqadim ya $name laqad qumt bitabadul albadayie min 'amakin baeidatan mithl misr wasaqliatin. / I always have many stories to tell about the old world, $name. I've traded goods from places as far as Egypt and Sicily.
+andalus_sheikh.patrol=la daei lilqalaq bishan allusus fahasb , bal ealayna himayat qawafiluna min alwuhush aydana! / Not only do we have to worry about bandits, we have to protect our caravans from monsters too!
+andalus_sheikh.patrol=la tuqaliq ya $name. yumkin liltijar daymana albahth ean maladh fi qaryatina. / Don't worry, $name. Traders can always seek refuge in our village.
+
+andalus_cook.gorest=sa'anam waeayni maftuhatan. la 'urid 'an 'atruk hula' alghilan yadeun 'aydihim alqudhrat ealaa hidayay! / I'll sleep with my eyes open. Wouldn't want to let those ghouls get their filthy hands on my treats!
+andalus_cook.gopraymalemuslim='arju min =Allah 'an yanurani biwasfat jadidatan! / I hope God enlightens me with a new recipe!
+andalus_cook.makecake=hadhih alkiekat laysat kadhibat. / This cake is not a lie.
+andalus_cook.makecouscous=sayakun hdha tbqana layqana lil'amira! / This will be a dish fit for an emir!
+andalus_cook.gosocialise='atamanaa 'an 'atamakan min alsafar hawl alealam watudhawq jmye 'anwae altueami. 'arahan ealaa 'anah la yujad shay' yudahi almutabikh alraayie liqaryatina. / I wish I could travel the world and taste all kinds of food. I bet nothing will match the fine cuisine of our village though.
+andalus_cook.gosocialise='iinah li'amr jayid 'anah lays ladayna kuhul huna , falan 'udtur 'iilaa tard alsukaraa min musasati. / It's a good thing we don't have alcohol here, I wouldn't have to kick drunkards off my establishment.
+andalus_cook.tendfurnacekitchen=hadhih al'afran sahriat , tantafi min tilqa' nafsiha eindama yakun altaeam jahzana! / These furnaces are magical, they turn off by themselves when the food is ready!
+
+andalus_peasantwife.deliverResourcesShop=hamf , zujiun yastamiru fi nabah al'awamir li maratan 'ukhraa. aietaqadat 'an hdha kan eamal aimra'a! / Hmph, my husband keeps barking orders at me again. I thought that was a woman's job!
+andalus_peasantwife.GetHouseTHResources=han alwaqt lilhusul ealaa shay' lizuji almuzeaj maratan 'ukhraa. / Time to get something for my nagging husband again.
+andalus_peasantwife.bringBackResourcesHome="ajilib hdha aljalba" fi yawm min al'ayam sa'utlib minh 'iihdarah binafasaha! / "Fetch this fetch that" One day I'll tell him to fetch it himself!
+
+andalus_cookwife.Cooking=sa'arih man hu 'afdal tabakhan! / I'll show him who's the better cook!
+andalus_cookwife.Cooking=alnisa' tabaakhat 'afdal min alrajali. alrijal mutawahshun lilghayat fi altaeamul mae altaeam. / Women are better cooks than men. Men are too brutish at handling food.
+andalus_cookwife.gosocialise=han alwaqt akhyrana lilaistirahat limarat wahida / It's finally time to go on a break for once.
+
+andalus_cottonfarmer.gorest=ymkn 'an tantazir ziraeat alqatn , han waqt alnuwm. / Cotton farming can wait, it's time to sleep.
+andalus_cottonfarmer.plantcottonhome='aftaqid huqul alqatn alshshasieat fi alwatn. hdha almajal almutawadie lays syyana lilghayati. / I miss the vast cotton fields back home. This humble field isn't too bad though.
+andalus_cottonfarmer.harvestcottonhome=awh , eindama tataeafan kurat alqatn , la yumkinuk qatf alkthyr min alqatn. / Oh, when them cotton balls get rotten, you can't pick very much cotton. 
+andalus_cottonfarmer.plantcotton=sawf tanmu hadhih litusbih 'anqaa qatn rayatah ealaa al'iitlaq! / These will grow into the purest cotton you've ever seen!
+andalus_cottonfarmer.harvestcotton=hal sabaq lak 'an lahazt 'ana almahasil tanmu bishakl 'asrae fi hadha almkan? / Have you ever noticed that crops grow faster in this place?
+
+andalus_fisherman.fish=min 'ayn tati hadhih al'asmak? lahzatan wahidat , ybdw alma' safyaan wabaed dhlk faj'atan , yumkinuni aistidea' al'asmak biastikhdam sanarat alsayd alkhasat by! / Where do these fish come from? One moment, the water seems clear and then all of the sudden, I can summon fish with my fishing rod!
+andalus_fisherman.fish=alyawm ybdw waka'anah yawm jayid lasid al'asmak. / Today seems like a good day for fishing.
+andalus_fisherman.gorest='arghab fi muasalat alsayd laylanaan lkn yjb 'an 'aeud 'iilaa zawjti. lays liljahim ghadab mithl aizdira' almar'at. / I'd like to continue fishing at night but I should go back to my wife. Hell hath no fury like a woman scorned.
+
+andalus_imam.gopraymalemuslim=sawf yamnahuna al'iiman al'amal fi hadhih al'aradi almudtarabat. / Faith shall give us hope in these troubled lands.
+andalus_imam.gopraymalemuslim=yukarim =Allah khadimah almutawadie bihudurih. / God honors His humble servant with His prescence.
+andalus_imam.makeBooks=yjb 'an nunshur taealiam alrasul ealaa nitaq wasei. shaebina bihajat 'iilaa altawjihi. / We must spread the Prophet's teachings far and wide. Our people need guidance.
+andalus_imam.makecarvedwood='iina muhawalat takrar kamal =Allah bi'ayqunat tajdifiat amr la yumkin tasawuruh. min al'afdal ruyat aljamal fi al'anmat. / Attempting to replicate God's perfection with blasphemous icons is unthinkable. Beauty is best seen in patterns.
+
+andalus_lumberman.BringBackResourcesHome='atamanaa 'an 'ahmil 'akbar eadad min alkutl mithlak ya $name. / I wish I could carry as many blocks as you, $name.
+andalus_lumberman.BringBackResourcesHome=sahb al'akhshab hu 'aqalu juz' mufadil laday fi hadhih alwazifati. / Hauling timber is my least favorite part of this job. 
+andalus_lumberman.ChopTrees='iidha saqatat shajarat fi ghabat walam yasmaeha ahd , fahal tasdur swtana? / If a tree falls in a forest and no one is around to hear it, does it make a sound? 
+andalus_lumberman.ChopTrees=taqtie khasilat shaear la tusbih qadimatun. / Chopping tress never gets old.
+
+andalus_miller.makehay='ala tuhibu faqat rayihat alqash altaazija? yadhkarni kathiraan bialmunzil. / Don't you just love the smell of fresh hay? It reminds me so much of home.
+
+andalus_miner.Mining=hataa alrijal al'ahrar yumkinuhum 'an yastaebiduu. wa'illa kayf yjb 'an nuksib rawatibuna? / Even free men can slave away. How else should we earn our pay?
+andalus_miner.Mining=la yafham almuhndisun almuemariuwn sueubat eummal almunajim. / Architects just don't understand the stuggle of a miner. 
+andalus_miner.Mining='atasa'al kayf hu alhal fi qae alealam ... / I wonder what it's like at the bottom of the world...
+
+andalus_peasant.harvestwheatpaddy='iinah mawsim alhasad! / It's harvesting season!
+
+andalus_philosopher.gopraymalemuslim=sayuslit =Allah aldaw' ealaa 'asrar alkun. / God will shed light on the secrets of the universe.
+andalus_philosopher.makeBooks=ln 'asmah lilmutaeasibin biharq katabna maratan 'ukhraa. almustaqbal sayahzun ealaa mawt easr dhahabiin 'iidha lm nuhafiz ealaa muerifatina. / I won't let fanatics burn our books again. The future would mourn the death of a golden age if we don't preserve our knowledge. 
+andalus_philosopher.makeBooks=hnak alkthyr lilkitabat eanh fi hadha alealam almumtali. qad tahtaj taealimana alqadimat 'iilaa 'iieadat katabatiha bialkamil. / There's so much to write about in this blocky world. Our old teachings may need to be completely rewritten.
+andalus_philosopher.makeBooks=yatakawan alrajul aleayim min ahad wa'asfarin. / The floating man is composed of ones and zeroes.
+andalus_philosopher.makeBooks=yjb 'an 'uktab 'utruhat ean hadhih almadat algharibat tusamaa ridustun. / I must write a treatise on this exotic substance called redstone. 
+
+andalus_physician.greeting='ahlaan $name. hal ladayk taraf litajnibah? / Hello, $name. Do you have a limb to spare?
+andalus_physician.greeting=sa'aelamuk 'ana khadamati qad tukalifuk dhraeana wrjlaan , $name. / I'll have you know my services may cost you an arm and a leg, $name.
+andalus_physician.greeting=... awlaan , yjbu 'an naktasib damagh bashari. / ... first, we must acquire a human brain.
+andalus_physician.greeting=nem hsnana jdana , laday eilaj jayid ya sayidi bila shakin nem 'ana tabibun. / Yes hmm quite very well I have the cure good sir indubitably yes I am a doctor.
+andalus_physician.makehealthpotion=hadha lays shueudhat ya $name. 'iinaha falisifat tabieiat fi aleuml! / This isn't sorcery, $name. It's natural philosophy at work!
+andalus_physician.makeregenpotion=dumue ghwst? limadha aihtaj hula'? / Ghast tears? Why would I need those?
+andalus_physician.makeminttea=hadha lays mshrwbana eadyana ya sadiqi. yumkin 'an yuealij ma yuzeijuka. la , hadhih laysat eamaliat aihtialin. / This is no ordinary drink, my friend. It can cure what ails you. No, this is not a scam.
+
+andalus_physicianwife.gathermint=al'akadimiat qasiat bialnisbat lina. yusbih alrijal 'atibaa' marmuqin walnisa' yasbahn khadimatin. *sigh* / The academy is unkind to us. Men become presigious doctors and women become errand girls. *sigh*
+andalus_physicianwife.pickredflower=qal rajul hakim dhat maratan: "ma min 'aeshab la qimatan laha , 'iinama naqs almuerifata". / A wise man once said: "There are no worthless herbs - only the lack of knowledge".
+
+andalus_soldier.greeting=hal ra'ayt 'ayu mutasalilin ya $name? / Have you seen any intruders, $name?
+andalus_soldier.greeting=kun ealaa 'uhbat alaistiedad , $name. yumkin lilwuhush wallusus alkhuruj min al'amakin almuzlimat. / Be on your guard, $name. Monsters and thieves can spring out of dark places. 
+andalus_soldier.gopraymalemuslim=ya =Allah , 'aeatna alquat fi almaerakati. / God, give us strength in battle.
+andalus_soldier.patrol='ay manh tama nasharaha alyawma? / Any bounties posted today?
+andalus_soldier.patrol= *snore*
+andalus_soldier.patrol='ataraa hula' almuharibin min barisa? ladayhim sayuf mustaqimat. shuqra'a. alsuyuf. / You see those warriors from Paris? They've got straight swords. Straight. Swords.
+
+viking_merchant.keepstall=Víkingatöfrar eru kraftmiklir töfrar. / Viking magic is powerful magic.
+viking_merchant.keepstall=Komdu og keyptu. Ég skal ekki segja þér hvaða fórnir voru færðar til að gera þessa verndargripi sterka / Come and buy. I won't tell you what sacrifices were made to make those amulets strong.
+viking_merchant.greeting=Í dag kem ég til að versla. Á morgun ... / Today I come to trade. Tomorrow...
+viking_merchant.greeting=Þetta land er víkingaland. England er víkingaland. Sikiley er víkingaland. Við drottnum! / This land is viking land. England is viking land. Sicily is viking land. We rule!
+viking_merchant.greeting=HVAÐ?! Á þessum stað er ekkert áfengi? / WHAT?! This place doesn't have any alcohol?
+
+merchant_byzantine.keepstall=Margaritária prin apó tous choírous, ópos léne edó. / Pearls before swines, as they say here.
+merchant_byzantine.greeting=Akómi kai i póli tis Kórdova den boreí na synkritheí me tin Konstantinoúpoli. / Even the city of Cordoba cannot compare to the greatness of Constantinople.
+merchant_byzantine.greeting=Oi ánthropoi edó eínai várvaroi kai prodótes. / People here are barbarians and traitors.
+merchant_byzantine.greeting=Eímaste oi teleftaíoi alithinoí Romaíoi. Apoláfste ti dóxa tou politismoú mas! / We are the last true Romans. Bask in the glory of our civilisation!
+
+cider_smuggler.keepstall=Voudriez-vous, messieurs, partager quelques pintes avec moi? / Gentlemen, would you like to share a few pints with me?
+cider_smuggler.greeting=Non, je ne m'appelle pas Sigmar Heldenhammer. / No, my name is not Sigmar Heldenhammer.
+cider_smuggler.greeting=Il n'y a rien de mal à ce qu'un homme cherche à gagner sa vie honnêtement. / Nothing wrong with a man looking to earn an honest living.
+cider_smuggler.greeting=Etrange, est-ce que je viens de voir un reflet de moi-même il y a quelque temps? / Strange, did I just see a reflection of myself a while ago?
+
+andalus_toolsmith.greeting=la tade mahwus almaerakat yadae yadayh ealaa fuladhik 'afdal aistikhdam lilsalb hu algharad alnabil lilbana'. / Don't let that battle maniac get his hands on your steel. Steel is best used for the noble purpose of construction.
+andalus_toolsmith.greeting=lm 'aqabil aimra'at 'afdal minha. kanat hadhih almatriqat alnazifat walmudhhilat hi 'usadiq wa'ahda zawjatan marart biha ealaa al'iitlaq! / I haven't met a finer woman than she. This stunningly beautiful clean-built hammer has been the truest, quietest wife I've ever had!
+andalus_toolsmith.makelampstand=sayahtariq hdha lifatrat 'atwal bkthyr min misbah alzayt aleadi. 'atasa'al limadha la nastakhdim almazid min hula' ... / This'll burn far longer than your average oil lamp. I wonder why we won't use more of these ...
+
+andalus_tanner.greeting=hal tusadif 'an ladayk bed =Allahm alfasid ya $name? qad ybdw hdha ghrybana , lakunni ealaa aistiedad lidafe thaman huala' ... / Do you happen to have some rotten flesh, $name? This might sound weird, but I'm willing to pay for those ...
+andalus_tanner.gorest=han alwaqt li'akhdh qast min alrrahat min tilk alraayihat alkarihat. / Time to take a break from that foul smell. 
+andalus_tanner.makeleather=la tuqil liljunud ma hi almalabis almasnueat minha , fabaedahum muwmin bialkharafat ... / Don't tell the soldiers what their tunics are made of, some of them are very superstitious ...
+andalus_tanner.makesaddle=limadha tuajih mushkilat aleuthur ealaa alsuruj baynama yumkinuk faqat saneaha? / Why go through the trouble of finding saddles when you can just make em?
+andalus_tanner.makeleatherchest=la tuqaliq 'iidha kan allawn albani bahtana jdana balnsbt lk , fa'iin 'afdal juz' fi alsatr hu hqyqt 'anah yumkinuk sabghuha. / Don't worry if brown is too dull for you, the best part about tunics is the fact that you can dye them.
+andalus_tanner.makeleatherboots=hal turid 'iiqnae alnisa'? artdy hdhh! / Wanna impress the women? Wear these!
+andalus_tanner.makeleatherlegs=lays kthyrana walakunah qad ywqf shmana. / It ain't much but it might stop an arrow.
+andalus_tanner.makeleatherhelmet=hadha ln yahmik min alshams biqadr ma yahmik alkufiat , lakanh qad yukhafaf min tathir alsuwlajan. / This won't shield you from the sun as much as a kufiya but it might dampen the impact of a mace.
+
+

@@ -1,0 +1,5 @@
+travelbook.trade_good.viking_boots.desc=Ces bottes robustes sont idéales pour de longues marches àtravers divers terrains où les Vikings se trouvent
+travelbook.trade_good.viking_helmet.desc=Les guerriers ont donné la priorité à l’obtention d’un bon casque avant toute autre chose. Ce casque a des protecteurs oculaires qui ressemblent à des lunettes et sont donc appelés "casques de spectacle".
+travelbook.trade_good.viking_legs.desc=Cette armure protège l’aventurier avide des flèches qui fendent les genoux.
+travelbook.trade_good.viking_plate.desc=Cette chemise de courrier s’appelle un hauberk et elle est faite de milliers d’anneaux de fer entrelacés. N’oubliez pas de le mettre au repos près du pont de Stamford.
+travelbook.trade_good.viking_sword.desc=Les épées étaient généralement plus chères que les haches et les lances, mais c’était la marque d’un guerrier. Cette épée à double tranchant a une petite croix et un grand pommeau.

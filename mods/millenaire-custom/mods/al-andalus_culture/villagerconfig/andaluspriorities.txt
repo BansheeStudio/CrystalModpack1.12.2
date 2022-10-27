@@ -1,0 +1,33 @@
+//Weapons list, with priority for use (which weapon the villager will use when fighting)
+weaponHandToHandPriority=andalusspear,100
+
+//Tools, including swords, with rating so that villagers will pick a "better" one if available
+toolSwordPriority=andalusspear,100
+
+// Armour, by category
+armourHelmetPriority=andalushelmet,100
+
+armourChestplatePriority=andalusplate,100
+
+armourLeggingsPriority=andaluslegs,100
+
+armourBootsPriority=andalusboots,100
+
+
+//Muslims don't eat pork and flesheaters
+foodGrowthValue=porkchopscooked,0
+foodGrowthValue=tripes,0
+foodGrowthValue=boudin,0
+foodConceptionValue=inuitbearstew,0
+foodConceptionValue=bearmeat_cooked,0
+foodConceptionValue=wolfmeat_cooked,0
+foodGrowthValue=couscous,4
+foodGrowthValue=dates,2
+
+
+//Muslims don't drink alcohol
+foodConceptionValue=winebasic,0
+foodConceptionValue=cider,0
+foodConceptionValue=calva,0
+foodConceptionValue=winefancy,0
+foodConceptionValue=mint_tea,2

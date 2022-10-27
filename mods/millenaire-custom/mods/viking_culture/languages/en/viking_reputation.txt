@@ -1,0 +1,17 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;Make yourself feel at home, stranger. You will find our little village quite hospitable.
+4*64;Familiarity;We have noticed you among us for quite some time now. Stay Peaceful and we will do the same.
+8*64;Known Face;You seem to have made a good impression on many of us. Perhaps we will get along quite well.
+16*64;Beloved Guest;Welcome, $name! It's good to see you again.
+32*64;Fellow Explorer;Huh, you seem to also be stranded in this world. Well, we can explore this new place together and make a profit!
+64*64;Favourite Trader;Ah, $name! What fine goods do you bring us today?
+2*64*64;Friend of the Village;You have proven that we can trust outsiders such as you. Please feel free to stay with us.
+4*64*64;Ally;$name, you have been so helpful to our people. We thank the gods for bringing us together. 
+8*64*64;One of Us;It's always a pleasure to see you $name. You may come from distant lands, but you are really one of us now.
+32*64*64;Natural Leader;$name, you have gained the trust and respect of the Northmen. They will follow you anywhere.
+4*32*64*64;Great Sea-King;Fate has brought our people a great champion, one who will lead us to greatness, and that champion is none other than you, $name! Long live $name the great, chosen amongst kings!
+-64;Nuisance;Oh, it's you again...
+-4*64;Unwelcome Guest;You have shown to be a real nuisance around here. We urge you to bring your mishaps elsewhere.
+-16*64;Public Enemy;You know what? I think you look better with a spear lodged into your face.
+-64*64;Scornful One;Your presence here is frowned upon by all of the gods. May Thor strike you dead and drag you to the depths of Helheim!

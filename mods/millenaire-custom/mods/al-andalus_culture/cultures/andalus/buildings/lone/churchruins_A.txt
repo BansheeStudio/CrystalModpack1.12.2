@@ -1,0 +1,24 @@
+building.length=25
+building.width=33
+building.buildingorientation=1
+building.fixedorientation=south
+building.icon=stonebrick
+building.max=0
+
+initial.startlevel=-5
+initial.nativename=Anqad Alkanisa
+initial.priority=3000
+initial.male=andalus_loneartisan
+initial.tag=grove
+initial.tag=stonecrafter
+initial.shop=churchruins
+initial.signs=3,4,0,1,2,5,6,7,8
+
+upgrade1.priority=2500
+
+upgrade2.priority=2250
+
+upgrade3.priority=2000
+
+upgrade4.priority=1900
+

@@ -1,0 +1,10 @@
+building.length=26
+building.width=26
+building.travelbook_display=false
+building.issubbuilding=true
+building.parentbuildingplan=lonemosque_A0
+
+initial.startlevel=-1
+initial.tag=patrol
+initial.nativename=Minaret
+

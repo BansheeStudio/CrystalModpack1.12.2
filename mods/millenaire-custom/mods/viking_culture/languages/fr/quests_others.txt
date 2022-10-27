@@ -1,0 +1,17 @@
+//Viking Basic
+
+vikingheadcointoss_0_label=Sentez la chance
+vikingheadcointoss_0_description=Tu veux perdre de l’argent aujourd’hui ?
+Permettez-moi de tirer à pile ou face. Si se sont des têtes, vous obtenez une pièce supplémentaire. Si se sont des queues, je la garde!
+vikingheadcointoss_0_description_success=Pile. D’accord, tu peux prendre ma pièce mais tu n’auras pas cette chance la prochaine fois !
+vikingheadcointoss_0_description_refuse=Comme vous voulez.
+
+vikingtailcointoss_0_label=Sentez la chance
+vikingtailcointoss_0_description=Tu veux perdre de l'argent aujourd'hui ? Permettez-moi de tirer à pile ou face. Si ce sont des têtes, vous obtenez une pièce supplémentaire. Si ce sont des queues, je la garde!
+vikingtailcointoss_0_description_success=Têtes! Ce porte-bonheur que j’ai acheté du marchand était la vraie affaire, hein? On dirait que je vais la garder alors ...
+vikingtailcointoss_0_description_refuse=Sentez la chance
+
+duel_0_label=Un duel
+duel_0_description=C’est bon de te voir, $name! Quelqu’un m’a défié à un duel que je ne pouvais pas refuser mais je ne veux pas gaspiller ma toute nouvelle épée sur cette fanfaronnade fillette ! Auriez-vous une lame de plus avec vous ?
+duel_0_description_success=Ça ira. Je vais sculpter son crâne dans une jolie tasse juste pour vous! <3
+duel_0_description_refuse=Très bien, je vais le tuer à mains nues !

@@ -1,0 +1,21 @@
+name=Anqad Alkanisa
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower PLains
+
+mindistancefromspawn=1000
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=lush desert
+biome=outback
+
+//starting buildings=
+centre=churchruins

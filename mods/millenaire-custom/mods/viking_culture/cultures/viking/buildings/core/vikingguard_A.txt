@@ -1,0 +1,29 @@
+//Parameters for the building as a whole
+building.length=29
+building.width=19
+building.buildingorientation=2
+building.max=1
+building.icon=steelsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Vardhus
+initial.priority=950
+initial.male=vikingwarrior
+initial.female=shieldmaiden
+initial.tag=patrol
+
+//Parameters for specific upgrades
+upgrade1.priority=180
+upgrade2.subbuilding=vikingguardbed1
+
+upgrade2.priority=170
+upgrade2.subbuilding=vikingguardbed2
+
+upgrade3.priority=160
+upgrade3.pathlevel=1
+upgrade3.rebuildpath=true
+
+upgrade4.priority=75
+upgrade4.subbuilding=vikingguardbed3
+

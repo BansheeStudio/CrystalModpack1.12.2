@@ -1,0 +1,38 @@
+//Parameters for the building as a whole
+building.length=33
+building.width=27
+building.buildingorientation=3
+building.max=0
+building.version=2
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Hofudbul
+initial.priority=600
+initial.male=jarl
+initial.female=fru
+initial.tag=sheeps
+initial.tag=cattle
+initial.tag=leasure
+initial.shop=vikingtownhall
+initial.signs=5,3,1,2,4,6,8,0,7
+
+//Parameters for specific upgrades
+upgrade1.priority=580
+
+upgrade2.priority=560
+upgrade2.rebuildpath=true
+
+upgrade3.priority=540
+upgrade3.rebuildpath=false
+
+upgrade4.priority=520
+upgrade4.pathlevel=1
+upgrade4.rebuildpath=true
+
+upgrade5.priority=500
+
+upgrade6.priority=480
+
+

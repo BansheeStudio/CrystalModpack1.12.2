@@ -1,0 +1,5 @@
+sells=arrow,bow,viking_boots,viking_helmet,viking_legs,viking_plate,viking_sword
+
+buys=iron,leather,wood,wool_white
+
+deliverto=iron,leather

@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:0.4
+maxsimultaneous:2
+
+step:new
+duration:48
+definevillager:key=startvillager,type=andalus/architect_byzantine,forbiddentag=artisanwine_done
+villager:startvillager
+requiredgood:winefancy,1
+rewardmoney:64
+rewardreputation:256
+settagsuccess:startvillager,artisanwine_done
+settagfailure:startvillager,artisanwine_done

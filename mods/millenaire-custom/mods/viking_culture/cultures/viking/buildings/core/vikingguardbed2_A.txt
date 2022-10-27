@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=29
+building.width=19
+building.areatoclear=0
+building.buildingorientation=2
+building.issubbuilding=true
+building.parentbuildingplan=vikingguard_A2
+building.max=0
+building.icon=steelhelmet
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Hvila
+initial.priority=900
+initial.male=jomsviking

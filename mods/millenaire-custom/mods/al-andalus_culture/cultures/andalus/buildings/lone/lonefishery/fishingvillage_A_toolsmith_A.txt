@@ -1,0 +1,13 @@
+building.length=55
+building.width=55
+building.fixedorientation=south
+building.issubbuilding=true
+building.parentbuildingplan=fishingvillage_A2
+building.max=0
+building.icon=iron
+
+initial.startlevel=-7
+initial.nativename=Adawat
+initial.tag=forge
+initial.male=andalus_toolsmith
+initial.female=andalus_peasantwife

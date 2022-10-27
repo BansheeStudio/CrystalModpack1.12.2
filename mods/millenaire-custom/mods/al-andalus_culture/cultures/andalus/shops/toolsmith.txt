@@ -1,0 +1,5 @@
+sells=steelaxe,steelhoe,steelpickaxe,steelshovel,stoneaxe,stonehoe,stonepickaxe,stoneshovel,lamp_stand,name_tag
+
+buys=cobblestone,iron,ironnugget,wood
+
+deliverto=ironnugget

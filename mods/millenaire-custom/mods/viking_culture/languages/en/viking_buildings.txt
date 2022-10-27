@@ -1,0 +1,79 @@
+
+//core buildings
+
+merc_house_A0=Mercenary House
+merc_house_A_bed0_A0=Mercenary Bed
+merc_house_A_bed1_A0=Mercenary Bed
+vikingcattlefarm_A0=Cattle Farm
+vikingfarm_A0=Farm
+vikingfishery_A0=Fishery
+vikingforge_A0=Forge
+vikinggrove_A0=Grove
+vikinggrove2_A0=Grove
+vikingguard_A0=Guard House
+vikingguardbed1_A0=Soldier's Quarters
+vikingguardbed2_A0=Soldier's Quarters
+vikingguardbed3_A0=Soldier's Quarters
+vikinginn_A0=Inn
+vikinglumberman_A0=Lumberman's House
+vikinglumberman_B0=Lumberman's House
+vikingmarket_A0=Market
+vikingquarry_A0=Quarry
+vikingsheepfarm_A0=Sheep Farm
+vikingtemple_A0=Temple
+vikingtemple_A_berserker0_A0=Berserker
+vikingtemple_A_berserker1_A0=Berserker
+vikingwatchtower_A0= Watchtower
+vikingweaponforge_A0= Weapon Forge
+vikingwheatfarm_A0=Wheat Farm
+vikingworkshop_A0=Workshop
+vikingwell_A0=Well
+
+
+//lone buildings
+
+clanhall_A0=Clan Hall
+jomsvikingoutpost_A0=Jomsviking Outpost
+raidercamp_A0=Raider Camp
+raiderlair_A0=Raider Lair
+shipburial_A0=Ship Burial
+
+
+//player buildings
+
+playerfort_A0=Fortress
+playerfort_A_armoury_A0=Fortress Armoury
+playerfort_A_barracks0_A0=Fortress Barracks
+playerfort_A_barracks1_A0=Fortress Barracks
+playerfort_A_barracks2_A0=Fortress Barracks
+playerfort_A_barracks3_A0=Fortress Barracks
+playerlonghouse_A0=Longhouse
+smallnorseplayerhouse_A0=Small House
+
+
+//townhall buildings
+
+jarllonghouse_A0=Jarl's Longhouse
+vikingmanor_A0=Manor
+vikingtownhall_A0=Townhall
+
+
+//walls
+
+full_wall_gateway_a0=Village Gate
+full_wall_a0=Village Wall
+full_wall_slope_right1_a0=Village Wall
+full_wall_slope_right2_a0=Village Wall
+full_wall_slope_left3_a0=Village Wall
+full_wall_slope_left2_a0=Village Wall
+full_wall_slope_left1_a0=Village Wall
+full_wall_slope_right3_a0=Village Wall
+
+full_wall_cap_both_a0=End Wall
+full_wall_cap_right_a0=End Wall
+full_wall_cap_left_a0=End Wall
+full_wall_corner_a0=Corner Tower
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)

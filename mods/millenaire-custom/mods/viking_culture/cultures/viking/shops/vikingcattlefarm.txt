@@ -1,0 +1,3 @@
+sells=leather,beefraw,beefcooked,bone
+
+buys=wheat,beefraw

@@ -1,0 +1,19 @@
+building.length=15
+building.width=15
+building.areatoclear=3
+building.max=1
+
+building.icon=olives
+
+initial.startlevel=-1
+initial.nativename=Mazraeat Zayitun
+initial.tag=olivepress
+initial.tag=olives
+initial.tag=leasure
+initial.tag=patrol
+initial.tag=nopaths
+initial.priority=100
+initial.shop=olivefarm
+
+upgrade1.priority=200
+

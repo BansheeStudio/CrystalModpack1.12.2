@@ -1,0 +1,14 @@
+building.length=55
+building.width=55
+building.fixedorientation=south
+building.issubbuilding=true
+building.parentbuildingplan=fishingvillage_A1
+building.max=0
+building.icon=mutton
+
+initial.startlevel=-7
+initial.nativename=Mazraeat Al'aghnam
+initial.tag=slaughtersheepseljuk
+initial.tag=sheeps
+initial.male=andalus_shepherd
+initial.female=andalus_shepherdwife

@@ -1,0 +1,9 @@
+building.length=25
+building.width=7
+building.startinggood=bread,1.0,2,6
+building.startinggood=denier,1.0,20,44
+
+building.icon=stone
+
+initial.startlevel=-1
+initial.nativename=Atlal Alqnat Alruwmania

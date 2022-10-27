@@ -1,0 +1,23 @@
+building.length=17
+building.width=21
+building.buildingorientation=1
+building.max=2
+building.mindistance=0.2
+building.areatoclear=3
+
+building.icon=beefraw
+
+initial.startlevel=-1
+initial.nativename=Mazraeat Abqar
+initial.priority=600
+initial.male=andalus_cowfarmer
+initial.female=andalus_cowfarmerwife
+initial.tag=slaughtercowseljuk
+initial.tag=cattle
+initial.shop=cowfarm
+
+upgrade1.priority=200
+
+upgrade2.priority=190
+
+upgrade3.priority=180

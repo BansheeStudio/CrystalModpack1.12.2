@@ -1,0 +1,13 @@
+building.length=16
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.reputation=6192
+building.price=2048
+
+building.icon=saddle
+
+initial.startlevel=-1
+initial.nativename=Alastblat
+initial.priority=1000000
+initial.pathlevel=1

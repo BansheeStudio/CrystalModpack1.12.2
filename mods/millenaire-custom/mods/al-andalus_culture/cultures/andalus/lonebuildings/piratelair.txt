@@ -1,0 +1,17 @@
+name=Makhba Alqurasina
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Savanna
+biome=River
+biome=Beach
+
+//biomes o'plenty
+biome=origin island
+biome=white beach
+biome=mangrove
+biome=gravel beach
+
+//starting buildings=
+centre=piratelair

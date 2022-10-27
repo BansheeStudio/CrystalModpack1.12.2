@@ -1,0 +1,18 @@
+building.length=41
+building.width=41
+building.max=0
+building.issubbuilding=true
+building.parentbuildingplan=playerfort_A3
+building.travelbook_display=false
+
+building.icon=anvil
+
+initial.startlevel=-4
+initial.nativename=Vygi Smidur
+initial.male=vikingweaponsmith
+initial.priority=400
+initial.tag=armoury
+initial.tag=forge
+initial.shop=vikingforge
+
+upgrade1.priority=200

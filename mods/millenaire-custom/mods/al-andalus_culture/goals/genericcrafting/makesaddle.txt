@@ -1,0 +1,14 @@
+priority=50
+reoccurdelay=60000
+duration=40000
+
+heldItems=leather,saddle
+
+input=leather,5
+output=saddle,1
+
+buildinglimit=saddle,3
+
+maxsimultaneousinbuilding=1
+
+sound=wool

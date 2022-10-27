@@ -1,0 +1,13 @@
+priority=35
+priorityrandom=10
+
+buildingtag=mine
+
+townhalllimit=diorite,768
+
+sourceblockstate=minecraft:stone;variant=diorite
+
+range=4
+sentencekey=mining
+
+loot=diorite,4

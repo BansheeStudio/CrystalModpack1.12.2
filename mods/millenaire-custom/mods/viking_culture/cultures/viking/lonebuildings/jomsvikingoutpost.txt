@@ -1,0 +1,27 @@
+name=Trelleborg
+weight=10
+radius=25
+carriesraid=true
+
+mindistancefromspawn=600
+
+//vanilla biomes
+biome=ice plains
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=taiga
+biome=TaigaHills
+biome=Taiga M
+biome=Extreme Hills
+biome=Extreme Hills M
+biome=river
+
+//biomes o'plenty
+biome=snowy coniferous forest
+biome=boreal forest
+biome=coniferous forest
+biome=mountain foothills
+
+//starting buildings=
+centre=jomsvikingoutpost

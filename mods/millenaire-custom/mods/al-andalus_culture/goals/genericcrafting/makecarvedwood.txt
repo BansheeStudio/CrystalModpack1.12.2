@@ -1,0 +1,17 @@
+priority=40
+
+duration=5000
+reoccurdelay=6000
+
+sentencekey=makecarvedwood
+labelkey=makecarvedwood
+
+heldItems=wood,carved_wood
+
+input=wood_any,1
+output=carved_wood,4
+
+townhalllimit=carved_wood,64
+maxsimultaneousinbuilding=1
+
+sound=wood

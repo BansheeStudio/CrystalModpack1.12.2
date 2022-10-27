@@ -1,0 +1,5 @@
+sells=cooked_mutton,fishcooked,beefcooked,chickenmeatcooked,cake,pistachios,couscous,dates
+
+buys=wheat,mutton,fishraw,beefraw,chickenmeat,sugar,sugarcane
+
+deliverto=wheat,mutton,fishraw,beefraw,chickenmeat,sugar,sugarcane

@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=5
+building.icon=bucketwater
+
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Brunnr
+initial.priority=1000
+initial.tag=pathnode
+initial.irrigation=5
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=90
+upgrade2.pathlevel=1
+upgrade2.irrigation=10

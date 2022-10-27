@@ -1,0 +1,15 @@
+building.length=19
+building.width=21
+building.areatoclear=3
+building.buildingorientation=3
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=hamambath_A0
+building.travelbook_display=false
+
+building.icon=bucketwater
+
+initial.startlevel=-3
+initial.nativename=Hammam
+initial.priority=1000
+initial.tag=bathfemale

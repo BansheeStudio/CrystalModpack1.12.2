@@ -1,0 +1,17 @@
+//Viking Basic
+
+vikingheadcointoss_0_label=Feeling lucky
+vikingheadcointoss_0_description=Wanna lose some money today? Let me flip a coin. If it's heads, you get an extra coin. If it's tails, I keep it! 
+vikingheadcointoss_0_description_success=Tails. Fine, you can take my coin but you won't be so lucky next time!
+vikingheadcointoss_0_description_refuse=Suit yourself.
+
+vikingtailcointoss_0_label=Feeling lucky
+vikingtailcointoss_0_description=Wanna lose some money today? Let me flip a coin. If it's heads, you get an extra coin. If it's tails, I keep it! 
+vikingtailcointoss_0_description_success=Heads! That lucky charm I bought from the merchant was the real deal, huh? Looks like I'll be keeping this then ...
+vikingtailcointoss_0_description_refuse=Suit yourself.
+
+duel_0_label=A duel
+duel_0_description=It's good to see you, $name! Someone challenged me to a duel I just couldn't refuse but I don't want to waste my brand new sword on that girly braggart! Do you happen to have an extra blade with you? 
+duel_0_description_success=This'll do. I'll carve his skull into a pretty mug just for you! <3
+duel_0_description_refuse=Very well, I'll just slay him with my bare hands!
+

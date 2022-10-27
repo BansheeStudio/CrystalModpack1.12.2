@@ -1,0 +1,114 @@
+travelbook.culture.desc=Henning des terres du nord, les Vikings montaient des navires a tete de dragon a travers des tempetes feroces et des eaux frigantes, apportant avec elles la richesse du commerce et les corbeaux de la guerre.
+travelbook.villager.andalus_merchant.desc=Un marchand maure apportant des textiles d'une terre lointaine.
+travelbook.villager.artmerchant.desc=Ce commercant byzantin vend des colorants et des icones, que vous devriez totalement acheter pour assurer le salut eternel.
+travelbook.villager.berserker.desc=
+Beaucoup considerent que ces hommes sauvages ne sont rien de moins que des betes, pour que tout rampant de leur humanite soit depouille par une rage primale et une force non naturelle.
+travelbook.villager.fru=L'epouse de la Jarl est a la fois une mere attentionnee et une regle tactique.
+travelbook.villager.gothi.desc=Un chef religieux paien charge des sacrifices et des rituels.
+travelbook.villager.hostileberserker=Beaucoup considerent que ces hommes sauvages n'etaient rien de moins que des betes, pour que tout rampant de leur humanite est depouille par une rage primale et une force non naturelle
+travelbook.villager.jarl.desc=Le chef du village est un homme tres genereux. Il n'est jamais reticent a partager Mead et le butin de guerre a ses hommes fideles.
+travelbook.villager.jomsviking.desc=Les Jomsvikings sont un ordre de mercenaires merveilleux fondes par Harald Bluetooth, l'un des puits rois du Danemark. Ces guerriers farouchement devoues servent l'une des dernieres bastions de la foi pagan parmi les Norsemen.
+travelbook.villager.jomsvikingbrigand.desc=Les Jomsvikings sont un ordre de mercenaires merveilleux fondes par Harald Bluetooth, l'un des puits rois du Danemark. Ces guerriers farouchement devoues servent l'une des dernieres bastions de la foi pagan parmi les Norsemen.
+travelbook.villager.merchant_weapons.desc=Ce commercant vend une collection d'armes et d'armures normandes a ceux qui pourraient utiliser un peu de savoir-faire normand pour les proteger.
+travelbook.villager.norseboy.desc=Ce jeune garcon passe son enfance a jouer et a apprendre les moyens d'un vrai Viking afin qu'il puisse grandir et contribuer a leur communaute.
+travelbook.villager.norsegirl=Cette jeune fille depense son enfance jouer et apprendre les voies d'un vrai Viking afin qu'elle puisse grandir et contribuer a leur communaute.
+travelbook.villager.raider.desc=Les monasteres et villages non defendus sont des objectifs principaux pour les raiders qui se sont tournes vers une vie de pillage et continuent de ravager la terre a leur guise.
+travelbook.villager.shieldmaiden.desc=Avant, les boucliers-maidens etaient des figures de legende mais dans le Nouveau Monde, ces legendes sont venues a la vie. Maintenant, ils facturent dans la bataille comme Valkyries.
+travelbook.villager.vikingcattlefarmerfemale.desc=L'epouse d'un eleveur d'elevage, elle est egalement importante pour la tension des animaux.
+travelbook.villager.vikingcattlefarmermale.desc=Cet agriculteur est charge de garder le betail.
+travelbook.villager.vikingfarmer.desc=L'agriculteur passe ses journees a cultiver des cultures et prier de Gefjun pour une recolte abondante.
+travelbook.villager.vikingfisherman.desc=Par une journee claire, le pecheur nuit a la mer attendant de longues heures et attrape du poisson tout en etant mefiant de faibles monstres marins.
+travelbook.villager.vikinglumberman=Le bucheron est souvent vu affuter sa hache bien-aimee non seulement pour couper du bois, mais pour diviser egalement les cranes.
+travelbook.villager.vikingmerchant.desc=Un commercant possedant des artefacts magiques qu'il est dispose a vendre au plus offrant.
+travelbook.villager.vikingminer.desc=Le mineur travaille sans relache dans les mines, rassemblant des materiaux importants pour la construction.
+travelbook.villager.vikingsmith.desc=Le village depend de la forgeron de forger leurs outils, armes et armure.
+travelbook.villager.vikingwarrior.desc=Ces guerriers audacieux defendent leur village avec une volonte inebranlable et un raid avec une ferocite sauvage, esperant qu'ils gagneront une place au cote de Odin a Valhalla.
+travelbook.villager.vikingwife.desc=La colonne vertebrale de toute communaute, les humbles femmes vikings sont chargees de garder les villageois nourris, de la construction de structures, de transporter des marchandises et de s'assurer que le mode de vie viking est possible dans ce nouveau monde.
+
+travelbook.village.fortifiedplayercolony.desc=Une colonie fortifiee construite pour le joueur apres avoir gagne le respect des Norsemen
+travelbook.village.agriculturalvillage.desc=Une petite communaute agricole, la fondation de la societe nordique
+travelbook.village.commercialtown.desc=Ce reglement est un centre de commerce
+travelbook.village.town.desc=Un village moyen regne par un jarl
+
+travelbook.building.clanhall.desc=Une grande maison dans le desert ou vivent un culte de berserkers.
+travelbook.building.jarllonghouse.desc=Cette structure robuste est la maison d'un noble riche.
+travelbook.building.jomsvikingoutpost.desc=L'avant-poste d'une bande de voyous de Jomsvikings.
+travelbook.building.norsefortbed0.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.norsefortbed1.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.norsefortbed2.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.norsefortbed3.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.norsefortbed4.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.norsefortbed5.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.playerfort.desc=Une puissant forteresse en bois abritant les ressources de votre village et des retenues fideles.
+travelbook.building.playerlonghouse.desc=Une longueur construite a la demande d'un joueur.
+travelbook.building.raidercamp.desc=La cachette d'un petit groupe de bandits.
+travelbook.building.shipburial.desc=Un navire detruit de la tombe d'un noble decede.
+travelbook.building.smallnorseplayerhouse.desc=Une residence humble reservee au joueur.
+travelbook.building.stavechurch.desc=Une eglise devouee a Dieu tout-puissant.
+travelbook.building.thorwoodstatue.desc=Cette statue en bois represente Thor, le dieu nordique du tonnerre.
+travelbook.building.vikingcattlefarm.desc=Un batiment qui abrite la famille d'un fermier ainsi que son betail.
+travelbook.building.vikingfarm.desc=Ici, le village pousse ses cultures qui sont ensuite recoltees par le fermier.
+travelbook.building.vikingfishery.desc=C'est la maison du pecheur local.
+travelbook.building.vikingforge.desc=La forge est ou les metaux sont soigneusement transformes en une variete d'equipements, y compris des outils et des armes.
+travelbook.building.vikingfort.desc=Une forteresse defensive construite pour resister aux raids.
+travelbook.building.vikingfortfarm.desc=Ici, le village pousse ses cultures qui sont ensuite recoltees par le fermier.
+travelbook.building.vikingfortsmith.desc=La forge est ou les metaux sont soigneusement transformes en une variete d'equipements, y compris des outils et des armes.
+travelbook.building.vikinggrove.desc=Ici, le bois Stout est collecte pour la construction de batiments.
+travelbook.building.vikinggrove2.desc=Ici, le bois Stout est collecte pour la construction de batiments.
+travelbook.building.vikingguard.desc=C'est la que les meilleurs guerriers de la JARL sont rassembles.
+travelbook.building.vikingguardbed1.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.vikingguardbed2.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.vikingguardbed3.desc=Un lit ou un guerrier peut se reposer.
+travelbook.building.vikinginn.desc=Une auberge ou les voyageurs peuvent se reposer. Ces voyageurs sont generalement des marchands locaux.
+travelbook.building.vikinglumberman.desc=La maison du bucheron.
+travelbook.building.vikingmanor.desc=Le Seigneur des Estates environnants reside dans ce manoir.
+travelbook.building.vikingmarket.desc=Le centre commercial et le commerce dans un village.
+travelbook.building.vikingquarry.desc=Les carrieres sont la source de pierre d'un village.
+travelbook.building.vikingsheepfarm.desc=Un endroit ou le berger garde son troupeau. Sa famille vit a proximite.
+travelbook.building.vikingtemple.desc=Ce site sacre est ou Statunch Pagans honorent l'Aesir.
+travelbook.building.vikingtownhall.desc=La salle du village jarl.
+travelbook.building.vikingwatchtower.desc=La tour de guet permet d'apreander les forces ennemies entrantes.
+travelbook.building.vikingwell.desc=Les puits aident les agriculteurs en irrigant des terres agricoles, permettant de recolter des recoltes plus abondantes.
+travelbook.building.vikingworkshop.desc=C'est le poste de travail de l'artisan local.
+
+travelbook.building.borderpost.desc=Un poste de frontiere pour accueillir les invites et leur dire de rembourser l'hospitalite du village en nature avec respect.
+travelbook.building.borderpost_corner.desc=Un poste de frontiere pour accueillir les invites et leur dire de rembourser l'hospitalite du village en nature avec respect.
+travelbook.building.borderpost_gate.desc=Un poste de frontiere pour accueillir les invites et leur dire de rembourser l'hospitalite du village en nature avec respect.
+travelbook.building.full_wall.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_corner.desc=Une tour de laquelle on lance des pierres de lobes et des fleches sur des attaquants malchanceux.
+travelbook.building.full_wall_gateway.desc=Le Gatehouse apporte refuge aux citoyens et a le malheur a la besieger. Les normands sont obsedes par en avoir quatre pour une raison quelconque.
+travelbook.building.full_wall_slope_left1.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_slope_left2.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_slope_left3.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_slope_right1.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_slope_right2.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_slope_right3.desc=Un mur de bois robuste pour garder les maraudeurs a la baie.
+travelbook.building.full_wall_tower.desc=Une tour de laquelle des pierres de lobes et des fleches sur des attaquants malchanceux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+sells=bread,glazed_terracotta_lime,glazed_terracotta_white,glazed_terracotta_brown,carved_wood
+
+buys=mudbrick,wheat,wood,book

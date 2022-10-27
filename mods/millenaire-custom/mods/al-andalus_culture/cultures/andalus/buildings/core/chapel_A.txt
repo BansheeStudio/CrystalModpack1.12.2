@@ -1,0 +1,23 @@
+building.length=16
+building.width=19
+building.buildingorientation=0
+building.icon=torch
+building.fixedorientation=west
+building.max=1
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kanisat Saghira
+initial.priority=100
+initial.tag=praying
+
+upgrade1.priority=400
+
+upgrade2.priority=210
+
+upgrade3.priority=190
+
+upgrade4.priority=110
+
+upgrade5.priority=90

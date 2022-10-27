@@ -1,0 +1,1 @@
+travelbook.villager.searaider.desc=   Norsemen may occasionally sail to Spanish coasts to demand plunder. They are particularly fond of complimenting the heads of their victims.

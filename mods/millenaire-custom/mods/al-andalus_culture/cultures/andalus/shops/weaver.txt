@@ -1,0 +1,7 @@
+sells=wool_white,seljukturban,wallcarpetsmall,wallcarpetmedium,wallcarpetlarge,wool_cyan,wool_blue,wool_red,wool_green,wool_yellow,carpet_green,carpet_blue,carpet_cyan,carpet_red,carpet_yellow,carpet_white
+
+buys=string,leather,wool_white,cotton
+
+buysoptional=dye_lightblue,dye_red,dye_green,dye_yellow,wool_cyan,wool_blue,wool_red,wool_green
+
+deliverto=dye_lightblue,dye_red,dye_green,dye_yellow,string,leather,wool_white,cotton,wool_cyan,wool_blue,wool_red,wool_green,wool_yellow

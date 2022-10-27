@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:0.4
+maxsimultaneous:2
+
+step:new
+definevillager:key=startvillager,type=andalus/andalus_philosopher,forbiddentag=poorscholar_done
+villager:startvillager
+duration:5
+requiredgood:paper,30
+rewardgood:golden_apple,1
+rewardreputation:768
+settagsuccess:startvillager,poorscholar_done
+settagfailure:startvillager,poorscholar_done

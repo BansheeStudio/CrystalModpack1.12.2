@@ -1,0 +1,11 @@
+minreputation:0
+chanceperhour:0.5
+maxsimultaneous:2
+
+step:new
+definevillager:key=startvillager,type=viking/vikingfarmer,forbiddentag=tailcointoss_done
+villager:startvillager
+duration:3
+requiredgood:denieror,1
+settagsuccess:startvillager,tailcointoss_done
+settagfailure:startvillager,tailcointoss_done

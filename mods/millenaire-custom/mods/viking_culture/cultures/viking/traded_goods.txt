@@ -1,0 +1,203 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation,  
+dirtwall,1,0,0,0,0,false,,0,construction
+pathdirt,1,0,0,0,0,false,,0,construction
+pathgravel,2,0,0,0,0,false,,0,construction
+wood,2,1,128,1024,0,false,,0,construction
+wood_pine,2,1,64,256,0,false,,0,construction
+wood_birch,2,1,64,256,0,false,,0,construction
+wood_jungle,2,1,0,64,0,false,,0,construction
+wood_acacia,2,1,0,64,0,false,,0,construction
+wood_darkoak,2,1,0,64,0,false,,0,construction
+wood_any,2,1,128,1024,0,false,,0,construction
+cobblestone,2,1,128,1024,0,false,,0,construction
+stone,3,2,128,1024,0,false,,0,construction
+andesite,2,1,128,1024,3,false,,0,construction
+bed_straw,16,0,4,16,0,false,,0,construction
+
+iron,25,20,0,10,0,false,,0,crafting
+cauldron,200,180,2,4,0,false,,0,construction
+fire_pit,3*64,2*64,0,6,4*64,false,,1*64*64,construction
+boneblock,24,18,0,16,32,false,,0,construction
+thatch,12,8,128,512,,,,2*64*64,construction
+
+wool_black,4,2,0,1024,6,false,,0,foreigntrade
+wool_blue,4,2,0,1024,6,false,,0,construction
+wool_brown,4,2,0,1024,6,false,,0,foreigntrade
+wool_cyan,4,2,0,1024,6,false,,0,foreigntrade
+wool_gray,4,2,0,1024,6,false,,0,foreigntrade
+wool_green,4,2,0,1024,6,false,,0,foreigntrade
+wool_lightblue,4,2,0,1024,6,false,,0,foreigntrade
+wool_lightgray,4,2,0,1024,6,false,,0,foreigntrade
+wool_magenta,4,2,0,1024,6,false,,0,foreigntrade
+wool_orange,4,2,0,1024,6,false,,0,foreigntrade
+wool_purple,4,2,0,1024,6,false,,0,foreigntrade
+wool_red,4,2,0,1024,6,false,,0,construction
+wool_white,4,2,0,1024,6,false,,0,construction
+wool_yellow,4,2,0,1024,6,false,,0,foreigntrade
+cotton,6,3,16,128,10,false,,0,foreigntrade
+seljukturban,64,60,0,64*64,50,false,,2*64*64,foreigntrade
+
+carpet_white,10,8,16,64,16,false,,0,construction
+carpet_brown,10,8,16,64,16,false,,0,construction
+carpet_red,20,18,16,64,16,false,,0,construction
+carpet_yellow,20,18,16,64,16,false,,0,construction
+carpet_blue,20,18,16,64,16,false,,0,construction
+
+wheat,3,2,10,128,4,false,,0,agriculture
+carrot,5,4,10,64,16,false,,0,agriculture
+bread,10,8,5,10,15,false,,0,agriculture
+
+egg,4,2,16,80,6,false,,0,agriculture
+leather,20,0,16,64,25,false,,0,crafting
+beefraw,25,20,4,64,32,false,,0,agriculture
+beefcooked,28,20,4,64,48,false,,0,agriculture
+porkchopscooked,28,20,4,64,48,false,,0,agriculture
+chickenmeat,20,0,4,64,32,false,,0,agriculture
+chickenmeatcooked,28,20,4,64,48,false,,0,agriculture
+fishcooked,7,5,0,0,16,false,,0,agriculture
+fishraw,5,3,0,192,0,false,,0,agriculture
+
+ironnugget,2,1,0,128,4,false,,0,crafting
+bone,10,8,16,64,16,false,,0,crafting
+dye_white,3,2,16,64,16,false,,0,crafting
+dye_lightblue,10,8,16,64,64,false,,0,crafting
+dye_yellow,6,5,16,64,16,false,,0,crafting
+dye_red,6,5,16,64,16,false,,0,crafting
+
+wah,0,2*80,0,0,0,false,,0,foreigntrade
+masa,0,48,0,0,0,false,,0,foreigntrade
+chickencurry,0,2*80,0,0,0,false,,0,foreigntrade
+vegcurry,0,40,0,0,0,false,,0,foreigntrade
+udon,0,40,0,0,0,false,,0,foreigntrade
+ikayaki,0,2*80,0,0,0,false,,0,foreigntrade
+cooked_mutton,0,32,0,0,0,false,,0,foreigntrade
+souvlaki,0,2*80,0,0,0,false,,0,foreigntrade
+
+boudin,48,40,2,8,80,false,0,0,foreigntrade
+
+calva,2*64,2*60,2,5,0,false,0,2*64*64,foreigntrade
+cider,0,80,0,0,2*64,false,,0,foreigntrade
+
+cake,72,64,0,0,128,false,,0,agriculture
+cookie,0,4,0,0,8,false,,0,foreigntrade
+rasgulla,0,2*80,0,0,0,false,,0,foreigntrade
+winefancy,0,2*80,0,0,0,false,,0,foreigntrade
+winebasic,0,80,0,0,0,false,,0,foreigntrade
+feta,0,96,0,0,0,false,,0,foreigntrade
+sake,0,2*80,0,0,0,false,0,0,foreigntrade
+cacauhaa,0,2*80,0,0,0,false,0,0,foreigntrade
+bearmeat_raw,32,28,0,0,48,false,,0,foreigntrade
+bearmeat_cooked,48,40,0,0,64,false,,0,foreigntrade
+wolfmeat_raw,16,14,0,0,24,false,,0,foreigntrade
+wolfmeat_cooked,24,20,0,0,32,false,,0,foreigntrade
+
+bow,64,60,0,0,2*25,false,,0,weapons
+arrow,0,4,0,0,8,false,,0,weapons
+
+stoneSword,0,2,0,0, 0,false,,0,foreigntrade
+leatherHelmet,0,15*5,0,0, 0,false,,0,foreigntrade
+leatherChest,0,15*8,0,0, 0,false,,0,foreigntrade
+leatherLegs,0,15*7,0,0, 0,false,,0,foreigntrade
+leatherBoots,0,15*4,0,0, 0,false,,0,foreigntrade
+steelChest,0,20*8,0,0,10*25,false,,0,foreigntrade
+steelLegs,0,20*7,0,0,9*25,false,,0,foreigntrade
+steelBoots,0,20*4,0,0,6*25,false,,0,foreigntrade
+diamondHelmet,0,3*64*5,0,0, 5*20*64,false,,0,foreigntrade
+diamondSword,0,3*64*2,0,0, 2*20*64,false,,0,foreigntrade
+diamondChest,0,3*64*8,0,0, 8*20*64,false,,0,foreigntrade
+diamondLegs,0,3*64*7,0,0, 7*20*64,false,,0,foreigntrade
+diamondBoots,0,3*64*4,0,0, 4*20*64,false,,0,foreigntrade
+byzantineMace,0,64*64,0,0, 0,false,,0,foreigntrade
+byzantineHelmet,0,12*64,0,0, 0,false,,0,foreigntrade
+byzantinePlate,0,20*64,0,0, 0,false,,0,foreigntrade
+byzantineLegs,0,8*64,0,0, 0,false,,0,foreigntrade
+byzantineBoots,0,6*64,0,0, 0,false,,0,foreigntrade
+yumibow,0,7*64,0,0, 0,false,,0,foreigntrade
+tachisword,0,2*80,0,0, 0,false,,0,foreigntrade
+japaneseguardboots,0,96,0,0, 0,false,,0,foreigntrade
+japaneseguardHelmet,0,3*64,0,0, 0,false,,0,foreigntrade
+japaneseguardLegs,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseguardPlate,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseblueboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japanesebluehelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japanesebluelegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseblueplate,0,18*64,0,0, 0,false,,0,foreigntrade
+japaneseredboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseredhelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseredlegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseredplate,0,18*64,0,0, 0,false,,0,foreigntrade
+mayanmace,0,7*64,0,0, 0,false,,0,foreigntrade
+normanBroadsword,0,64*80,0,0, 2*64*64,false,,0,foreigntrade
+normanHelmet,0,10*80,0,0, 0,false,,0,foreigntrade
+normanplate,20*64,20*60,0,0,,,,8*64*64,foreigntrade
+normanLegs,0,8*80,0,0, 0,false,,0,foreigntrade
+normanBoots,0,5*80,0,0, 0,false,,0,foreigntrade
+shield,0,20*2,0,0,3*25,false,,0,weapons
+viking_sword,64*64,60*64,1,1,,,,8*64*64,weapons
+viking_helmet,10*64,10*60,0,0,,,,8*64*64,weapons
+viking_plate,20*64,20*60,0,0,,,,8*64*64,weapons
+viking_legs,8*64,8*60,0,0,,,,8*64*64,weapons
+viking_boots,5*64,5*60,0,0,,,,8*64*64,weapons
+
+steelSword,1*64,1*60,0,0, 2*25,false,,0,weapons
+steelHelmet,1*64,1*60,0,0, 6*25,false,,0,weapons
+chainHelmet,1*64,1*60,0,0, 3*25,false,,0,weapons
+chainChest,3*64,3*60,0,0, 7*25,false,,0,weapons
+chainLegs,2*64,2*60,0,0, 6*25,false,,0,weapons
+chainBoots,1*64,1*60,0,0, 3*25,false,,0,weapons
+
+normanPickaxe,0,10*80,0,0,,,,0,foreigntrade
+normanAxe,0,10*80,0,0,,,,0,foreigntrade
+normanShovel,0,10*80,0,0,,,,0,foreigntrade
+normanHoe,0,10*80,0,0,,,,0,foreigntrade
+
+steelPickaxe,10*64,9*64,1,1,,,,2*64*64,tools
+steelAxe,10*64,9*64,1,1,,,,2*64*64,tools
+steelShovel,10*64,9*64,1,1,,,,2*64*64,tools
+steelHoe,10*64,9*64,1,1,,,,2*64*64,tools
+stoneaxe,20,3,0,64,22,false,,0,tools
+stonehoe,15,2,0,64,20,false,,0,tools
+stonepickaxe,20,3,0,64,22,false,,0,tools
+stoneshovel,15,1,0,64,20,false,,0,tools
+
+diamondPickaxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondAxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondShovel,0,3*64*1,0,0, 0,false,,0,foreigntrade
+diamondHoe,0,3*64*2,0,0, 0,false,,0,foreigntrade
+mayanpickaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
+
+purse,32*64,0,0,0,0,true,,0,playeritem
+summoningwand,2*64*64,0,0,0,0,true,,8*64*64,playeritem
+
+//for art seller
+painting,0,0,0,0,32,false,0,0,foreigntrade
+dye_orange,0,0,0,0,4,false,0,0,foreigntrade
+dye_magenta,0,0,0,0,32,false,0,0,foreigntrade
+dye_green,0,0,0,0,20,false,0,0,foreigntrade
+dye_pink,0,0,0,0,16,false,0,0,foreigntrade
+dye_gray,0,0,0,0,24,false,0,0,foreigntrade
+dye_lightgray,0,0,0,0,32,false,0,0,foreigntrade
+dye_cyan,0,0,0,0,64,false,0,0,foreigntrade
+dye_purple,0,0,0,0,48,false,0,0,foreigntrade
+dye_blue,0,0,0,0,64,false,0,0,foreigntrade
+dye_brown,0,0,0,0,16*64,false,0,0,foreigntrade
+dye_black,0,0,0,0,8,false,0,0,foreigntrade
+
+banner_white,64,58,4,16,0,false,,0,construction
+
+//For viking seller
+yggdrasil_amulet,0,0,0,0,32*64,false,0,0,foreigntrade
+skoll_hati_amulet,0,0,0,0,64*64,false,0,0,foreigntrade
+
+
+
+
+
+
+
+
+
+

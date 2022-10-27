@@ -1,0 +1,28 @@
+name=Makhba Aleisabat
+weight=10
+radius=10
+
+biome=Desert
+biome=Desert M
+biome=Savanna
+biome=Savanna M
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=lush desert
+biome=outback
+
+max=1
+keyLoneBuildingGenerateTag=bandit_camp_generate
+
+mindistancefromspawn=1000
+
+//starting buildings=
+centre=banditlair
+
+//% of biome validity required
+minimumBiomeValidity=0.50

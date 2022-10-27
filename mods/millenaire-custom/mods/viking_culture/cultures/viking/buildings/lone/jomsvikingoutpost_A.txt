@@ -1,0 +1,23 @@
+//Parameters for the building as a whole
+building.length=43
+building.width=43
+building.startinggood=denier,1.0,50,100
+building.startinggood=denierargent,1.0,10,20
+
+building.icon=steelsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Trelleborg
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand
+initial.male=jomsvikingbrigand

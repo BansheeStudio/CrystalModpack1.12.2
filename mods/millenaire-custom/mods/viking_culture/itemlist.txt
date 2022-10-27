@@ -1,0 +1,9 @@
+shield;minecraft:shield;0
+beetroot;minecraft:beetroot;0
+andesite;minecraft:stone;5
+leather;minecraft:leather;0
+viking_helmet;viking:viking_helmet;0
+viking_plate;viking:viking_plate;0
+viking_legs;viking:viking_legs;0
+viking_boots;viking:viking_boots;0
+viking_sword;viking:viking_sword;0

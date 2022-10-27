@@ -1,0 +1,12 @@
+priority=35
+priorityrandom=10
+
+
+townhalllimit=cobblestone,1024
+
+sourceblockstate=minecraft:stone
+
+range=4
+sentencekey=mining
+
+loot=cobblestone,4

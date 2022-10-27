@@ -1,0 +1,36 @@
+name=Mukhayam Alfayknj
+weight=10
+radius=10
+
+biome=Desert
+biome=Desert M
+biome=Savanna
+biome=Savanna M
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=lush desert
+biome=outback
+
+max=1
+keyLoneBuildingGenerateTag=raider_camp_generate
+
+mindistancefromspawn=1000
+
+//starting buildings=
+centre=searaiderlair
+
+//% of biome validity required
+minimumBiomeValidity=0.50
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:mr,Color:11},{Pattern:flo,Color:11},{Pattern:mc,Color:3},{Pattern:sc,Color:11},{Pattern:bs,Color:3},{Pattern:ts,Color:3},{Pattern:bo,Color:3}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:mr,Color:15},{Pattern:flo,Color:15},{Pattern:mc,Color:1},{Pattern:sc,Color:15},{Pattern:bs,Color:1},{Pattern:ts,Color:1},{Pattern:bo,Color:1}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:sc,Color:2},{Pattern:bri,Color:11},{Pattern:flo,Color:2},{Pattern:tt,Color:11},{Pattern:cbo,Color:11}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:cs,Color:0},{Pattern:ss,Color:12},{Pattern:dls,Color:0},{Pattern:drs,Color:0},{Pattern:cr,Color:12},{Pattern:hhb,Color:12},{Pattern:cs,Color:0}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:cre,Color:11},{Pattern:ms,Color:11},{Pattern:cs,Color:11},{Pattern:hhb,Color:2},{Pattern:mc,Color:11},{Pattern:bo,Color:2}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:0},{Pattern:bts,Color:0},{Pattern:tt,Color:15},{Pattern:flo,Color:0}]}}

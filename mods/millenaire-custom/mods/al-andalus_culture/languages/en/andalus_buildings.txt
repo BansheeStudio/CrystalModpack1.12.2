@@ -1,0 +1,148 @@
+
+//core buildings
+
+architect_A0=Roman Artisan's House
+archives_A0=Archives
+archives_A_infirmary_A0=Infirmary
+armoury_A0=Armoury
+barracks_A0=Barracks
+barracks_A_bed0_A0=Soldier's Room
+barracks_A_bed1_A0=Soldier's Room
+barracks_A_bed2_A0=Soldier's Room
+barracks_A_bed3_A0=Soldier's Room
+barracks_A_bed4_A0=Soldier's Room
+barracks_A_bed5_A0=Soldier's Room
+bazaar_A0=Bazaar
+brickkiln_A0=Brick Kiln
+chapel_A0=Chapel
+cottonfarm_A0=Cotton Farm
+cowfarm_A0=Cow Farm
+cowfarm_B0=Cow Farm
+femalemosque_A0=Female Mosque
+fishery_A0=Fishery
+fountain_A0=Fountain
+garden_A0=Garden
+grove_A0=Grove
+hamambath_A0=Hammam
+hamambath_A_female_A0= Hammam Female Side
+imamshouse_A0=Imam's House
+inn_A0=Inn
+madrasa_A0=Madrasa
+madrasa_A_classroom_A0=Classroom
+mill_A0=Mill
+mill_B0=Mill
+mosque_A0=Mosque
+olivefarm_A0=Olive Farm
+peasanthouse_A0=Peasant House
+peasanthouse_B0=Peasant House
+peasanthouse_C0=Peasant House
+peasanthouse_D0=Peasant House
+pistachiogrove_A0=Pistachio Grove
+quarry_A0=Quarry
+sheepfarm_A0=Sheep Farm
+smalloakgrove_A0=Small Oak Grove
+stonecraftsman_A0=Stone Craftsman's House
+sugarcanefarm_A0=Sugarcane Farm
+tavern_A0=Tavern
+toolsmith_A0=Toolsmith
+watchtower_A0=Watchtower
+weaver_A0=Weaver
+well_A0=Well
+wheatfield_A0=Wheat Field
+woodcutter_A0=Woodcutter's House
+tannery_A0=Tannery
+painterhouse_A0=Painter's House
+
+
+//lone buildings
+
+aqueductruins_A0=Aqueduct Ruins
+churchruins_A0=Visigothic Church Ruins
+lonemill_A0=Lone Mill
+piratelair_A0=Berber Pirate Lair
+lone_inn_A0=Lone Inn
+lone_inn_A_market_A0=Lone Market
+
+lonemosque_A0=Lone Mosque
+lonemosque_B0=Lone Mosque
+lonemosque_center_A0=Center
+lonemosque_center_B0=Center
+lonemosque_dome_A0=Dome
+lonemosque_dome_B0=Dome
+lonemosque_field_A0=Field
+lonemosque_field_B0=Field
+lonemosque_garden_A0=Garden
+lonemosque_garden_B0=Garden
+lonemosque_mihrab_A0=Mihrab
+lonemosque_mihrab_B0=Mihrab
+lonemosque_pattern_A0=Dome Pattern
+lonemosque_pattern_B0=Dome Pattern
+lonemosque_tower_A0=Tower
+lonemosque_tower_B0=Tower
+lonemosque_walls_A0=Walls
+lonemosque_walls_B0=Walls
+
+fishingvillage_A0=Fishing Village
+fishingvillage_A_fisherman0_A0=Fisherman's House
+fishingvillage_A_fisherman1_A0=Fisherman's House
+fishingvillage_A_fisherman2_A0=Fisherman's House
+fishingvillage_A_fisherman3_A0=Fisherman's House
+fishingvillage_A_fisherman4_A0=Fisherman's House
+fishingvillage_A_guard_A0=Guard House
+fishingvillage_A_lumberman_A0=Lumberman's House
+fishingvillage_A_market_A0=Market
+fishingvillage_A_miner_A0=Miner's House
+fishingvillage_A_mosque_A0=Mosque
+fishingvillage_A_peasant0_A0=Peasant House
+fishingvillage_A_peasant1_A0=Peasant House
+fishingvillage_A_sheepfarm_A0=Sheep Farm
+fishingvillage_A_stonecrafter_A0=Stone Mason's House
+fishingvillage_A_toolsmith_A0=Toolsmith
+
+
+//player buildings
+
+playerfortress_A0=Fortress
+playerfortress_A_armoury_A0=Fortress Armoury
+playerfortress_A_barracks0_A0=Fortress Barracks
+playerfortress_A_barracks1_A0=Fortress Barracks
+playerfortress_A_barracks2_A0=Fortress Barracks
+playerhousemed_A0=Medium House
+playerhousesmall_A0=Small House
+playerstables_A0=Stables
+
+
+//townhall buildings
+
+fort_A_armoury_A0=Fortress Armoury
+fort_A_bed0_A0=Fortress Barracks
+fort_A_bed1_A0=Fortress Barracks
+fort_A0=Fortress
+ruralmanor_A_inn_A0=Manor Inn
+ruralmanor_A0=Manor
+souk_a_inn_A0=Market Inn
+souk_a_market_A0=Market Stalls
+souk_A0=Market
+thmosque_A0=Great Mosque
+
+
+//walls
+
+full_wall_gateway_a0=Village Gate
+full_wall_a0=Village Wall
+full_wall_slope_right1_a0=Village Wall
+full_wall_slope_right2_a0=Village Wall
+full_wall_slope_left3_a0=Village Wall
+full_wall_slope_left2_a0=Village Wall
+full_wall_slope_left1_a0=Village Wall
+full_wall_slope_right3_a0=Village Wall
+
+full_wall_tower_a0=Wall Tower
+full_wall_cap_both_a0=End Wall
+full_wall_cap_right_a0=End Wall
+full_wall_cap_left_a0=End Wall
+full_wall_corner_a0=Corner Tower
+
+borderpost_a0=Border Post
+borderpost_corner_a0=Border Post (Corner)
+borderpost_gate_a0=Border Post (Entrance)

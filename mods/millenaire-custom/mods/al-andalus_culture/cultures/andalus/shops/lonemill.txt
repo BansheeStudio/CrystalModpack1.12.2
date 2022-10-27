@@ -1,0 +1,5 @@
+sells=bread,cake,sugar
+
+buys=steelhoe,steelshovel
+
+deliverto=wheat,sugarcane

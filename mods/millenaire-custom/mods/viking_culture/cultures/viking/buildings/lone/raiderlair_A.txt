@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=28
+building.width=29
+building.startinggood=denier,1.0,10,50
+building.startinggood=denierargent,1.0,5,10
+
+building.icon=steelsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Víkingr Herbergi
+initial.male=raider
+initial.male=raider
+initial.male=raider
+initial.male=raider
+initial.male=raider

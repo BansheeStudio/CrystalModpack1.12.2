@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=22
+building.buildingorientation=1
+building.version=2
+building.max=2
+building.icon=purse
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Kaupstefna
+initial.priority=600
+initial.pathlevel=1
+initial.tag=market
+initial.tag=leasure
+
+//Parameters for specific upgrades
+upgrade1.priority=60
+
+upgrade2.priority=55
+
+upgrade3.priority=50
+upgrade3.pathlevel=1
+upgrade3.rebuildpath=true

@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=18
+building.max=0
+building.issubbuilding=true
+building.parentbuildingplan=merc_house_A2
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Hvila
+initial.male=jomsviking
+initial.priority=200
+
+

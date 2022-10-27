@@ -1,0 +1,9 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=9
+
+building.icon=bone
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Skip Greftrun

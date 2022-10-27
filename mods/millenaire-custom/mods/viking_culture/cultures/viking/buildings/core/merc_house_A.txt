@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=13
+building.width=18
+building.max=1
+building.icon=viking_sword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Malalidi Sveitir
+initial.male=vikingwarrior
+initial.tag=patrol
+initial.priority=300
+initial.pathlevel=0
+
+//Parameters for specific upgrades
+upgrade1.priority=180
+upgrade1.subbuilding=merc_house_A_bed0
+upgrade1.pathlevel=1
+upgrade1.rebuildpath=true
+
+upgrade2priority=170
+upgrade2subbuilding=merc_house_A_bed1
+
+

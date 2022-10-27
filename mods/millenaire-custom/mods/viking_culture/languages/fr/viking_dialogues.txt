@@ -1,0 +1,364 @@
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Ó, hvernig hef ég saknað sólarinnar! Það var alltaf skýjað heima. / Oh comme j'ai raté le soleil ! Il faisait toujours nuageux à la maison.
+v2;30;Sólin er frábær er það ekki? Það lýsir ekki aðeins upp þorpinu okkar, heldur losnar það við pirrandi draugar. / Le soleil est grand n'est-ce pas ? Non seulement ça illumine notre village, mais ça se débarrasse aussi de ces satanés draugar.
+v1;60;Satt. Og við þurftum alltaf að nota sólsteina þegar við sigldum en hér er himinninn alltaf tær. / Vrai. Et il fallait toujours utiliser des pierres de soleil pour naviguer mais ici, le ciel est toujours dégagé.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Ég finn að það fer að rigna. / Je sens qu'il va pleuvoir.
+v2;30;Á fínum degi sem þessum? Ég held ekki. / Par une belle journée comme celle-ci ? Je ne pense pas.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Þorpið okkar lítur betur út en nokkru sinni fyrr! / Notre village est plus beau que jamais !
+v2;30;Einmitt. Öll þessi dugnaður borgar sig að lokum, ekki satt? / En effet. Tout ce travail acharné finit par payer, hein ?
+
+newchat;key:sunset,weigth:10
+v1;0;Hvar rís sólin aftur? Ég gleymi áfram. / Où se lève le soleil ? Je continue d'oublier.
+v2;30;Fyrir austan. Komdu, við eigum að vera góðir í þessu! / Est. Allez, nous sommes censés être bons à ça !
+
+newchat;key:harvest1,weigth:10
+you v1;0;Telur þú að uppskeran verði góð á þessu ári? / Pensez-vous que la récolte sera bonne cette année?
+v2;30;Hver veit, með veðrið sem við höfum haft. / Qui sait, avec le temps qu'on a eu.
+makv1;60;Árstíðir eru ekki skynsamlegar hér. / Les saisons n'ont pas de sens ici.
+v2;90;Allt er ekki skynsamlegt hér. / Tout n'a pas de sens ici.
+
+newchat;key:harvest2,v1:adult,v2:adult,weigth:7
+v1;0;Það er næstum uppskerutímabil! / C'est bientôt la saison des récoltes !
+v2;30; Hein ?!
+
+newchat;key:mercenary,v1:adult,v2:adult,v1:male,weigth:10
+v1;0;Dag einn gæti ég heimsótt Rómverja og gengið til liðs við persónulega vörð keisarans. / Un jour, je pourrais rendre visite aux Romains et rejoindre la garde personnelle de l'Empereur.
+v2;30;Ertu viss? Ætlarðu ekki að sakna þorpsins okkar? / Êtes-vous sûr? Ne vas-tu pas manquer notre village?
+v1;80;Kannski, en þessi staður er að verða sljór. Ég þarf að láta gott af mér leiða og ég get alveg eins þénað mikið og gert það. / Peut-être, mais cet endroit devient terne. Un homme doit se faire un nom et je pourrais aussi bien faire fortune en le faisant.
+v2;130;Jæja, ég býst við að enginn geti stöðvað reika. / Eh bien, je suppose que personne ne peut arrêter un homme qui a envie de voyager.
+
+newchat;key:storm,weigth:10
+v1;0;Það var hræðileg stormur í gær. / Il y a eu une terrible tempête hier.
+v1;30;Ég hélt að ég myndi aldrei heyra þrumuskotið aftur. / Je pensais que je n'entendrais plus jamais le bruit du tonnerre.
+v2;60;Það hlýtur að hafa verið Þórr að berja á stokk hans. / Cela devait être Thor battant son enclume.
+v1;90;Guðirnir verða að vera enn með okkur, jafnvel á þessu undarlega sviði. / Les dieux doivent donc toujours être avec nous, même dans cet étrange royaume.
+
+newchat;key:visitors,weigth:10
+v1;0;Ég velti því hvaðan $name er komið frá... / Je me demande d'où vient $name...
+v2;30;Ég hef verið að velta því fyrir mér líka. Hinir utanaðkomandi eru undarlegir en að minnsta kosti vitum við að þeir komu úr gamla heiminum. / Je me suis aussi posé la question. Les autres étrangers sont étranges mais au moins nous savons qu'ils viennent de l'ancien monde.
+v2;60;$name hefur aftur á móti aldrei sagt neitt um gamla heiminn. / $name, d'autre part, n'a jamais rien dit sur le vieux monde.
+v1;90;Þá var hann kannski hérna á undan okkur. Hann veit mikið um þennan stað, eins og hann eigi heima hér. / Alors peut-être qu'il était ici avant nous. Il en sait beaucoup sur cet endroit, comme s'il avait sa place ici.
+v2;120;Hvaðan sem hann kom getur hann drukkið með mér hvenær sem er. / D'où qu'il vienne, il peut boire avec moi n'importe quand.
+v1;150;Tilgerðarlegur eins og alltaf. Við höfum verið vinir í langan tíma og samt hefurðu ekki deilt með mér lítra síðasta mánuðinn! / Prétentieux comme toujours. Nous sommes amis depuis longtemps et pourtant vous n'avez pas partagé une pinte avec moi le mois dernier !
+v2;180;Ertu flakkari dulbúinn sem Óðinn? Ég held ekki. / Êtes-vous un voyageur déguisé en Odin ? Je ne pense pas.
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Ég vona að það rigni. / Je pense qu'il va pleuvoir.
+v2;30;Ég líka. Það þarf að svala uppskeruna okkar. / Moi aussi. Nos cultures ont besoin d'être arrosée.
+
+newchat;key:nothomeyet,weigth:8
+v1;0;Hefurðu einhvern tíma saknað Miðgarðr? / Le vieux monde ne vous manque-t-il jamais ?
+v2;30;Stundum. En þessi staður virðist ekki svo slæmur. Það er betra en heima að sumu leyti. / Parfois. Mais cet endroit ne semble pas si mal. C'est mieux qu'à la maison à certains égards.
+v2;60;Það minnir mig meira að segja heim stundum. / Cela me rappelle même parfois la maison.
+
+newchat;key:berserkers,v1:adult,v2:adult,weigth:3
+v1;0;Ég hitti berserkir við veiðar í skóginum í gær. / J'ai rencontré un guerrier-fauve en chassant dans la forêt hier.
+v2;30;Í alvöru? Hvernig var hann? / Ah bon? Comment était-il?
+v1;60;Hann var hálfnakinn og klæddist skel. Hann var jafn hár og björn og leit jafnvel út eins og einn! / Il ne portait pas grand-chose d'autre que sa fourrure. Il était aussi grand qu'un ours et en avait même l'air !
+v2;90;Eins hár og björn !? Heyrði ég það rétt? / Aussi grand qu'un ours !? Ai-je bien entendu ?
+v1;120;Jæja. Og það var það sem ég hélt að hann væri þar til ég áttaði mig á því að hann var miklu hræðilegri en björn. / Toujours. Et c'est ce que je pensais qu'il était jusqu'à ce que je réalise qu'il était bien plus terrifiant qu'un ours.
+v1;150;Ég slapp en Halfdan greyið var ekki svo heppin. Sú öxi hafði þegar klofið höfuðkúpu hans í tvennt þegar ég hljóp í burtu. / Je me suis échappé mais le pauvre Halfdan n'a pas eu autant de chance. Cette hache avait déjà fendu son crâne en deux quand je me suis enfui.
+v2;180;Ég býst við að nú sé hann virkilega hálfur Dani núna. / Je suppose que maintenant il est vraiment un demi-Danois maintenant.
+
+newchat;key:cross,v1:adult,v2:adult,weigth:8
+v1;0;Er það kross sem þú ert með? / Où as-tu trouvé ce collier en forme de croix ?
+v2;30;Ég fékk það frá munka í ferð okkar til Englands. / Je l'ai eu d'un moine lors de notre voyage en Angleterre.
+v2;60;Þú ættir að prófa að klæðast einum ef þú vilt eiga viðskipti við Normannana. Sumir þeirra munu ekki eiga viðskipti við heiðna menn. / Vous devriez essayer d'en porter un si vous voulez commercer avec les Normands. Certains d'entre eux ne commerceront pas avec les païens.
+v1;90;Við skulum bara vona að þeir komist ekki að því hvernig þú fékkst það. / Espérons juste qu'ils ne sauront pas comment tu l'as eu.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:5
+v1;0;Ég heyri stöðugt kaupmenn tala um hversu mikill Miklagarðr er. Kannski ættum við einhvern tíma að heimsækja það. / J'entends sans cesse des marchands dire à quel point Constantinople est formidable. On devrait peut-être le visiter un jour.
+v2;30;Ég heyri stöðugt í þeim að monta sig af því. Hvað er svona frábært við það samt? / Je n'arrête pas de les entendre s'en vanter aussi. Qu'est-ce qu'il y a de si génial de toute façon ?
+v1;60;Þeir segja að það sé stærsta borg sem þeir hafi séð. Jafnvel stærri en Hedeby! / Ils disent que c'est la plus grande ville qu'ils aient jamais vue. Encore plus grand que Hedeby !
+v1;90;Veggir þess eru svo háir að þú myndir halda að þeir væru byggðir af risum! / Et ses murs sont si hauts qu'on pourrait croire qu'ils ont été construits par des géants !
+v2;120;Ha. Ég velti því alltaf fyrir mér hvers vegna enginn vildi hafa áhlaup á þann stað. / Hein. Je me suis toujours demandé pourquoi personne n'avait envie de piller cet endroit.
+
+newchat;key:outofmead,v1:adult,v2:adult,v2:male,v2:hasspouse,weigth:5
+v1;0;Ég hef eitthvað að játa ... / J'ai quelque chose à avouer...
+v2;30;Þú sefur hjá konunni minni? / Tu as couché avec ma femme ?
+v1;60;Nei! Ég myndi ekki gera eitthvað svo hræðilegt. / Non! Je ne ferais pas quelque chose d'aussi horrible.
+v2;80;Jæja? Hvað er það þá? / Bien? Qu'est-ce que c'est alors?
+v1;100;Það var ég sem drakk allan mjöðinn í gærkvöldi! / Ah, ce n'est rien. C'est moi qui ai bu tout l'hydromel hier soir !
+v2;120;Það er enn verra! Verðir, farðu með hann! / C'est encore pire ! Gardes, saisissez cet homme !
+
+newchat;key:worldtree,v1:adult,v2:adult,weigth:10
+v1;0;Ég sá tvo kaupmenn um daginn rífast um hvort heimurinn sé flatur eða hvort hann sé kringlóttur. / J'ai vu deux marchands l'autre jour se disputer pour savoir si le monde est plat ou s'il est rond.
+v2;30;Kjánalegt útlendinga. Við vitum öll að það er tréformað. / Étrangers stupides. Nous savons tous qu'il est en forme d'arbre.
+
+newchat;key:greenland,v1:adult,v2:adult,weigth:10
+v1;0;Ég vildi óska ​​þess að ég gæti séð Grænland aftur í gamla heiminum. Ég ímynda mér að það hefði haft gríðarstóran frjóan land! / J'aimerais pouvoir revoir le Groenland dans l'ancien monde. J'imagine qu'il aurait eu de vastes étendues de terres fertiles !
+v2;30;Vitleysa! Djöfullinn sjálfur nefndi þann stað. Ég sigldi þangað aðeins til að komast að því að það er þakið ís! / Absurdité! Le Diable lui-même a nommé cet endroit. J'ai navigué là-bas seulement pour découvrir qu'il est couvert de glace !
+v2;60;Ég dó næstum þarna úti, veistu? Tók aldur til að draga helvítis skipið úr ísnum. / J'ai failli mourir là-bas, tu sais ? Il a fallu une éternité pour sortir ce foutu navire de la glace.
+v2;80;Engu að síður var ég að hugsa um að koma mér fyrir á þessum frábæra stað sem sumir fundu bara. / Quoi qu'il en soit, je pensais m'installer dans cet endroit merveilleux que les gens de l'autre village venaient de découvrir.
+v1;100;Aetherland, var það? / L'Etherland, n'est-ce pas ?
+v2;120;Já! Það er það sem þeir kölluðu það. Förum þangað! / Oui! C'est ainsi qu'ils l'appelaient. Allons-y!
+
+newchat;key:vinland,v1:adult,v2:adult,weigth:10
+v1;0;Hefur þú heyrt? Það eru fréttir af stað með auðugum löndum og villtum þrúgum handan hafsins. Þeir kalla það Vínland. Förum þangað! / As-tu entendu? Il y a des nouvelles sur un endroit avec des terres riches et des raisins sauvages au-delà de la mer. Ils l'appellent Vinland.
+v1;30;Ég veit ekki með þig, en það hljómar eins og fínn staður til að búa á! Þeir segja, það er hlýrra en þessi ömurlegi staður. / Je ne sais pas pour vous, mais ça a l'air d'être un endroit agréable à vivre ! Ils disent qu'il fait plus chaud que cet endroit misérable.
+v2;60;Nei takk, ég er ekki að falla fyrir því aftur. Ég þori að veðja að það sé jafnvel auðn þar en á Grænland! / Non merci, je ne craque plus pour ça. Je parie que c'est encore plus désolé là-bas qu'au Groenland !
+
+newchat;key:golems,v1:adult,v2:adult,weigth:5
+v1;0;Rétt þegar ég hélt að þessi staður myndi ekki fá neinn ókunnugan, heyri ég að kaupmaður segir sögur af járnirisum! / Juste au moment où je pensais que cet endroit n'allait pas devenir un étranger, j'entends qu'un marchand s'extasie sur les géants de fer !
+v2;30;Járnirisar? / Un géant de fer ?
+v2;60;Sagt er að hann hafi lent í slagsmálum við nokkra innfædda sem buðu honum aðeins eina smaragðsmíði fyrir kistu fulla af eplasafi sem hann kom með alla leið frá Normandí. / Apparemment, il s'est battu avec des indigènes qui ne lui ont offert qu'une seule gemme d'émeraude pour un coffre plein de cidre qu'il a apporté de Normandie.
+v2;90;Þegar átökin urðu ofbeldisfull sagði hann að járnrisi kæmi upp úr engu og henti honum í sjóinn! / Lorsque la confrontation est devenue violente, il a dit qu'un géant de fer est sorti de nulle part et l'a jeté à la mer !
+v1;120;Ha, þvílík undarleg saga ... / Euh, quelle étrange histoire...
+
+newchat;key:cubeland,v1:adult,v2:adult,weigth:5
+v1;0;Segjum við, höfum við ekki fengið nafn á þessum stað? / Dis, nous n'avons pas de nom pour cet endroit, n'est-ce pas ?
+v2;30;Komdu til að hugsa um það, ég held að enginn hafi nokkurn tíma nefnt þetta land áður. / À bien y penser, je pense que personne n'a jamais nommé cette terre auparavant.
+v1;60;Jæja, hvað eigum við þá að nefna? / Eh bien, comment allons-nous l'appeler alors?
+v2;90;Hmmm ... Hvernig væri að við köllum það Teningaland? / Hmmm... Et si on l'appelait Cubeland ?
+v1;120;Já, ég skal drekka við það. / Oui, je vais boire à ça.
+
+newchat;key:valhalla,v1:adult,v1:male,v2:adult,v2:male,weigth:5
+v1;0;Heldurðu að við munum fara til Valhöll? / Pensez-vous que nous irons un jour au Valhalla ?
+v2;30;Hver veit? Ég á enn eftir að sjá einhvern til frambúðar. / Qui sait? Je n'ai pas encore vu quelqu'un en permanance 
+v1;60;Þessi staður er ekki of slæmur þó er það ekki? Við getum dáið hér aðeins til að koma aftur fljótlega eftir það. / Cet endroit n'est pas trop mal, n'est-ce pas ? Nous pouvons mourir ici pour revenir peu après.
+v2;90;Hvar er skemmtunin í því? Hvers konar grimmur heimur neitar því að þú gangir til Valhalla? Með þessu gengi komumst við aldrei þangað. / Où est le plaisir là-dedans ? Quel genre de monde cruel vous interdit le passage au Valhalla ? A ce rythme, on n'y arrive jamais.
+
+newchat;key:christianity,v1:adult,v2:adult,v1:female,v2:female,weigth:5
+v1;0;Ég er farinn að halda að krossinn gæti hentað mér ... / Je commence à penser que la croix pourrait me convenir...
+v2;30;Ég geri ráð fyrir að það sé skynsamlegt, nágrannar okkar eru allir kristnir og við myndum fá fleiri tækifæri ef við trúum á sama guð. / Je suppose que vous avez raison, nos voisins sont tous chrétiens et nous serions en meilleurs termes les uns avec les autres si nous croyons au même dieu.
+v1;60;Eh? Ég var að tala um hvað þetta krosshálsmen virtist fallegt á mér! Sjáðu hversu glansandi það er! / Hein ? Je parlais de la beauté de ce collier en croix sur moi ! Regardez comme il est brillant !
+v2;90;Ó kæri, þú hefur rétt fyrir þér, það lítur vel út fyrir þig! / Oh la la, tu as raison, ça te va bien !
+
+newchat;key:west,v1:child,v2:child,weigth:7
+v1;0;Frændi sagði mér svo margt um löndin í austri og suðri. Þeir Rússa, Frankar og Grikkir en ekki mikið í vestri. / Oncle m'a tellement parlé des terres de l'est et du sud. Ceux des Rus', des Francs, et des Grecs mais peu à l'ouest.
+v2;30;Ég heyrði að það er aðeins mikill sjó handan Grænlands. Ég hélt áfram að hugsa um það og það virtist bara vera rangt. / J'ai entendu dire que ce n'est qu'une vaste mer au-delà du Groenland. Je n'arrêtais pas d'y penser et cela semblait juste faux.
+v1;60;Ég hugsaði það líka. Kannski ættum við að verða sjómenn einn daginn og sigla vestur. Við gætum lánað skip frænda. / C'est ce que je pense également. Peut-être devrions-nous devenir marins un jour et naviguer vers l'ouest. On pourrait emprunter le bateau de ton oncle.
+v2;90;Já, við gerum það þá. Ég get ekki beðið eftir að komast að því hvað liggur handan hafsins! / Ouais, on va faire ça alors. J'ai hâte de découvrir ce qui se cache au-delà de la mer !
+
+newchat;key:peace,v1:adult,v2:adult,v1:female,v2:female,weigth:6
+v1;0;Allir þessir menn sem veifa sverðum sínum og drepa hver annan eru farnir að láta mér líða illa. Af hverju getum við öll ekki róast og átt viðskipti við hvort annað? / Tous ces hommes agitant leurs épées et s'entretuant commencent à me rendre malade. Pourquoi ne pouvons-nous pas tous nous calmer et échanger les uns avec les autres ?
+v2;30;Þú veist hvernig það er. Eiginmenn okkar eru allir ofstækismenn um að vera stríðsmenn. / Eh bien, vous savez comment c'est. Nos maris sont tous fanatiques d'être des guerriers.
+v1;60;Ég vil veðja að bóndi hefur gengið í gegnum fleiri en alla þessa ofbeldisfullu fífl. Ef eitthvað er, þá er hann sannari stríðsmaður en nokkur þeirra getur nokkurn tíma vonað að vera! / Je parierais que ce fermier a traversé plus que tous ces imbéciles bellicistes. Au contraire, il est plus un vrai guerrier qu'aucun d'entre eux ne pourra jamais espérer l'être !
+v2;90;Hæ, haltu rödd þinni niður, þau heyra okkur kannski. / Hé, taisez-vous, ils pourraient nous entendre.
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Vissir þú? Pabbi minn er svo sterkur að hann getur borið risastórt mastur á herðum sér. / Le saviez-vous? Mon père est si fort qu'il peut porter un énorme mât sur ses épaules.
+v2;50;Í alvöru? Jæja pabbi minn getur hoppað hæð sína í fullum herklæðum. Framan og aftan. / Oh oui? Eh bien, mon père peut sauter de sa taille en armure complète. Avant et arrière.
+v1;100;Í alvöru? Jæja, faðir minn bar langskip meðan tíu menn stóðu á því. Með aðeins annarri hendi. / Ah bon? Eh bien, mon père a appuyé sur un drakkar alors que dix hommes se tenaient dessus. Avec une seule main.
+v2;150;Það er ekkert miðað við þegar faðir minn sökk óvinaflota með því að kasta steðjar að þeim! / Ce n'est rien comparé au moment où mon père a coulé une flotte ennemie en leur lançant des enclumes !
+v1;200;Sjúklegur. Faðir minn reif tré frá jörðu, stakk dreka með því og henti trénu ásamt drekanum að móður sinni og drap báða drekana. / Pathétique. Mon père a arraché un arbre du sol, a poignardé un dragon avec et a jeté l'arbre avec le dragon à sa mère, tuant les deux dragons.
+v2;250;ÓJÁ?! Jæja pabbi minn - bíddu, pabbi þinn gerði hvað? Úhh því miður, ég verð að fara, mamma hringir í mig. Eigðu góðan dag. Vinsamlegast ekki segja pabba þínum frá þessu. / OH OUI?! BIEN MON PÈRE- attends, ton père a fait quoi ? Euh désolé, je dois y aller, ma mère m'appelle. Bonne journée. S'il te plaît, n'en parle pas à ton père.
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Hvernig er það eins og að fæðast sem stelpa, allt klúður og svoleiðis? / C'est comment de naître en tant que fille, toute maigre et tout ça ?
+v2;30;Ekki eins slæmt og að vera einn af þessum vitlausu skepnum sem berja hvor annan upp allan daginn með prikum, það er alveg á hreinu. / Pas aussi mal que d'être une de ces brutes stupides qui se battent toute la journée avec des bâtons, c'est sûr.
+v1;60;Við sitjum allavega ekki allan daginn að leika okkur með dúkkur! / Hé, au moins on ne reste pas assis toute la journée à jouer avec des poupées !
+
+newchat;key:kids3,v1:child,v1:female,v2:child,v2:male,weigth:10
+v1;0;Ég vil vera frægur Skald þegar ég verð stór. Hvað með þig? / Je veux être un Skald célèbre quand je serai grand. Et toi?
+v2;30;Ég? Ég verð sterkasti stríðsherra í heimi. Þú munt skrifa ljóð um ævintýri mín! / Moi? Je vais être le chef de guerre le plus fort du monde. Vous écrirez des poèmes sur mes aventures !
+v3;60;Þegar ég verð stór verð ég skálagerðarmaður. / Quand je serai grand, je serai fabricant de bols.
+v1;90; ...
+v2;90; ...
+v3;150;Af hverju starirðu svona á mig? Án mín munuð þið bæði borða mat af gólfinu! / Pourquoi tu me regardes comme ça ? Sans moi, vous mangerez tous les deux de la nourriture par terre !
+
+newchat;key:childwarrior,v1:child,v1:male,v2:vtype:jomsviking-raider-shieldmaiden,weigth:5
+v1;0;Halló kappi! / Bonjour! Guerrier!
+v1;30;Ég er líka stríðsmaður! Fylgstu með mér sveifla þessum staf! / Je suis aussi un guerrier ! Regarde-moi balancer ce bâton !
+v1;60; *fwoom* *fwoosh*
+v2;90; ...
+v2;120;Uhh það er frábært... / Euh c'est super...
+
+newchat;key:scandinavianpsycho,v1:vtype:raider,v2:vtype:raider,weigth:5
+v1;0;Nýtt sverð. Hvað finnst þér? / Nouvelle épée. Qu'est-ce que tu penses?
+v2;30;Vá. Mjög gott. / wouah.Vraiment super.
+v1;60;Tók það upp úr líki Normans í gær. / Je l'ai récupéré sur un cadavre normand hier.
+v2;120;Það er virkilega glansandi. / C'est vraiment brillant.
+v1;150;Það er Frankískt stál. Áletrunin er eitthvað sem kallast „Ulfberht“ / C'est de l'acier franc. Le lettrage s'appelle "Ulfberht"
+v2;210;Það er mjög flott, $targetfirstname. En það er ekki neitt. / C'est très cool, $targetfirstname. Mais ce n'est rien.
+v2;240;Líta á þetta. / Regarde ça.
+v1;270;Freyja ljúfi rassinn! Er það Damaskus !? / Le joli cul de Freyja ! C'est Damas !?
+v2;300;Já, ég fékk það frá Seljuk hjólhýsi um daginn. / Ouais, je l'ai eu dans une caravane seldjoukide l'autre jour.
+v1;330;Horfðu á þetta lúmska bylgjumynstur. Smekkleg þykkt þess. Ó guðir mínir, það hefur meira að segja perlu grip... / Regardez ce motif de vague subtil. L'épaisseur de bon goût de celui-ci. Oh mes dieux, il a même une poignée de perle...
+v2;360;Er eitthvað að? Þú svitnar... / Quelque chose ne va pas? Tu transpires...
+
+newchat;key:legacy,v1:adult,v2:adult,weigth:10
+v1;0;Hefur þú einhvern tíma hugsað um hvað fólk mun hugsa um okkur í framtíðinni? / Avez-vous déjà pensé à ce que les gens penseront de nous à l'avenir ?
+v2;30;Jú. / Sûre.
+v1;60;Ég vona að þeir haldi ekki að við séum öll nakin villimenn með klæddan hjálm. / J'espère qu'ils ne penseront pas que nous sommes tous des sauvages nus portant des casques à cornes.
+v2;90;það er skrýtið... / C'est étrangement spécifique...
+v1;120;Já. Framtíðarsýn seidrsins eru venjulega óljós en þessi var mjög sérstök af einhverjum ástæðum. / Oui. Les visions du seidr sont généralement vagues mais celle-ci était très spécifique pour une raison quelconque.
+v2;150;Jæja, það er einhver á markaðnum sem selur verndargripi og hann ber hjálm með hornum... / Et bien il y a ce type au marché qui vend des amulettes et il porte un casque à cornes...
+v1;180;Þorgal? Eina ástæðan fyrir því að hann klæðir sig svona er að láta fólk halda að hann sé einhvers konar framandi töframaður. / Thorgal ? Il ne s'habille comme ça que pour faire croire aux gens qu'il est une sorte d'homme magique exotique.
+
+newchat;key:bridgebattles,v1:adult,v1:male,v2:vtype:jomsviking,weigth:5
+v1;0;Af hverju töpum við alltaf bardögum þegar brú er nálægt? / Pourquoi perdons-nous toujours des batailles quand il y a un pont à proximité ?
+v1;60;Hugsa um það. Við töpuðum við London brú og Stamford brú. / Pensez-y. Nous avons perdu au pont de Londres et au pont de Stamford.
+v1;120;Er ekki skrýtið að það hafi gerst tvisvar? / N'est-ce pas étrange que cela se soit produit deux fois ?
+v2;180;London brú? Ég vil ekki rifja upp en þetta var góð barátta. / Le pont de Londres? Je ne suis pas du genre à me souvenir mais c'était un bon combat.
+v1;210;Auðvitað rifjar þú ekki upp, senile gamall skríll. Þú manst ekki einu sinni að við töpuðum! / Bien sûr, tu n'es pas du genre à te remémorer, vieux bâtard sénile. Tu ne te souviens même pas que nous avons perdu !
+v2;250;Ha! Hver sagði að ég tapaði? Ég er jomsviking, manstu? / Ha! Qui a dit que j'avais perdu ? Je suis un jomsviking, tu te souviens ?
+v1;280;*halètement* Þú barðist fyrir Saxa !? / *halètement* Tu as combattu pour les Saxons !?
+
+newchat;key:saturday,v1:adult,v1:male,v2:adult,v2:male,weigth:10
+v1;0;Ég hef heyrt orðróm undanfarið um að Normannar réðust á okkur vegna þess að við stálum konum þeirra. / 'ai entendu des rumeurs ces derniers temps que les Normands nous ont attaqués parce que nous avons volé leurs femmes.
+v2;30;Ha? Við tökum ekki þræla svona oft lengur, er það ekki? / Hein? Nous ne prenons plus d'esclaves si souvent, n'est-ce pas ?
+v1;60;Það var ekki það sem ég meinti. Þeir eru öfundsjúkir yfir því að konur sínar flykkist til okkar! / Ce n'est pas ce que je voulais dire. Ils sont jaloux que leurs femmes continuent d'affluer vers nous !
+v2;90;Ó. Get ekki sagt að ég sé undrandi. Konur kjósa karla með gott hreinlæti. / Oh. Je ne peux pas dire que je suis surpris. Les femmes préfèrent les hommes avec une bonne hygiène.
+v1;120;Það var það sem ég hélt. Þeir ættu að koma í bað hjá okkur á laugardaginn. / C'est ce que je pensais. Ils devraient venir se baigner avec nous samedi.
+
+newchat;key:wives,v1:adult,v1:female,v1:hasspouse,v2:adult,v2:female,v2:hasspouse,weigth:7
+v1;0;Menn okkar eru ónýtir. Við verðum alltaf að vinna vinnuna hérna á meðan þau blunda eða verða full. / Nos maris sont inutiles. Nous devons toujours faire le travail ici pendant qu'ils somnolent ou se saoulent.
+v2;30;Segðu mér frá því. Ég kom heim eftir að hafa dregið kubba allan daginn og vissulega var maðurinn minn þarna sofandi eins og trjábolur! / Parle-moi de ça. Je suis rentré à la maison après avoir transporté des blocs toute la journée et bien sûr, mon mari dormait comme une bûche!
+v1;60;Hann lítur allavega almennilega út. Mín er einhvern veginn minna aðlaðandi en tröll. / Au moins, il a l'air convenable. Le mien est en quelque sorte moins attirant qu'un troll.
+v1;90;Myndarlegur drykkjumaður er betri en ljótur myndi ég segja. / Mieux vaut un beau paresseux qu'un laid, je dirais.
+v2;120;*soupir* Ég veit ekki hvað ég var að hugsa þegar ég giftist þessu fífli. / *soupir* Je ne sais pas à quoi je pensais quand j'ai épousé cet imbécile.
+v2;150;Hvað sem álög hindra mig í að yfirgefa manninn minn er enn meira ráðgáta. / Quel que soit le sort qui m'empêche de le quitter, c'est encore plus un mystère.
+v1;180;Sá álög kallast ást. / Ce sort est l'amour, ma chère.
+v2;210;Elskarðu manninn þinn? / Aimez-vous votre mari?
+v1;240;Þú munt aldrei fá heiðarlegt svar með því að spyrja. Við sýnum ást með gjörðum, ekki orðum. / Vous n'obtiendrez jamais une réponse honnête en demandant. Nous montrons l'amour par des actes, pas par des mots.
+v1;270;Að auki, þú veist nú þegar svarið. / D'ailleurs, vous connaissez déjà la réponse.
+
+newchat;key:inuits,v1:adult,v2:adult,weigth:10
+v1;0;Það er erfitt að setjast að í þessum snjóalöndum, er það ekki? / C'est difficile de s'installer dans ces terres enneigées, n'est-ce pas ?
+v2;30;Það er satt en svo virðist sem Skraelingjar eigi ekki í vandræðum með það. / C'est vrai, mais il semble que ces Skraelings n'aient pas de problème avec ça.
+v1;60;Skraelingjar, segirðu? Sá sem nefndi þetta fólk líkar það ekki alveg svona, ha? / Skraelings, dites-vous ? Celui qui a nommé ces gens ne les aime pas vraiment, hein ?
+v2;90;Það er það sem landnemarnir kalla þá eftir að hafa lent í þeim á Grænlandi. Það er sagt að þeir séu innfæddir. / C'est ainsi que les colons les appellent après les avoir rencontrés au Groenland. On dit que ce sont les indigènes.
+v2;120;Meðan landnámsmennirnir lifðu af blómstraðu þeir. Hefði verið um aldir, tel ég, ef þeir geta búið á þessum bölvaða stað. / Pendant que les colons survivaient, ils prospéraient. Cela faisait des siècles, je pense, qu'ils pouvaient vivre dans cet endroit maudit.
+v1;150;Í alvöru? Kannski gætum við lært eitt eða annað af þeim þá. / C'est ça ? Peut-être que nous pourrions apprendre une chose ou deux d'eux alors.
+v1;180;Svo, hvernig líta þeir út? / Alors, à quoi ressemblent-ils ?
+v2;210;Þeir voru lágvaxnir menn með stór augu, breiðar kinnar og flækt hár á höfði. / Ce sont des personnes de petite taille avec de grands yeux, de larges joues et des cheveux emmêlés sur la tête.
+v1;240;Hljómar eins og áhugavert mikið. Ég vona að ég gæti hitt þá einhvern tíma. / Cela ressemble à un lot intéressant. J'espère que je pourrais les rencontrer un jour.
+
+newchat;key:flirt,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0; Oops-
+v2;30;HÆ! Af hverju létstu mig sleppa hlutunum mínum ?! / HEY! Pourquoi m'as-tu fait laisser tomber mes affaires ?!
+v1;60;Hmm já, þetta er hlutinn þar sem ég hjálpa þér að ná í þau og hefja óaðfinnanlegt samtal. / Hmm oui, c'est la partie où je vous aide à les ramasser et à démarrer une simple conversation.
+v1;90;Má ég hjálpa þér, milady? / Puis-je vous aider, madame ?
+v2;120;*gifle* Má ég hjálpa þér, milady? / *gifle* Je vais les ramasser moi-même espèce de gaspilleur ivre !
+v1;150;OW! Skítt! Það meiddi! / OH ! Par seins de Fenrir ! Ça fait mal!
+v1;180;Jæja, það er nóg af fiski í sjónum alla vega, er það ekki? *hic* / Eh bien, il y a plein de poissons dans la mer de toute façon, hein ? *hic*
+
+newchat;key:pride,weigth:10
+v1;0;Við Norðlendingar erum bestir! / Nous les Normands sommes les meilleurs !
+v2;30;Örugglega! Við erum skáld, flakkarar, landvinningamenn og herrar hafsins! / Absolument! Nous sommes poètes, globe-trotters, conquérants et maîtres de la mer !
+v1;60;Enginn mun standa í vegi okkar! / Personne ne se mettra sur notre chemin !
+v2;90;Og Normannar, óvitandi peð okkar, munu dreifa dýrð okkar enn frekar! / Et les Normands, nos pions ignorants, étendront encore plus notre gloire !
+v1;120;Já! / Oui!
+
+newchat;key:talltales,v1:adult,v2:adult,weigth:10
+v1;0;Heyrðirðu fréttirnar? / Vous avez entendu la nouvelle ?
+v2;30;Hvað? Fleiri hásögur? / Quelle? Plus de contes ?
+v1;60;Ó ég er viss um að þessi er raunverulegur. Þú veist um skátaflokkinn sem týndist annað kvöld? / Oh, je suis sûr que celui-ci est réel. Tu sais pour le groupe de repérage qui a disparu l'autre soir ?
+v2;90;Já. Hvað með þau? / Oui. Et eux?
+v1;120;Jæja, að því er virðist, voru þeir allir fjöldamorðaðir af hópi „skuggafólks“ eins og Skraelingjar kölluðu þá. / Eh bien apparemment, ils ont tous été massacrés par un groupe de "gens de l'ombre" comme les Skraelings les appelaient.
+v2;150;Þeir ráfuðu í heilan hóp af þessum hlutum? Hverjar eru líkurnar? / Ils ont erré dans tout un groupe de ces choses ? Quelles sont les chances?
+v1;180;Þú veist hvernig það er. Fávitarnir héldu áfram að flakka fram á nótt, það kemur ekki á óvart að þeir voru loksins óheppnir. / Tu sais comment c'est. Les idiots ont continué à errer dans la nuit, il n'est pas surprenant qu'ils aient finalement manqué de chance.
+v1;210;Og ég heyrði að þeir væru þrettán talsins, það hlýtur að vera ástæðan fyrir því. / Et j'ai entendu dire qu'ils étaient treize, ça doit être pourquoi.
+v2;240;Hvað meinarðu? / Que veux-tu dire?
+v1;270;Veistu það ekki? Þrettán er óheppin tala. / Ne sais-tu pas? Treize est un nombre malchanceux.
+v2;300;Hvernig komst þú að þeirri niðurstöðu? / Comment as-tu compris ça ?
+v1;330;Ég held að það sé úr þeirri sögu sem ég heyrði sem barn um Baldur og Loki... / Je pense que ça vient de cette histoire que j'ai entendue quand j'étais enfant à propos de Baldur et Loki...
+
+newchat;key:truewarrior,v1:child,v1:male,v2:vtype:jarl,weigth:5
+v2;0;Vertu viss um að þú meiðir þig ekki með því trésverði, strákur. / Assure-toi de ne pas te blesser avec cette épée en bois, mon garçon.
+v1;30;Ég veit hvað ég er að gera, gamli! / Je sais ce que je fais, mon vieux !
+v1;60;Þegar ég er búinn að æfa verð ég mesti kappi í heimi! / Quand j'aurai fini de m'entraîner, je serai le plus grand guerrier du monde !
+v2;90;*rires* Þú veist ekki einu sinni í hvorum enda sverðs þú átt að halda! / *rires* Tu ne sais même pas quelle extrémité de l'épée tenir !
+v1;120;Í alvöru? Jæja ég veit allavega hvernig á að sveifla því! / Ah bon? Eh bien au moins je sais comment le balancer!
+v2;150;Allir vita hvernig á að sveifla sverði en það þarf sannan kappa til að vita hvenær á að nota það. / Tout le monde sait manier une épée, mais il faut un vrai guerrier pour savoir quand l'utiliser.
+v2;180;Vegna þess að sama hversu hæfileikaríkur þú ert, ef þú ert ekki með gott höfuð á öxlunum, þá verðurðu fyrstur til að missa höfuðið í bardaga. / Parce que peu importe à quel point vous êtes doué, si vous n'avez pas la tête sur les épaules, vous serez le premier à perdre la tête dans une bataille.
+v1;210;*ronflement*
+v2;240;Hæ! Ertu jafnvel að hlusta? / Hey! Êtes-vous même à l'écoute?
+
+newchat;key:narwhals,v2:vtype:localmerchant,weigth:8
+v1;0;Hefurðu einhverjar sögur til að miðla af ferðum þínum í gamla heiminum? / Avez-vous des histoires à partager sur vos voyages dans le vieux monde?
+v2;30;Hmm, einu sinni græddum við mikla fjármuni eftir langa ferð til Miklagarðr... / Hum, il y a eu une fois où nous avons gagné une fortune après un long voyage à Constantinople...
+v1;60;Ooh, segðu mér frá því! / Oh, raconte-moi ça !
+v2;90;Meðan við vorum úti á hvalveiðum á Grænlandi lagði vinur minn til að við ættum að selja Rómverjum nokkur narhvalhorn. / Pendant que nous allions chasser la baleine au Groenland, un de mes amis a suggéré que nous vendions des cornes de narval aux Romains.
+v2;120;Eins og kemur í ljós líta narhvalhorn út eins og einhyrningshorn og sumir Rómverjar héldu að þetta væru einhvers konar dulræn lækning. / Il s'avère que les cornes de narval ressemblent beaucoup à celles d'une licorne et certains Romains pensaient que les cornes de licorne étaient une sorte de remède magique.
+v1;150;Svo fórstu til Miklagarðr til að svindla á fólki? / Alors vous êtes allé à Constantinople pour arnaquer les gens ?
+v2;180;Já. Eins og ég sagði, þetta var löng ferð og við lentum meira að segja í stormi eða tveimur en þetta var allt þess virði. /Toujours. Comme je l'ai dit, c'était un long voyage et nous nous sommes même retrouvés dans une tempête ou deux mais cela en valait la peine.
+v2;210;Aðalsmennirnir streymdu stöðugt til okkar þegar við seldum þessi horn og við seldumst fljótt upp! / Les nobles n'arrêtaient pas d'affluer vers nous lorsque nous avons colporté ces cornes et nous avons rapidement vendu !
+v2;240;Við notuðum mest af peningunum til að kaupa okkur fullt af víni þó... / Cependant, nous avons utilisé la majeure partie de l'argent pour nous acheter beaucoup de vin...
+
+newchat;key:cnut,weigth:10
+v1;0;Hefur þú einhvern tíma heyrt um King Cnut? Hann var almennilegur konungur. / Avez-vous déjà entendu parler du roi Cnut ? C'est un vrai roi.
+v2;30;Ég hef ekki heyrt þetta nafn í langan tíma... / Cela faisait longtemps que je n'avais pas entendu ce nom...
+v1;60;Hann vann krónur Danmerkur, Englands og Noregs!/ Il a remporté à lui tout seul les couronnes du Danemark, de l'Angleterre ET de la Norvège !
+v2;90;Við vorum eitthvað heimsveldi þá ekki satt? / Nous étions une sorte d'empire à l'époque, n'est-ce pas ?
+v1;120;Já. Ég veðja að hann hefði nú sigrað nýja heiminn ef hann væri hér. / Oui. Je parie qu'il aurait déjà conquis le nouveau monde s'il était là.
+v2;150;Við köllum hann ekki „King Cnut the Great“ að ástæðulausu! / Nous ne l'appelons pas "King Cnut le Grand" sans raison !
+
+newchat;key:yule,weigth:10
+v1;0;Hvenær munum við fagna Hjol? / Quand fêterons-nous Yule ?
+v2;30;Ég er ekki viss. Þú veist hvernig árstíðirnar eru á þessum stað. / Je ne suis pas sûr. Vous savez comment sont les saisons dans cet endroit.
+v2;60;Ég veit ekki einu sinni hvort við þurfum að fagna Hjol lengur. Fimbulvetr gæti ekki gerst í nýja heiminum. / Je ne sais même plus si nous devons célébrer Yule. Fimbulwinter pourrait ne pas arriver dans le nouveau monde.
+v1;90;*Soupir* Ég mun sakna gjafanna og hátíðanna... / *Soupir* Les cadeaux et les festins vont me manquer...
+v2;120;Ekki hafa áhyggjur, svo lengi sem myrkur er, þá munum við þurfa á ljósi Hjol að halda. / Courage, tant qu'il y aura de l'obscurité, nous aurons besoin de la lumière de Yule.
+v2;150;Og eins og ég sé það, þá er nóg af myrkri í nýja heiminum. Við gætum fagnað alveg nýrri Hjol hér. / Et la façon dont je le vois, il y a beaucoup de ténèbres dans le nouveau monde. Nous pourrions célébrer un tout nouveau Noël ici.
+
+newchat;key:eigil,weigth:10
+v1;0;Móðir mín sagði mér það / Ma mère m'a dit
+v2;30;Einhvern tíma myndi ég kaupa / Un jour j'achèterais
+v1;60;Galir með góðum árum / Galères avec de bonnes rames
+v2;90;Siglt að fjarlægum ströndum / Naviguez vers des rivages lointains
+v1;120;Standandi á hrekkja / Debout sur la proue
+v2;150;Göfugt skip stýri ég / Noble barque que je dirige
+v1;180;Stöðugur gangur til himna / Cap stable vers le havre
+v2;210;Höggva marga fjandmenn / Hew beaucoup d'ennemis
+v1;240;Höggva marga fjandmenn / Hew beaucoup d'ennemis
+
+newchat;key:dublin,v1:adult,v2:adult,weigth:5
+v1;0;Þessi staður leiðist mér... / Cet endroit m'ennuie...
+v2;30;Leiðindi eru ekki góð fyrir geðheilsuna. Nokkrir bollar af brennivíni ættu að láta þig gleyma því sem þjáir þig. / L'ennui n'est pas bon pour votre santé mentale. Quelques pintes d'alcool devraient vous faire oublier ce qui vous afflige.
+v1;60;Nei takk. Mig langaði bara að fara eitthvað annað. / Non merci. je voulais juste changer de décor.
+v2;90;Mér heyrist Írland er ágætur staður. / J'ai entendu dire que l'Irlande est un endroit agréable.
+v1;120;Írland? Ég á ættingja þarna í Dublin. Ég ætti kannski að fara að heimsækja þau einhvern tíma... / Irlande? J'ai des parents là-bas à Dublin. Je devrais peut-être aller leur rendre visite un jour...
+v1;150;Dublin lítur út eins og þorpið okkar en stærra. Þar bjuggu fjögur þúsund manns. / Dublin ressemble à notre village mais en plus grand. Il y avait 4000 personnes qui y vivaient.
+v2;180;Fjögur þúsund manns búa á einum stað ... Rómverjar gætu hæðst að því en það er nóg á okkar mælikvarða. / 4000 personnes vivant au même endroit... Les Romains pourraient s'en moquer, mais c'est beaucoup selon nos normes.
+
+newchat;key:india,v1:vtype:jarl,weigth:5
+v1;0;Ég vil verða Konungur Indlands einn daginn. / Je veux être le roi de l'Inde un jour.
+v2;30;...
+v2;60;...Af hverju?? / ...Pourquoi??
+v1;90;Það yrði helvítis afrek, værir þú ekki sammála því? / Ce serait un sacré exploit, n'est-ce pas ?
+v1;120;Og ímyndaðu þér hversu fyndið það væri fyrir víking að stjórna einhverju handahófi ríki í austri! / Et imaginez à quel point ce serait amusant pour un viking de diriger un royaume aléatoire à l'est !
+v2;150;allt í lagi... / d'accord...
+
+newchat;key:end,weigth:1
+v1;0;Mig dreymdi undarlegan draum í gærkvöldi. / J'ai fait un rêve étrange la nuit dernière.
+v2;30;Hvað dreymdi þig um? / De quoi as-tu rêvé?
+v1;60;...ég veit ekki alveg hvað þetta var. / ... Je ne sais pas vraiment ce que c'était.
+v2;90;Ó, það er einn af þessum draumum, ha? / Oh, c'est un de ces rêves, hein ?
+v1;120;Nei, þetta er öðruvísi. Þetta fannst mér vera raunverulegt eins og ég væri þar. / Non, c'est différent. Tout semblait réel, comme si j'y étais.
+v2;150;Haltu áfram. / Alors vas-y.
+v1;180;Ég var á eyðieyju umkringd endalausum svörtum sjó. / J'étais sur une île désolée entourée d'une mer noire sans fin.
+v1;210;Ég sá skuggamyndir af stórum turnum í fjarska, teygðu sig til himins eins og faðmar deyjandi guða. / J'ai vu des silhouettes de grandes flèches au loin, s'élançant vers le ciel comme les bras de dieux mourants.
+v1;240;Og efst á hverjum turni var skínandi kristall, haldinn af stálhöndum. / Et au sommet de chaque flèche se trouvait un cristal brillant, bercé par des mains d'acier.
+v1;270;Alls staðar sem ég leit á voru lifandi skuggar. Allir öskruðu þeir samt í fullkominni þögn. / Partout où je regardais, il y avait des ombres vivantes. Tous criaient pourtant ils se tenaient dans un silence parfait.
+v1;300;Þegar ég sá það hér að ofan vissi ég af hverju þau öskruðu öll. / Quand je l'ai vu dans le ciel, j'ai su pourquoi ils criaient tous.
+v1;330;Þetta var svartur dreki og blakaði vængjunum í loftlausa tómarúminu þar sem hann gat einhvern veginn flogið. / 'C'était un dragon noir, battant des ailes dans le vide sans air où il pouvait voler d'une manière ou d'une autre.
+v1;360;Það flaug á himninum innan um allt það brjálæði, eins og harðstjórinn í dauðum heimi! Sú sena gerði mig næstum brjálaða! / Il planait dans le ciel au milieu de toute cette folie, comme le tyran d'un monde mort ! Cette scène m'a presque rendu fou.
+v2;390;Kannski varstu nú þegar vitlaus, vinur. Hefur þú borðað einhverja sveppi undanfarið? / Peut-être étiez-vous déjà fou, mon ami. Avez-vous mangé des champignons étranges ces derniers temps?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

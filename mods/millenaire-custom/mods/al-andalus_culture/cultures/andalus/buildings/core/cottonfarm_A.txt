@@ -1,0 +1,23 @@
+building.length=18
+building.width=12
+building.buildingorientation=2
+building.max=1
+building.areatoclear=3
+
+building.icon=cotton
+
+initial.startlevel=-1
+initial.nativename=Mazraeat Qatn
+initial.priority=500
+initial.male=andalus_cottonfarmer
+initial.female=andalus_peasantwife
+initial.tag=cotton
+initial.tag=cottonfield
+initial.tag=nopaths
+
+upgrade1.priority=100
+
+upgrade2.priority=75
+
+upgrade3.priority=70
+

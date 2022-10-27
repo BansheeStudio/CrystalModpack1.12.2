@@ -1,0 +1,12 @@
+building.length=55
+building.width=55
+building.fixedorientation=south
+building.issubbuilding=true
+building.parentbuildingplan=fishingvillage_A2
+building.max=0
+building.icon=andalusspear
+
+initial.startlevel=-7
+initial.nativename=Sarir
+initial.tag=patrol
+initial.male=andalus_soldier

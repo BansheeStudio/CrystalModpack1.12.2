@@ -1,0 +1,5 @@
+sells=healing_potion,regen_potion,mint_tea
+
+buys=glass,sugar,redflower,mint
+
+deliverto=glass,sugar,redflower,mint

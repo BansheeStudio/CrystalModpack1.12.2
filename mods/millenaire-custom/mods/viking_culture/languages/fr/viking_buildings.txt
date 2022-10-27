@@ -1,0 +1,74 @@
+
+//core buildings
+ 
+ merc_house_A0=Maison des Mercenaires
+ merc_house_A_bed0_A0=Lit de mercenaire
+ merc_house_A_bed1_A0=Lit de mercenaire
+ vikingcattlefarm_A0=Ferme d'élevage
+ vikingfarm_A0=Ferme
+ vikingfishery_A0=Pêcherie
+ vikingforge_A0=Forge
+ vikinggrove_A0=Bosquet
+ vikinggrove2_A0=Bosquet
+ vikingguard_A0=Maison du Garde
+ vikingguardbed1_A0=Quartiers des soldats
+ vikingguardbed2_A0=Quartiers des soldats
+ vikingguardbed3_A0=Quartiers des soldats
+ vikinginn_A0=Auberge
+ vikinglumberman_A0=La maison du bûcheron
+ vikinglumberman_B0=La maison du bûcheron
+ vikingmarket_A0=Marché
+ vikingquarry_A0=Carrière
+ vikingsheepfarm_A0=Élevage de moutons
+ vikingtemple_A0=Temple
+ vikingtemple_A_berserker0_A0=Berserker
+ vikingtemple_A_berserker1_A0=Berserker
+ vikingwatchtower_A0=Tour de guet
+ vikingwheatfarm_A0=Ferme de blé
+ vikingworkshop_A0=Atelier
+ vikingwell_A0=Bien
+ 
+ //lone buildings
+
+clanhall_A0=Salle de clan
+jomsvikingoutpost_A0=Avant-poste de Jomsviking
+raidercamp_A0=Camp de Pillards
+raiderlair_A0=Repaire des Pillards
+shipburial_A0=bateau funéraire 
+
+//player buildings
+
+playerfort_A0=Forteresse
+playerfort_A_armoury_A0=Forteresse D'armurerie
+playerfort_A_barracks0_A0=Forteresse Barracks
+playerfort_A_barracks1_A0=Forteresse Barracks
+playerfort_A_barracks2_A0=Forteresse Barracks
+playerfort_A_barracks3_A0=Forteresse Barracks
+playerlonghouse_A0=Grande maison
+smallnorseplayerhouse_A0=Petite maison
+
+//townhall buildings
+
+jarllonghouse_A0=Longue Maison de Jarl's
+vikingmanor_A0=Manoir
+vikingtownhall_A0=Mairie
+
+//walls
+
+full_wall_gateway_a0=Porte du Village
+full_wall_a0=Mur du Village
+full_wall_slope_right1_a0=Mur du Village
+full_wall_slope_right2_a0=Mur du Village
+full_wall_slope_left3_a0=Mur du Village
+full_wall_slope_left2_a0=Mur du Village
+full_wall_slope_left1_a0=Mur du Village
+full_wall_slope_right3_a0=Mur du Village
+
+full_wall_cap_both_a0=Fin de muraille
+full_wall_cap_right_a0=Fin de muraille 
+full_wall_cap_left_a0=Fin de muraille
+full_wall_corner_a0=Tour d'angle
+
+borderpost_a0=Poste
+borderpost_corner_a0=Poste frontalier (coin)
+borderpost_gate_a0=Poste frontalier (entrée)

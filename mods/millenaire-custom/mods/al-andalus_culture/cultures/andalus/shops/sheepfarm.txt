@@ -1,0 +1,5 @@
+sells=wool_black,wool_brown,wool_gray,wool_lightgray,wool_pink,wool_white,mutton,bone
+
+buys=wheat
+
+deliverto=wool_black,wool_brown,wool_gray,wool_lightgray,wool_pink

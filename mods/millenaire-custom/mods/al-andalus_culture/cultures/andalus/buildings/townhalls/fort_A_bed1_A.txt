@@ -1,0 +1,14 @@
+building.length=41
+building.width=40
+building.buildingorientation=2
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=fort_A3
+building.travelbook_display=false
+
+building.icon=andalusspear
+
+initial.startlevel=-4
+initial.nativename=Sarir
+initial.priority=1000
+initial.male=andalus_soldier

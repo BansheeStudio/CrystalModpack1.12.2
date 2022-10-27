@@ -1,0 +1,25 @@
+//Weapons list, with priority for use (which weapon the villager will use when fighting)
+weaponHandToHandPriority=viking_sword,100
+
+//Tools, including swords, with rating so that villagers will pick a "better" one if available
+toolSwordPriority=viking_sword,100
+
+// Armour, by category
+armourHelmetPriority=normanhelmet,90
+armourHelmetPriority=steelhelmet,70
+armourHelmetPriority=viking_helmet,100
+
+armourChestplatePriority=chainchest,60
+armourChestplatePriority=normanplate,90
+armourChestplatePriority=viking_plate,100
+
+armourLeggingsPriority=chainlegs,60
+armourLeggingsPriority=normanlegs,90
+armourLeggingsPriority=viking_legs,100
+
+armourBootsPriority=chainboots,60
+armourBootsPriority=furboots,55
+armourBootsPriority=leatherboots,40
+armourBootsPriority=normanboots,90
+armourBootsPriority=viking_boots,100
+

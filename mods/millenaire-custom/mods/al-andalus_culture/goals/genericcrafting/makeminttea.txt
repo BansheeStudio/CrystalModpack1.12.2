@@ -1,0 +1,11 @@
+priority=50
+
+duration=90000
+
+heldItems=mint,mint_tea
+
+input=mint,4
+output=mint_tea,1
+
+buildinglimit=mint_tea,16
+

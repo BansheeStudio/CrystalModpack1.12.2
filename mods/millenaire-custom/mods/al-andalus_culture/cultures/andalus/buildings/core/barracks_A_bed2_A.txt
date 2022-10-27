@@ -1,0 +1,14 @@
+building.length=20
+building.width=20
+building.buildingorientation=0
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=barracks_A2
+building.travelbook_display=false
+
+building.icon=andalusspear
+
+initial.startlevel=-1
+initial.nativename=Sarir
+initial.priority=1000
+initial.male=andalus_soldier

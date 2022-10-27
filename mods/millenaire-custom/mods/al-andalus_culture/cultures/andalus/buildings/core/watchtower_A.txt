@@ -1,0 +1,22 @@
+building.length=9
+building.width=9
+building.buildingorientation=0
+building.mindistance=0.3
+building.max=2
+building.farfromtag=patrol,20
+
+building.icon=torch
+
+initial.startlevel=-1
+initial.nativename=Burj Almuraqaba
+initial.priority=400
+initial.tag=patrol
+initial.male=andalus_soldier
+
+upgrade1.priority=100
+
+upgrade2.priority=85
+
+upgrade3.priority=85
+
+

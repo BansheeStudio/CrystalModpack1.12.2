@@ -1,0 +1,17 @@
+//* The part before the ";" is the title, after it the description
+
+0;Étranger;Faites comme chez vous, étranger. Vous trouverez notre petit village assez accueillant.
+4*64;Connaissance;Nous vous remarquons depuis un certain temps déjà. Restez calme et nous ferons de même.
+8*64;Visage connu;Vous semblez avoir fait bonne impression sur beaucoup d'entre nous. Peut-être que nous nous entendrons assez bien.
+16*64;Invité bien-aimé;Bienvenue, $name ! Il est bon de vous revoir.
+32*64;Fellow Explorer;Huh, vous semblez également être bloqué dans ce monde. Eh bien, nous pouvons explorer ce nouvel endroit ensemble et faire du profit !
+64*64;Marchand favori;Ah, $nom ! Quels beaux produits nous apportez-vous aujourd'hui ?
+2*64*64;Ami du Village;Vous avez prouvé que nous pouvons faire confiance à des étrangers comme vous. N'hésitez pas à rester avec nous.
+4*64*64;Ally;$name, vous avez été si utile à notre peuple. Nous remercions les dieux de nous avoir réunis.
+8*64*64;L'un de nous;C'est toujours un plaisir de vous voir $name. Vous venez peut-être de pays lointains, mais vous êtes vraiment l'un des nôtres maintenant.
+32*64*64;Natural Leader;$name, vous avez gagné la confiance et le respect des hommes du Nord. Ils vous suivront partout.
+4*32*64*64;Grand Sea-King;Le destin a apporté à notre peuple un grand champion, celui qui nous conduira à la grandeur, et ce champion n'est autre que vous, $name ! Vive $name le grand, choisi parmi les rois !
+-64;Nuisance;Oh, c'est encore toi...
+-4*64;Invité indésirable;Vous vous êtes avéré être une véritable nuisance par ici. Nous vous exhortons à rapporter vos mésaventures ailleurs.
+-16*64;Ennemi public;Vous savez quoi? Je pense que tu es plus belle avec une lance enfoncée dans ton visage.
+-64*64;Le méprisant;Votre présence ici est mal vue par tous les dieux. Que Thor te frappe à mort et t'entraîne dans les profondeurs d'Helheim !

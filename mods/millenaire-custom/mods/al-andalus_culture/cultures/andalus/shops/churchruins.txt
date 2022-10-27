@@ -1,0 +1,3 @@
+sells=carved_wood
+
+buys=stone,cobblestone,clay,brick,bricks,carpet_red,carpet_white,bread,steelSword,steelPickaxe,steelAxe,steelShovel,normanPickaxe,diamondPickaxe,diamondAxe,diamondShovel,normanShovel,normanAxe,stoneAxe,stonePickaxe,stoneShovel,wood,wood_pine,wood_darkoak,byzantine_tiles

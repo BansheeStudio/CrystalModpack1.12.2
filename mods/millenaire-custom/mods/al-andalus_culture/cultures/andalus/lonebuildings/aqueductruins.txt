@@ -1,0 +1,21 @@
+name=Atlal Alqnat Alruwmania
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Desert
+biome=DesertHills
+biome=Desert M
+biome=Savanna
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=lush desert
+biome=outback
+
+//starting buildings=
+centre=aqueductruins

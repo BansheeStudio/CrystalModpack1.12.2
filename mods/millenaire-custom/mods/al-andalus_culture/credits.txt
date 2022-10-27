@@ -1,0 +1,48 @@
+cowfarm_B & peasanthouse_B by Hana
+
+item textures by ultra shibe
+
+
+
+skins by LukyLucaz:
+
+andalus_richwoman_1 (https://www.planetminecraft.com/skin/cairene-noblewoman/)
+
+andalus_bandit_layer_0 (https://www.planetminecraft.com/skin/berber-cavalry/)
+
+andalus_bandit_layer_1 (https://www.planetminecraft.com/skin/berber-chieftain/)
+
+andalus_generic_1,2,&4 (https://www.planetminecraft.com/skin/arab-farmers-skin-p
+ack/)
+
+andalus_generic_3 (https://www.planetminecraft.com/skin/the-flower-merchant/)
+
+andalus_generic_6 and andalus_merchant_0&1 (https://www.planetminecraft.com/skin/arab-elders-skin-pack/)
+
+andalus_generic_7 (https://www.planetminecraft.com/skin/berber-tribesmen-skin-pack-3-variations/)
+
+andalus_imam_0 (https://www.planetminecraft.com/skin/arab-surgeon/)
+
+andalus_imam_2 (https://www.planetminecraft.com/skin/arabianturkish-bey/)
+
+female andalus_generic_6 (https://www.planetminecraft.com/skin/medieval-jewish-woman/)
+
+
+skins by Lunaros:
+
+andalus_richwoman_0 (https://www.planetminecraft.com/skin/lubna-of-c-rdoba-world-heritage-contest-entry/)
+
+andalus_emir_0 (https://www.planetminecraft.com/skin/cordoban-emir/)
+
+andalus_emir_1 (https://www.planetminecraft.com/skin/emir-walid-ibn-kitab-the-wise/)
+
+andalus_emir_2 (https://www.planetminecraft.com/skin/medieval-emir/)
+
+andalus_generic_0 (https://www.planetminecraft.com/skin/ibn-battuta/)
+
+andalus_merchant_2 (https://www.planetminecraft.com/skin/ja-qub-tahirzm-sa-dun-banaisar-hajjalj/)
+
+
+deployer code by Laika Ivanova
+
+Thanks to MoonCutter2B for helping with troubleshooting 

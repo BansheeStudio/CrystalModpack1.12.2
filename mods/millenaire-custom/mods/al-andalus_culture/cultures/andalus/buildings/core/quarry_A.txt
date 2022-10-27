@@ -1,0 +1,26 @@
+building.length=15
+building.width=17
+
+building.buildingorientation=0
+building.mindistance=0.5
+building.areatoclear=3
+
+building.icon=steelpickaxe
+
+initial.startlevel=-6
+initial.nativename=Muqlae
+initial.priority=600
+initial.male=andalus_miner
+initial.female=andalus_minerwife
+initial.tag=brickkiln
+initial.tag=nopaths
+initial.tag=sandpit
+
+//Parameters for specific upgrades
+
+upgrade1.priority=500
+
+upgrade2.priority=350
+upgrade2.tag=mine
+
+upgrade3.priority=100

@@ -1,0 +1,11 @@
+minreputation:4*32*64*64
+chanceperhour:1
+maxsimultaneous:1
+definevillager:key=leader,type=andalus/andalus_sheikh,type=andalus/andalus_richtrader
+forbiddenplayertag:relic_done
+
+step:new
+villager:leader
+duration:5
+rewardgood:relic_sword,1
+setplayertagsuccess:relic_done

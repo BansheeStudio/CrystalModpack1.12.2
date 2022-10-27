@@ -1,0 +1,15 @@
+building.length=41
+building.width=41
+building.fixedorientation=east
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=thmosque_A0
+building.travelbook_display=false
+
+building.icon=torch
+
+initial.startlevel=-1
+initial.nativename=Masjid
+initial.priority=1000
+initial.tag=mosque
+initial.tag=nopaths

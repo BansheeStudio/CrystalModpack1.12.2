@@ -1,0 +1,17 @@
+minreputation:6464
+chanceperhour:0.57
+maxsimultaneous:2
+
+step:new
+definevillager:key=startvillager,type=andalus/andalus_peasantwife
+villager:startvillager
+rewardgood:seeds,10
+duration:5
+
+step:new
+villager:startvillager
+duration:72
+requiredgood:wheat,5
+rewardgood:couscous,1
+rewardreputation:2048
+penaltyreputation:1200

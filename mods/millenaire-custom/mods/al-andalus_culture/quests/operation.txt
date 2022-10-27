@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:0.2
+maxsimultaneous:1
+
+step:new
+definevillager:key=startvillager,type=andalus/andalus_physician,forbiddentag=operation_done
+villager:startvillager
+duration:3
+requiredgood:steelaxe,1
+rewardreputation:-64
+rewardmoney:4*64
+settagsuccess:startvillager,operation_done
+settagfailure:startvillager,operation_done

@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=17
+buildingorientation=3
+building.max=1
+building.icon=steelhelmet
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Vopnabúr
+initial.priority=800
+initial.male=vikingweaponsmith
+initial.female=vikingwife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.shop=vikingweaponforge
+
+//Parameters for specific upgrades
+upgrade1.priority=120
+
+upgrade2.priority=100
+
+upgrade3.priority=80
+upgrade3.pathlevel=1

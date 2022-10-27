@@ -1,0 +1,13 @@
+building.length=41
+building.width=41
+building.max=0
+building.issubbuilding=true
+building.parentbuildingplan=playerfort_A2
+building.travelbook_display=false
+
+building.icon=viking_sword
+
+initial.startlevel=-1
+initial.nativename=Hird
+initial.male=vikingwarrior
+initial.priority=400

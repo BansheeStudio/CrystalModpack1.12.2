@@ -1,0 +1,15 @@
+0;Stranger;Welcome to Al-Andalus, stranger. We hope you enjoy your stay.
+4*64;Familiarity;It seems we are starting to understand one another. Wherever you may come from, I see promise in you.
+8*64;Known Face;Greetings, $name, it is good to see a familiar face in these uncertain times.
+16*64;Regular Visitor;The people of the village seem to have a positive impression of you. Keep it up and you'll rise high.
+32*64;Fellow Wanderer;It seems we have much in common after all, dear stranger. Come, let us go on this journey together.
+64*64;Favourite Trader;Our favorite trader has arrived, surely you have goods that neither Roman silk nor Ghanian gold can match!
+2*64*64;Friend of the Village;We Andalusians have many peoples among us yet few can gain the trust of all at once. You have proven yourself a true friend.
+4*64*64;Ally;It is difficult to find allies in these strange lands but after meeting you, we certainly have found one.
+8*64*64;One of Us; All are welcome in Al-Andalus but you my friend have earned your place in the village.
+32*64*64;Natural Leader;$name, you have gained the trust and respect of the Andalusians. They will follow you anywhere.
+4*32*64*64;The Hand of God;Just as the Sword of God was bestowed upon our people generations ago, so too has God graced us with one so great such as yourself. Long live Sheikh $name, the Hand of God!
+-64;Nuisance; We pray that you stop this nonsense and see the light. I know you are better than this.
+-4*64;Unpleasant Outsider;Whatever burden you wish to bring upon us today, we want no part of it. Leave us in peace.
+-16*64;Public Enemy;You have no business here, even the people of Al-Andalus can't tolerate such shameful fugitives.
+-64*64;Enemy of God;You dare stand before us now? Away with you, filthy scourge! May God curse you!

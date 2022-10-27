@@ -1,0 +1,16 @@
+building.length=30
+building.width=30
+building.buildingorientation=2
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=ruralmanor_A0
+
+building.icon=bed_red
+
+initial.startlevel=-1
+initial.nativename=Alnuzul
+initial.priority=1000
+initial.male=andalus_localmerchant
+
+initial.tag=inn
+initial.signs=1,0

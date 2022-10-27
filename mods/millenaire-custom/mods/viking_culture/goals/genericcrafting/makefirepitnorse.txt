@@ -1,0 +1,14 @@
+priority=75
+
+duration=1000
+
+heldItems=wood_pine,wood_oak,fire_pit
+
+input=wood_pine,2
+input=wood_oak,2
+output=fire_pit,1
+
+townhalllimit=fire_pit,6
+
+sound=wood
+

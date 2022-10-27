@@ -1,0 +1,13 @@
+building.length=16
+building.width=21
+building.max=0
+building.issubbuilding=true
+building.parentbuildingplan=vikingtemple_A5
+building.travelbook_display=false
+
+building.icon=leather
+
+initial.startlevel=-1
+initial.nativename=Berserkr
+initial.male=berserker
+initial.priority=400

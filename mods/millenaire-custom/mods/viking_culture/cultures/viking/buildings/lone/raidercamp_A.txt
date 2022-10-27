@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=19
+building.width=25
+building.startinggood=denier,1.0,10,50
+building.startinggood=denierargent,0.5,1,3
+
+building.icon=steelsword
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Víkingr Herbúðir
+initial.priority=5
+initial.male=raider
+initial.male=raider
+initial.male=raider

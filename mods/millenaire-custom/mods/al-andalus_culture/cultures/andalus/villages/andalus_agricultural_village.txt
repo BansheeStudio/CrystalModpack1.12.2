@@ -1,0 +1,84 @@
+name=Mustawtanat Ziraeia
+weight=10
+icon=wheat
+carriesraid=true
+
+biome=Desert
+biome=Desert M
+biome=Savanna
+biome=Savanna M
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=lush desert
+biome=outback
+
+pathmaterial=pathgravel
+pathmaterial=pathslabs
+
+outerwallType=borderposts
+
+//starting buildings=
+centre=ruralmanor
+start=datepalmgrove
+start=grove
+start=imamshouse
+start=mill
+start=mosque
+start=peasanthouse
+start=quarry
+start=wheatfield
+start=wheatfield
+start=woodcutter
+
+//player buildings=
+player=playerhousesmall
+player=playerhousemed
+player=playerstables
+
+//to be built in priority=
+core=cottonfarm
+core=olivefarm
+core=painterhouse
+core=peasanthouse
+core=pistachiogrove
+core=sheepfarm
+core=smalloakgrove
+core=stonecraftsman
+core=sugarcanefarm
+core=well
+
+secondary=architect
+secondary=bazaar
+secondary=chapel
+secondary=cowfarm
+secondary=fishery
+secondary=garden
+secondary=mosque
+secondary=tavern
+secondary=weaver
+
+never=archives
+never=armoury
+never=barracks
+never=brickkiln
+never=femalemosque
+never=fountain
+never=hamambath
+never=inn
+never=madrasa
+never=tannery
+never=toolsmith
+never=watchtower
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:flo,Color:1},{Pattern:mr,Color:1},{Pattern:mc,Color:11}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:cbo,Color:2},{Pattern:cr,Color:2},{Pattern:hh,Color:2},{Pattern:mc,Color:2},{Pattern:flo,Color:15},{Pattern:tt,Color:2}]}}
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:moj,Color:15},{Pattern:rs,Color:1}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:vhr,Color:0},{Pattern:tl,Color:0},{Pattern:bl,Color:0},{Pattern:tr,Color:15},{Pattern:br,Color:15},{Pattern:bo,Color:1}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:ms,Color:0},{Pattern:flo,Color:15},{Pattern:ts,Color:0},{Pattern:bs,Color:0},{Pattern:mr,Color:15},{Pattern:mc,Color:0}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:cr,Color:11},{Pattern:bt,Color:10},{Pattern:bo,Color:10},{Pattern:bs,Color:10}]}}

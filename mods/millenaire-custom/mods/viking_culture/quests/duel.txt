@@ -1,0 +1,13 @@
+minreputation:0
+chanceperhour:0.4
+maxsimultaneous:2
+
+step:new
+definevillager:key=startvillager,type=viking/raider,type=viking/vikingwarrior,forbiddentag=duel_done
+villager:startvillager
+duration:5
+requiredgood:steelsword,1
+rewardmoney:64
+rewardreputation:768
+settagsuccess:startvillager,duel_done
+settagfailure:startvillager,duel_done

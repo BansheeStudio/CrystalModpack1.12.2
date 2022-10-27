@@ -1,0 +1,9 @@
+
+goal.mineandesite=Site de minage d'andésite 
+goal.makevikingboots=Fabrique des bottes
+goal.makevikinghelmet=Fabrique un casque
+goal.makevikinglegs=Fabrique une jambières
+goal.makevikingplate=Fabrique un plastron
+goal.makevikingsword=Fabrique une épée
+goal.makefirepitnorse=Fait un foyer
+goal.makecarpet_brown=Fabrique un tapis

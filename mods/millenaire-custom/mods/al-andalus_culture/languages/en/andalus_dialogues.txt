@@ -1,0 +1,386 @@
+//* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//* First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Ah , aljawi mushmis marat 'ukhraa. 'asheur bi'aniy fi biti. / Ah, It's sunny again. Feels like home.
+v2;30;'aetaqid 'ana almatar fi 'iisbania yabqaa bishakl rayiysiin fi alsuhli. / I guess the rain in Spain stays mainly in the plain.
+
+newchat;key:nicevillage,weigth:10
+v1;0;hadha almakan jamilun. kula shay' ghurayb jdana lakuniy 'ajaduh mnzlyana. / This place is lovely. It's all so strange but I find it homely.
+v2;30;hsnana , 'iinah munzaluna swa' 'ahbabna dhlk 'am la. 'ana bialtaakid 'uhibu dhlk balrghm min dhalik. / Well it is our home whether we like it or not. I definitely like it though.
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;laqad sayimat al'ayam almushamsatu. alhararat ealiatan huna. / I'm getting sick of sunny days. It's so hot here.
+v2;30;yjb 'an tukrih alghawl raghm dhalik. 'iidha kan al'amr kdhlk , faladik alshams litushakiraha ealaa qatlahum baed shuruq alshums. / You must hate ghouls though. If so, you have the sun to thank for killing them off after sunrise.
+v1;60;ah nem , 'ana bialtaakid 'uhibu alraayihat alnitnat liharq =Allahm fi alsabah. / Ah yes, I certainly love the sweet stench of burning flesh in the morning.
+v2;120;limadha 'ant ghadib jiddaan alyawma? / Why are you so grumpy today?
+v1;150;laqad kanat dayimaan mundh 'an zaharat tilk alshams allaeinat. / Always have been since that damned sun came up. 
+v2;180;hsnana , 'iidha kunt tukrih alshams kthyrana falimadha la tusbih ghwlana? / Well if you you hate the sun so much why don't you become a ghoul?
+v1;210;rubama sa'asbah ghawl! thuma sa'urikum darsana mahabana lilshumas! / Maybe I will become a ghoul! Then I'll show you sun-loving folk a lesson!
+
+newchat;key:nothomeyet,weigth:6
+v1;0;aiftaqad almanzil ... / I miss home...
+v2;30;'afdal al'ayam alkhawaliu fi al'undulis aydana walakuna hdha almakan lays syyana lilghayat. / I prefer the good old days in Andalusia as well but this place ain't so bad.
+v1;60;hal taetaqid dhlk? / You think so?
+v2;90;hsnana , munazilna aljadid la yakhtalif kthyrana ean alealam alqadimi. / Well, our new home isn't too different from the old world. 
+v2;120;eilawat ealaa dhlk , al'ard huna 'akthar khusubat wa'aqul 'ana alhayat 'ashal.  / Besides, the land is more fertile here and I'd say life is easier.
+v1;140;rbma. 'ana faqat bihajat 'iilaa waqt liltaeud ealaa hadha almakan ... / Perhaps. I just need time to get used to this place ...
+
+newchat;key:ishome,weigth:10
+v1;0;rubama yumkinuni qabul munzilina aljadid baed kli shay'in. / Maybe I can accept our new home after all.
+v2;30;hadhih haa alrwh! / That's the spirit! 
+v1;60;'iinaha mithl muhakat sakhirat sahirat lilealam alhaqiqi. taqribaan mithl alhilm. / It's like a charming parody of the real world. Almost like a dream.
+v2;90;nem , mahma kanat khutat =Allah lana , faldina daymana alkthyr linushkurah. / Aye, whatever God's plan is for us, we always have so much to thank for.
+v1;120;wamae dhlk , daeunaan nasli min ajl 'asdiqayina waeayilatina fi al'andils. namal 'alaa yufawtahum dhlk / Still, let's pray for our friends and family back in Andalusia. Hopefully they're not missing out.
+
+newchat;key:goodharvest1,v1:adult,v2:adult,weigth:10
+v1;0;kan alhisad wfyrana hdha aleam. / The harvest has been plentiful this year.
+v2;30;kan dayimaan kdhlk. hdha almakan janat mzare! / It always has been. This place is a farmer's paradise!
+
+newchat;key:wine,v1:adult,v1:vtype:architect_byzantine,v2:adult,weigth:10
+v1;0;'aftaqid jureat qadimat jayidat min alnabidh alruwmani. klu ma ladayna huna hu dhlk alshshay alfazie min allh. / I miss a good old swig of Roman wine. All we have here is that god awful tea.
+v2;30;'ant daymana hurun fi aleawdat 'iilaa alruwman fi 'ayi waqt. samiet 'an hnak mustawtanat rumaniat laysat baeidatan jdana min huna. / You're always free to go back to the Romans anytime. I heard there's a Roman settlement not too far from here. 
+v1;60;sawf yaetabirunani khaynana 'iidha eadta. eilawatan ealaa dhlk , laqad wajadata shaebiin huna bialfael. / They'll think of me as a traitor if I come back. Besides, I've already found my people here. 
+v1;90;wamin sayajeal hadhih alqaryat jamilatan 'iidha lm 'akun fi aljawara? / And who will make this village beautiful if I'm not around? 
+v2;120;hiah , laqad eashat maeana lifatrat tawilat bihayth yumkinuk altahaduth bi'alsinatina wamae dhlk lm takun abdana rwmanyana 'aqala mimma kunt ealayh daymana. / Heh, you've been living with us for so long that you can speak our tongue yet you've never been any less Roman than you've always been.   
+
+newchat;key:harvestingseason,weigth:10
+v1;0;'iinah mawsim alhisad tqrybana! / It's almost harvesting season!
+v2;30;ayh? madha taqsud bdhlk? 'iinah daymana mawsim alhisad hna! / Eh? What do you mean? It's always harvesting season here!
+
+newchat;key:lightning,v1:notvtype:andalus_philosopher,v2:notvtype:andalus_philosopher,weigth:7
+v1;0;akhar easifat raediat kanat muruaeatun. 'usib shakhs min alqaryat al'ukhraa bialsaaeiqat. / The last thunderstorm was terrible. Someone from the other village got struck by lightning. 
+v2;30;lihusn alhazi , yaemal muhandisuna ealaa mane huduth dhalik. / Thankfully, our engineers are working to prevent that from happening.
+v1;60;'ant mtakd min 'ana hula' alnaas ealaa haqin fi alras? hataa 'ana 'ahadahum kan ladayh fikrat majnunat tatamathal fi bina' burj tawil biqadib hadidiin fi al'aelaa. / You sure those people are right in the head? One of them even had the crazy idea of building a tall tower with an iron rod on top.
+v2;100;ayha? madha yuftarad 'an yafeal dhilka? takhif alsama'a? / Eh? What's that supposed to do? Frighten the sky? 
+v1;120;yudrabni. hula' almuhandisin sakhifa ... / Beats me. Such silly engineers...
+
+newchat;key:witches,v1:adult,v2:adult,v1:notvtype:andalus_sheikh,v2:notvtype:andalus_sheikh,weigth:2
+v1;0;hal yaerif 'ahad min 'ayn tati alsihra? / Does anyone know where witches come from?
+v1;20;last mtakdana , lkn min almhtml 'anahum khaymyayiyuwn sharabuu alkthyr min jaraeatihim alkhasat. / I'm not sure, but they're probably alchemists who drank too much of their own potions.
+v2;50;hsnana , la yubdun mithlina , 'alays kadhalk? / Well, they look nothing like us don't they? 
+v1;80;rubama tama tashwihuhum? / Perhaps they've been disfigured?
+v2;110;'ant mukhti , 'iinahum yatun mimaa yusamaa alshahadati. zart 'ihda qurahim dhat marat wara'ayt ahd alsukkan almahaliyiyn yusibuh albarq. / You're wrong, they come from the so called testificates. I visited one of their villages one time and saw a local get struck by lightning. 
+v2;130;kan alqarwiu almayit 'aqala ma yuqliquna. kharaj salimaan lakunah kan multawianaan bitariqat ma. thuma 'adrakna 'anah tahawal 'iilaa sahira! / A dead villager was the least of our worries. He came out unscathed but was twisted in some way. Then we realized he had turned into a witch!
+v1;160;hadhih almuhadathat tajealni 'artijf. madha law ... ymknna 'an natahawal 'iilaa sahirat aydana? / This conversation is staring to make me shiver. What if... w-we could turn into witches too? 
+v2;190;hadha mustahil. 'usib shakhs min qaryat qaribat bialssaeiqa. lm yatahawal 'iilaa sahirat , 'alays kdhlk? / That's impossible. Someone from a nearby village got struck by lightning. He didn't turn into a witch, no?
+v1;220;rubama yjb 'an naltazim alsamt fi alwaqt alhalii , qad yatim shanaquna bsbb mithl hdha alhadith alkafira. ma kan yjb 'an 'as'al. / Maybe we should keep quiet for now, we could get hanged for such blasphemous talk. I shouldn't have asked.
+
+newchat;key:couscous,v1:adult,v2:adult,weigth:10
+v1;0;qul ma turiduh ean albarbir lkn la yumkinuk 'iinkar 'ana alnaas yaerifun kayfiatan sune taeam jidan! / Say what you will about the Berbers but you can't deny that them folks know how to make good food!
+v2;30;hal tatahadath ean alkasks? / Are you talking about couscous?
+v1;60;madha 'aydaan mmkn 'an takuna? la 'aerif madha sa'afeal bidun alkasks. / What else would it be? I don't know what I would do without couscous.
+v2;100;mutafaq ealayhi. alhamd lilah ealaa 'iihdarih lana hadhih alwajbat alsamawiata. / Agreed. Praise be to God for bringing us this heavenly meal.
+
+newchat;key:loneVillage,weigth:10
+v1;0;ymkn 'an tusbih alhayat fi alqaryat mumalat fi bed al'ahyan. / Life in the village can get boring sometimes.
+v2;30;yjb 'an takun mumtana. / You should be grateful.
+v1;60;lamaa dhalk? / Why so?
+v2;90;ela alaqli alan la daei lilqalaq bishan alwuhush wanahb aleisabat. / At least now we don't have to worry about monsters and marauding warbands.
+v1;120;'azuna 'anak mahq. la yujad shay' sayiy fi alhusul ealaa bed alhudu' walsakinat bayn alhin walakhir. / I guess you're right. There's nothing bad about getting some peace and quiet every now and then.
+
+newchat;key:city,v1:adult,v2:adult,v1:male,v1:notvtype:andalus_sheikh,weigth:2
+v1;0;ahyanana 'ahlam biziarat madinat ywmana maa. / Sometimes I dream of visiting a city one day. 
+v2;30;hal 'ant wathq? ymkn 'an tusbih hadhih al'amakin muzdahimatan hqana. wa'iidha kanat hunak mudun fi hadha almakan , fasatahtaj 'iilaa alkthyr min almal faqat lilwusul 'iilayha. / Are you sure? Those places can get really crowded. And if there even are cities in this place, you'd need a lot of money just to get there.
+v1;60;falaykun , sa'aksib alkthyr min almal wasa'azur qurtabatan! / So be it, I'll earn a lot of money and I'll visit Cordoba!
+v2;90;madha satafeal hunak? satusab bialdiwar faqat min almashy fi alshware! / What will you even do there? You'll just get dizzy from walking around the streets!
+v1;120;hnalk alkthyr lifaealah! kunt 'araa aledyd min almabani aljamilat wjmye 'anwae alsilae algharibat fi alsuwq. al'ahami min dhlk , 'anani qad 'aqwam biziarat alharim almalaki! / There's so much to do! I'd see many beautiful buildings and all sorts of exotic goods in the market. Most importantly, I might even pay a visit to the royal harem!
+v2;150;fi alhlm! hal taetaqid 'anahum samahuu lirajul mithlak bifiel alkthyr hataa yadkhul alqasr almalakia nfsh? / Dream on! You think they'd let a guy like you do so much as to enter the royal palace itself?
+v1;180;sa'adfie lahuma! 'alays hdha kayf yaemal almala? / I'll pay them! Isn't that how money works?
+
+newchat;key:boy,v1:child,v1:male,v2:vtype:andalus_sheikh,weigth:5
+v1;0;eindama 'akbar , sa'akun 'aezam qayid fi alealam! / When I grow up, I'm gonna be the world's greatest commander!
+v2;30;lm tudrik eaynak baed haqiqat alhurub alqasiati. astamtae bialealim wahu saghirun. / Your eyes are yet to see the reality of cruel wars. Enjoy the world while it is young. 
+v1;60;madha yaeni hdha hataa 'ayuha alrajul alejwz? 'ant faqat tuhawil 'an tabdu emyqana! / What does that even mean, old man? You're just trying to sound deep!
+v2;80;'antum ya 'atfal euyun mushriqat wawasamatin. tati 'iilaa almaerakat , mstedana lilqatl faqat litaeud zahfana , ghyr mustaeidin lilmawt. / You children are a bright-eyed, handsome lot. You come running into battle, ready to kill only to come crawling back, not ready to die.
+v1;85;ah , 'ant mumal wamubahaj mithl 'ustadhi! bghd alnazar eamaa taquluh , sa'asnae asmana linafsi. 'uqsim ealaa dhlk! / Ugh you're as boring and cryptic as my teacher! No matter what you say, I'll make a name for myself. I swear!
+v2;105;'ahibu 'ana 'arak tahawal! / I'd love to see you try!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;waliday 'aqwaa mink fi aljaysh. / My dad is stronger than yours, he's in the army.
+v2;30;la , walidaya 'aqwaa! 'iinah 'akbar min waldk! / No, My dad is stronger! He's bigger than your dad!
+v1;60;iidha kan 'akbar , falimadhana la yuqatil waldiy? yurahin 'anah khayifun. / If he's bigger, why won't he fight my dad? Bet he's scared.
+v2;90;lys! limadha yudie quatuh ealaa waldk? / Not! Why would he waste his strength on YOUR dad?
+v1;120;yutliq ealayha. waldak ksan! / Called it. Your dad is a pussy!
+v2;150;jahaz waldak lilqatal! / Get your dad prepared for a fight!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;alfatiat ghabayatin. klu ma yafealunah hu allaeb bialdamaa. / Girls are stupid. All they do is play with dolls.
+v2;0;'ant tughar faqat li'anana namrih hqana baynama tadrib baedukuma albaed bialeasy. / You're just jealous that we're actually having fun while you beat each other up with sticks.
+v1;0;akhris 'aw sa'udribuk bieasa! / Shut up or I'll beat you up with a stick!
+v2;0;jurbaha , sa'akhburuk! / Try it, I'll tell on you!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;hal hdha harir ya ezyzy? ybdw mathaliaan ealyk! / Is that silk, dear? It looks perfect on you!
+v2;30;'ana 'uwafiqa? aishtarayatah mwkhrana min altujjar almusafirin - bikhusm bialtabe. / I know, right? I bought it recently from those travelling merchants - with a discount, of course. 
+v1;60;alrijal mutawaqieun jdana , fahum la yastatieun altaeamul mae kam 'ant jamiyl! / Men are so predictable, they just couldn't handle how beautiful you are!
+v2;90;'uwh 'ant tamliqni , $ targetfirstname. min alwadh 'anani last jamilat mathlak! / Oh you flatter me, $targetfirstname. Clearly I'm not as beautiful as you!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;ma rayuk fi mulabisi aljadidat , $ targetfirstname؟ / What do you think of my new clothes, $targetfirstname?
+v2;30;mulabisik alqadimat 'afdal , yjb 'an tuetiaha li bdlaan min dhalk! / Your old clothes are better, you should give those to me instead!
+v1;60;hahha! aistamara fi alhulm , falan tahsul ealaa mulabis 'afdal min tilk alkhurq! / Hah! Keep dreaming, you'll never get better clothes than those rags!
+v2;70;kayf yjrw- $name! min minaa ladayh mulabis afdl? / HOW DARE- $name! Which one of us has better clothes? 
+
+newchat;key:boy2,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:5
+v2;0;'ami , hal yumkinuni alzawaj min dhlk alfataa؟ 'iinah latif wasaym wa'ana 'uhubuh kthyrana. / Mother, can I marry that boy? He is nice and handsome and I love him so.
+v1;30;la takun tafwaliata! alan lys alwaqt almunasib lilzawaj , nahyk ean mithl hdha alwald alfaqir / Don't be so childish! Now is not the time for you to be married let alone to such a poor boy.
+v2;60;n 'astamie 'iilyk! sa'atazawj min aryd! / I won't listen to you! I'll marry whoever I want!
+v1;90;alfatat almaskinat , 'ant la tafham 'ana alhayat laysat bihadhih alsuhula ... / Poor girl, you do not understand that life isn't so easy...
+
+newchat;key:wanderlust,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:5
+v1;0;han alwaqt litaelimik kayfiat alaietina' bialmunzil. / It's time to teach you how to take care of a home.
+v2;30;lkn 'ami , la 'urid 'an 'akun rabat manzil! 'urid 'an 'ukhraj wa'asafir hawl alealm! / But mother, I don't want to be a housewife! I want to go out and travel the world!
+v1;60;haha , hdha hulm sakhayfan. yaelam aljamie alsafar lilrajala. alan kuni fatatan jayidat wailtaqat almukanasatu. / Haha, that's a silly dream. Everyone knows travelling is for men. Now be a good girl and pick up the broom.
+v2;90;'ana jada! 'urid 'ana 'azwr 'amakin mithl twlydw wasqaliat walqustantiniat wabaghdad! / I'm serious! I want to visit places like Toledo, Sicily, Constantinople, and Baghdad!
+v1;120;ya eaziziun , ma aldhy qalah lak muealimuka? 'alam 'akhbarkum biqusas ean wuhush albahr walmutawahishina? alealam hu makan khatirun. / Oh dear, what has your teacher been telling you about? Haven't I told you stories about sea monsters and savages? The world is a dangerous place.
+v1;180;*Sigh* hsnana , yumkinuk alsafar mae tajir eindama takun mstedana walakun yjb 'an tuedania awlaan 'anak satusaeidni fi almanzil hataa dhlk alhin. / *Sigh* Very well, you can travel with a merchant when you are ready but first you must promise to me that you will help me at home until then. 
+v2;210;'aedk! / I promise!
+
+newchat;key:cake,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;hal yumkinuk 'an tuhadir li kaekatan laeid mylady? / Can you get me a cake for my birthday?
+v1;30;ma hi alkalimat alsihriat? / What's the magic word?
+v2;60;hal yumkinuk shira' kaekat li min fadlik laeid miladi? / Can you PLEASE buy me a cake for my birthday?
+v1;90;hsnana , lkn ealayk 'an tataeahad bieadam alradi baed alan! / Alright, but you have to promise not to talk back anymore!
+v2;120;waead! / Promised!
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ahh!
+v1;30;haha , hdha alsyf kabir mithluk tqrybana. la eujib 'anah yata'arjah mek! / Haha, that sword is nearly as big as you are. No wonder it's swinging you around!
+v2;60;ays eadila. kayf yumkin lilkibar aistikhdam alsuyuf bihadhih alsahuwla? / It's not fair. How come grown-ups can use swords so easily?
+v1;80;lays min almftrd hataa 'an taleab bisif khashabiin 'ayuha alghabi. / You're not even supposed to be playing with a wooden sword, stupid. 
+v2;100;madha ealay 'an 'afeal baed dhulk? allaeb mae aldumaa؟ / What am I supposed to do then? Play with dolls?
+v1;120;hsnana , yumkinuk aldhahab wamusaeidat walidatik fi al'aemal almunziliat. / Well, you can go and help your mother with the chores.
+v2;150;'abada! / Never! 
+
+newchat;key:pride1,v1:adult,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v2;0;mabanina jamilat jdana wamin alrrayie daymana ruyat emlna! / Our buildings are so beautiful it is always great to see our work!
+v1;30;baed 'an buniat bedana min hadhih , la yaseani 'iilaa 'an 'uwafiqa. hal ra'ayt tilk alfaykanaj altawilat alradiyat raghm dhulka? quraahum mrwe! / Having built some of these, I can't help but agree. Have you seen those lousy viking longhouses though? Their villages are appalling! 
+v2;60;sah , kun hadyana. ladayna tujjar nuris qaribun waqad yataearad alnuwriman lil'iihanat aydana. la 'urid aleabath mae hula' almajanayn wa'abna' eumumatihim alfaransiiyn. / Shh, be quiet. We've got Norse merchants nearby and the Normans might be offended too. I wouldn't want to mess with those lunatics AND their French cousins.
+v1;90;'aftarid 'ana ladayk wijhatan nazru. lkn la takhafu , ladayna nar yunaniatan! / I suppose you have a point. But fear not, we have Greek fire!
+
+newchat;key:pride2,weigth:10
+v1;0;'ana fakhur hqana bima haqaqah al'undilus. / I'm really proud of how much Al-Andalus has achieved.
+v2;30;fi alwaqiea! yumkinuk 'an taraa hqana najah 'umatana fi hindasatina almulawnat. / Indeed! You can truly see the success of our nation in our colorful architecture.
+v1;60;nahyk ean altatawurat alty la hasr laha fi alfalisifat altabieiat walhindasat walfunun waltibi wal'adb. / Not to mention our countless advancements in natural philosophy, engineering, the arts, medicine, and literature.
+v2;90;sahihun. sayakun min alear 'iidha hadath 'ayu shay' likuli tilk almaerifat waltaqadum. / True. Would be a shame if anything happened to all that knowledge and progress.
+v1;120;balaa ... / Yeah ...
+v2;150;...
+v1;180;...
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;'iinaha satamturu. hakdha. / It will rain. Soon.
+v2;30;kayf qariba? / How soon? 
+v1;60;hakdha. / Soon.
+v2;100;hasananaan bialtabe sawf tumtir "qriba". baed fatrat zamaniat muhadadat bishakl ghamid , satamtar fi alnihayati. hadhih mjrd qaeidat min qawaeid altabiea. kunt 'as'al bbsatt eamma 'iidha kan bi'iimkanik 'an takun 'akthar thdydana walakun la , yjb 'an takun ghamdana jdana. / Well OF COURSE it will rain "soon". After a vaguely defined period of time, it will eventually rain. That's just a rule of nature. I was simply asking if you could be more specific but noo, you have to be so mysterious. 
+v2;125;ghabi. / Dummy.
+
+newchat;key:talltales,v2:child,weigth:1
+v1;0;hal yumkinuk jalb bed alma' min fadlik? / Can you please fetch some water?
+v2;30;la , 'urid 'an 'aleab fi alghabat! / No, I want to play in the woods!
+v1;60;bikhayr walakun sa'ukhabiruk qisatan awlaan. / Fine but I'll tell you a story first. 
+v2;80;yay! qs! / Yay! Story!
+v1;100;fi 'ahad al'ayam , dhahab sabiya yudeaa harun 'iilaa alghabat lialeub bial'arwah. kan ladayh alkthyr min almarah lidarajat 'anah nasi alwaqt. walaeubat mae al'arwah liedat 'ayam walialiin kathiratin. / One day, a boy named Harun went to the woods to play with spirits. He had so much fun that he forgot about time. And played with the spirits for many days and many nights.
+v1;120;saym harun alsaghir min allaeb waead 'iilaa almanzil. eindama wasal , kanat alqaryat mudamiratan wamutadakhimatan. laqad 'amdaa alkthyr min alwaqt fi aleuzf hataa maat kl min fi alqariati. kan harun alan whydana tmamana fi allayl albarid , yantazir alshayatin li'akhadhih. / Little Harun got tired of playing and went back home. When he arrived, the village was ruined and overgrown. He had spent so much time playing that everyone in the village was dead. Harun was now all alone in the cold night, waiting for demons to take him.
+v1;140;hal turid 'an taleab fi alghab? / Do you want to play in the woods?
+v2;160;WAAAaaah , la! la 'urid 'an 'ughadir baed alan! / WAAAaaah, no! I-I don't want to leave anymore!
+v1;180;hasana. alan , 'ahdar bed alma'. / Good. Now, fetch some water.
+
+newchat;key:talltales2,building:full_wall,weigth:1
+v2;0;hal samiet min qibal ean hawla' almughayrin alfaykngh? / Have you ever heard of those viking raiders? 
+v1;30;laenat =Allah ealayhim. qal ly ahd aleulama' 'iin 'aswar 'iishbiliat bunyt limane almazid min alhajamat min qibal alwathniin. / May God curse them. A scholar told me that the walls of Seville were built to prevent further attacks by the heathens.
+v1;60;ja'uu mithl aldababir fi sufun biras tunin wa'arhabuu alsawahila. / They came like wasps in dragon-headed ships and terrorized the coasts. 
+v1;80;kanuu yughadirun baed tadmir alquraa faqat lileawdat eindama yakhruj alnnajun min makhabiihim. / They would leave after ravaging villages only to come back when the survivors come out of their hiding spots. 
+v1;100;tama naql alrijal walnisa' wahataa al'atfal liatima bayeuhum kaebid 'iidha lm tatamakan 'asarahum min dafe alfadyati. / Men, women, and even children were whisked away to be sold into slavery if their families couldn't pay the ransom. 
+v2;120;hadha marie ... / That's terrible ...
+v1;140;fi alwaqie. lihusn alhaz , aistadrajahum eabd alruhmin 'iilaa fakhin fi tibladat wasahaq hula' alkufaar , wa'aead alnnajin alqalayil 'iilaa albuhr. / Indeed. Luckily, Abd Al-Rahman lured them into a trap at Tablada and crushed those infidels, sending the few survivors back to the sea.
+v1;160;kanat hadhih wahidatan faqat min almaraat aleadidat alty hajamna fiha hula' alwathiniuna. w=Allah 'aelam kam min hadhih algharat almureibat nazalat ealaa al'undils. / This was only one of the many times those pagans have attacked us. God knows how many more of these terrifying raids descended upon Al-Andalus.
+v2;190;'ana saeid li'ana qaryatina biha judranan. daeuna nasli min ajl 'an yahmiana =Allah min hula' almutawahshina. / I'm glad our village has walls. Let us pray that God will protect us from such savages.
+v1;210;mutafaq ealayh. / Agreed.
+
+newchat;key:talltales3,weigth:1
+v1;0;hal samiet al'akhbara? / Have you heard the news? 
+v2;30;ma hdha? / What is it?
+v1;60;shakhs min alqaryat almujawirat astahwadh ealaa aljin. / Someone from the neighboring village got possessed by a jinn. 
+v2;80;hal tuamin bialjan? / You believe in jinn?
+v1;110;faqat baed samae dhlk min alqurwiayna. astataet alshueur bialkhawf fi 'aswatahum , kama law kanuu yaqulun alhaqiqat. / Only after hearing about it from the villagers. I could sense the fear in their voices, as if they were telling the truth.
+v2;120;'ant majnun 'iidha kunt tuamin bihadhih alhikayat altawilat. / You're mad if you believe in those tall tales.
+v1;150;hal 'iinaa *gulp* yaqulun 'iina aljunun yajealuk 'akthar eurdat lil'iimsak ... / Am I? *gulp* They say madness makes you more likely to be possessed ...
+v2;180;rubama 'ant mamsus bialfael. / Maybe you're possessed already.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:5
+v1;0;hal samieat? ra'aa shakhs ma tayiran 'afriqiaan yasqitan thamarat jawz alhind ealaa ras alfilsuf. / Have you heard? Someone saw two African Swallows drop a coconut on the philosopher's head.
+v2;30;alrutq , ma hi alaihtimalat? / Darn, what are the odds?
+v1;60;mundh dhlk alhin , kan yahdhi kthyrana bishan hdha alshay' almusamaa "aljadhibia" / Since then, he's been raving on and on about this thing called "gravity" 
+v1;90;ealaa ma yabdu , hunak quat tushab al'ashya' 'iilaa al'ardi. 'akhshaa 'anana faqadna wahidatan min 'almae euqulana. / Apparently, there's a force that pulls objects down to the ground. I'm afraid we've lost one of our brightest minds.
+v2;120;alrajul almiskin , laqad jana jununuh / Poor guy, he's gone mad.
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:10
+v1;0;qal zuji 'ana amyrana sayazur qaryatina qrybana! / My husband said that an emir will visit our village soon!
+v2;30;eazim , ladayna alan nubla' bisawt eal fi qaryatina. / Great, now we have two loudmouth nobles in our village.
+v1;40;'ashbah binablatayn jamilatayn <3. hal ra'ayt wajhah? / More like two fine-looking nobles <3. Have you seen his face?
+v2;70;madha? yaejabunak? / What? You like them?
+v2;100;ealayk 'an taetarif 'anaha jadhaabatan! / You have to admit that they are attractive!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,weigth:10
+v1;0;laqad 'usib ahd alnabila' almahaliyiyn bialjunun altam. / One of the local nobles has gone utterly insane.
+v1;20;'iinah li'amr makhazun , laqad kan ahd 'akthar al'ashkhas wasamat aydana! wakan 'aezab! / It's a shame, he was one of the most handsome ones too! And he was single!
+v2;60;madha hadath lah? / What happened to him?
+v1;90;yazeum 'anah tazawij min hisan wa'atlaq ealayh aism "jliatrhuf". hataa 'anah eayan hdha Glitterhoof kamustshar! / Allegedly, he married a horse and named it "Glitterhoof". He even appointed this Glitterhoof as councilor! 
+v2;120;hal hdha sahiha? 'atasa'al madha sayahduth 'iidha dakhalat ghurfatah murtadiat zy fars 'aniq. / Is that so? I wonder what would happen if I entered his chambers dressed as a fine-looking mare.
+v1;140;madha? / What?
+v2;160;la taqaliq , kunt 'amzah faqt! 'anaa- / Don't worry, I was just joking! I-
+v1;190;qad 'ajrab dhlk bialfael. / I might actually try that.
+v2;200;MADHA?! / WHAT?!
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;ead zuji 'iilaa almanzil fi waqt muta'akhir min allayl mwkhrana. bada'at 'asheur bialqalq. / My husband has been coming home late at night recently. I'm starting to worry.
+v2;30;wayajib elayk! ymkn 'an yakhruj mae akhr! / And you should! He could be out with another!
+v2;60;safaeah alan , atruh al'asyilat lahqana! / Smack him now, ask questions later!
+v1;90;'akid sa'afeal! wamin al'afdal 'an yakun bryyana wa'illa sa'aqtae hilqah bifatar syfi! / I sure will! And he'd better be innocent or I'll cut his throat open with my scimitar!
+v2;120;hadhih hi alruwh - aintazar , min 'ayn lak hdha alsayf? / That's the spiri- Wait, where did you get that scimitar?
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;'ahibu 'an yakun ladaya bed al'atfal. / I'd love to have some children of my own.
+v1;20;lakaniy last mtakdana min kayfiat alaietina' bihula' alsaghar. / But I'm not sure how to take care of those young ones.
+v2;50;kun sarmana walakun la taqsu ealayhim. / Be strict but don't be too hard on them.
+v2;70;bimujrad 'ana takabir , fa'iinahum hum aladhin sayahtamun bika. / Once you grow old, they're the ones who'll take care of you.
+v1;100;'aetaqid 'anani sa'atawaqaf ean riwayat qiss al'ashbah lil'atfal baed dhalik. / I think I'll stop telling ghost stories to children then.
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;kanat tilk qiyan mudhhlat! laqad mara waqt tawil mundh 'an samiet musiqaa jayidatin. / Those qiyan were amazing! It's been a long time since I've heard good music.
+v2;30;lays hdha faqat , fahum yaerifun kayfiat alraqs aydana! / Not only that, they know how to dance as well!
+v1;60;samiet 'anahum 'atawa 'iilaa huna ealaa tul altariq min almadinati. hadhih almajmueat ealaa wajh alkhusus mashhurat hqana. / I heard they came here all the way from Medina. This group in particular is really famous.
+v2;90;laqad tama tadribuhum fi qartubat aydana 'iidha kunt 'atadhakar bishakl sahihin. 'atasa'al kam minhum yuaduwn eurudahum fi almadinati. / They were being trained in Cordoba as well if I remember correctly. I wonder how many of them are performing in the city.
+
+newchat;key:chatter7,v1:male,v2:female,v1:adult,v2:adult,rel:spouse,weigth:15
+v1;0;hal 'ant takhunany?! / Are you cheating on me?!
+v2;30;kunt sa'atrih ealayk nfs alsuwaal! / I was going to ask YOU the same question!
+v1;40;kayf ymkn 'an takun aldahiat hna? / How could you possibly be the victim here? 
+v1;45;kunt kharij almanzil allaylat almadiat wara'ayt shkhsana yadghat min alnnafidhat baynama kunt fi aldakhl! / I was outside of the house last night and I saw someone squeeze through the window while you were inside!
+v2;60;'ana - kunt sa'aqul nfs alshay'a. aietaqadat 'anak dakhil almanzil. / I- I was going to say the same thing. I thought you were inside of the house.
+v1;80; / ...
+v2;100; / ...
+v1;120;aqad taearadna lilsaraqata! / We've been robbed!
+v2;120;aqad taearadna lilsaraqata! / We've been robbed!
+ 
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;'adawat almutabikh aljadidat hadhih raye! / These new kitchen tools are brilliant! 
+v2;30;fi alwaqie , lm yakun altabkh bihadhih alsuhulat min qbl! / Indeed, cooking has never been so easy! 
+v1;60;kl hdha bifadl hula' almukhtaraein alqudamaa ghurayb al'atwar. / This is all thanks to those cranky old inventors. 
+v2;90;sahih , 'ahibu 'ana 'akun andlsyana! / True, I love being an Andalusian!
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:andalus_richwoman,v2:notvtype:andalus_richwoman,weigth:15
+v1;0;kunt 'atamanaa law kan ghanya. sa'ashtari linafsi eqdana min alluwlu alllamie wfstanana jdydana msnweana min alharir alruwmani! / I wish I was rich. I'd buy myself a shiny pearl necklace and a new dress made from Roman silk! 
+v1;20;madha satafeal 'iidha kan ladayk alkthyr min almal? / What would you do if you had a lot of money?
+v2;50;kunt 'astaqiru fi alsuhwl wa'abni qsrana fakhrana mae hamami alkhasi jdana. / I'd settle down in the plains and build a fancy mansion with my very own bathhouse.
+v1;80;'awh , 'ana 'uhibu dhulka! 'iinah li'amr makhazun 'an 'azwajina laysuu 'athria' jadana. zawjat alshaykh mahzuzatan haqaaan. / Ooh, I like that! It's a shame our husbands aren't very rich. The sheikh's wife is really lucky.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:10
+v1;0;hal fakart ywmana kayf hu alhal fi harim alkhalifata? / Have you ever thought about what it's like in the Caliph's harem?
+v2;30;la 'ahad yaerif ealaa wajh alyaqin min kharij alqusr. klu ma ladayna hu shayieatun. / No one outside the palace knows for sure. All we have are rumors.
+v1;60;'arahun 'ana almuhziat tajlas tawal alyawm litabdu jamilatan yjb 'an takun hayat alrafahiat. / I bet the concubines just sit around all day looking beautiful. Must be a life of luxury.
+v2;100;ln 'akun mtakdana jdana min dhlk , faqad qil 'iinahum eubayd min bilad baeidat baed kli shay'in. / I wouldn't be too sure about that, it's said that they're slaves from distant lands after all.
+v2;130;balrghm min dhlk fa'iina alzawjat qawiaat bialtaakidi. 'aetaqid 'anahum jmyeana munkhartun bshdt fi alsiyasat. / The wives are definitely powerful though. I believe they're all heavily involved in politics.
+v1;150;siasatan? ybdw mamla. / Politics? Sounds boring.
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;laqad sayamat min hurub alrajali. / I've had enough of men's wars. 
+v1;30;huala' alrijal altanaanayn yuqatilun min ajl 'ashya' tafihat taht sattar alqadasat walsharf. / Their pretentious lot fight for petty things under the guise of holiness and honor.
+v1;55;fi alnihayat , alnaas alfuqara' mithlina yanhabun qarana. almasajid walkanayis walmueabid ... klha 'ahraqat ealaa al'ard. / In the end, poor folks like us get our villages pillaged. Mosques, churches, synagogues... All are burned to the ground. 
+v2;80;'ant mahaqun , alharb satakun murueatan. / You're right, a war would be awful. 
+v2;110;yueani eamat alnaas min altumuhat al'ananiat lilmuluik wal'amra'. / The common people suffer for the selfish ambitions of kings and emirs. 
+v2;140;syujbr muhindisuna ealaa tahwil 'iibdaeatihim 'iilaa alat harb , wasayamut shuearayuna jaweaan bsbb almajhud alharbi. / Our engineers would be forced to turn their creations into war machines and our poets starved to death for the war effort.
+v1;170;nahn naeish hqana fi al'awqat almuzalima ... / We truly live in dark times ...
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v1:notvtype:andalus_imam,v2:notvtype:andalus_imam,weigth:15
+v1;0;tabdu alnisa' fi hadhih alqaryat eadiatin. / Women in this village are so plain-looking.
+v2;30;mutafaq ealayh , 'afdal zawjat qshtalyat binafsi! / Agreed, I prefer a Castilian wife myself!
+v1;60;kalaa , 'afdal alhusul ealaa fatat latifat min 'iihdaa tilk alquraa alhindia! / Nay, I'd rather get myself a beauty from one of those Indian villages!
+v2;90;ybdw 'anak nasit 'anak mutazawij ya sidyqi. lamira'atan mushakisat fi dhalik. sayakun min alear law sumiet. / You seem to be forgetting that you are wedded, my friend. To a feisty woman at that. Would be a shame if she heard.
+v1;120;la takun mghrwrana , ybdw 'anak tansaa 'ana sadiqak yaerif aydana srana sghyrana. / Don't get cocky, you seem to be forgetting that your friend knows a little secret as well.
+v2;150;hahaha! lays ladaya zawja! / Hah! I don't have a wife!
+v1;180;allaenata. maleun hdha alyawma! / Damn. Cursed be this day!
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:andalus_imam,v2:notvtype:andalus_imam,weigth:15
+v1;0;labd 'an taeish raqia fi qasr alkhaliafati. / Must be a fine living over at the caliph's palace. 
+v1;40;ladayh ghurfat maliyat bi'ajmal nisa' alealam , wakuluhina ​​yattalaeun 'iilaa 'amrih altaly! / He has a room full of the world's most beautiful women, all looking forward to his next command!
+v1;70;nahyk ean alhamam walqileat aldakhmat linafsh! / Not to mention a bathhouse and a massive castle all to himself! 
+v2;100;wamae dhlk , fa'iin alkhalifat ladayh balad bi'akmalih yudiruh wamalay' bialnubla' almutanaziein waltimuhina. / Even so, the caliph has an entire country to run and its full of squabbling and ambitous nobles.
+v2;130;wamimma zad altiyn bilatan , 'ana almamalik almasihiat taeish ealaa alhudud fi aintizar aldurub fi 'ayi lahzatin. / To make matters worse, christian kingdoms live on the frontiers, waiting to strike at any moment.
+v1;150;'aftarid 'iinak mhq. almakayid walfutuhat alsiyasiat 'akthar min 'an yatahamaluha rajul basit mithaliyun ... / I suppose you're right. Political intrigue and conquests are too much for a simple man such as myself to handle ...
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;kayf alhayaata? / How's life?
+v2;30;almuetad. hasalt ealaa zawjat muzeajat wamajmueat min al'awghad alsighar lilaietina' bihm. ant? / The usual. Got a nagging wife and a bunch of little rascals to take care of. You?
+v1;60;lays mkhtlfana jdana hqana. lm 'ahsul ealaa 'ajr kabir mwkhrana , waidtarart 'iilaa aleamal fi wazayif qalylat. / Not too different, really. I haven't had much pay lately, had to work a few jobs off the side.
+v2;90;nfs alqisat alqadimat , 'iyh? / Same old story, eh? 
+v1;120;naem. / Yeah.
+v2;150;'aetaqid 'anah lm yahduth alkthyr fi qarytna. kanat alhayat mumalat , lakanaha ela alaqli silmiatin. / I guess not much has happened at our village. Life's been boring, but at least it's peaceful.
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:andalus_lumberman-andalus_miner,v2:vtype:andalus_lumberman-andalus_miner,weigth:15
+v1;0;'awad alhusul ealaa hidad min alnuwrmandi fi qarytna. / I'd like to have a Norman smith at our village.
+v1;30;alkalimat hi 'ana alnuwrmandyyn yasnaeun 'afdal al'adawat hawlahum / Word is, them Normans make the best tools around. 
+v1;60;fi alwaqie , kunt 'adkhar bed almali. tama 'iikhfa' juz' minh ean alzawjati. / I've been saving money for one, actually. Been hiding some of it from the wife.
+v2;90;ahdhr mimaa taquluh , faqad tusi' 'iilaa sanie al'adawat almahali! / Careful what you say, you might offend the local toolsmith! 
+v1;120;dhlk alshshab? 'anah lays sayiyaan sanie al'aslihat 'alays kdhlk? / That guy? He's not as bad the the armourer ain't he? 
+v2;140;nem , lakunah qad yukhrib aydana 'adawatina 'iidha kunt taetaqid 'ana alnuwrumanidiuwn 'afdal hdadana! / Yeah, but he might as well sabotage our tools if you think the Normans are better smiths!
+v1;170;'uwh la , la 'urid 'an 'ajaeal 'adwati alradiyat 'akthar rebaan! / Oh no, wouldn't wanna make my shoddy tools even shoddier!
+v2;200;ahyanana 'atasa'al limadha 'atasakae maeak 'iidha kunt wqhana ... / Sometimes I wonder why I even hang out with you if you're this rude ...
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:andalus_armourysmith-andalus_fortarmourysmith-andalus_imam-andalus_philosopher,v2:notvtype:andalus_armourysmith-andalus_fortarmourysmith-andalus_imam-andalus_philosopher-andalus_sheikh,weigth:15
+v1;0;laqad hasalat linafsi ealaa ramh jdyd! madha tetaqd? / I just got myself a new spear! What do you think?
+v2;30;mhrj! ybdw 'anah ymkn 'an yutien 5 'ashkhas fi waqt wahid!an / Impressive! Looks like it can stab through 5 people at once!
+v2;60;'iinah la yahtawi ealaa 'ayi shay' ealaa sayfi , rghm 'anah masnue min alfawladh almustawrad mae al'ahraf alruwniat al'ajnabia. 'arahina 'anah ymkn 'an yaqtae alhussan 'iilaa nisfin! / It ain't got nothing on my sword though, it's made from imported steel with foreign runes. Bet it can cut a horse in half!
+v1;90;lm 'akun 'atawaqae 'an yatuham shakhs mithlak mithl hadhih al'aslihat alraaqiati. wamae dhlk , min alwadh 'ana alramah 'afdal min alsuyuf. / I didn't expect someone like you to fancy such classy weapons. Nonetheless, clearly spears are better than swords.
+v2;120;la. yumkinuni qate ramh ramhak basifi. / Nuh uh. I can cut the shaft of your spear with my sword.
+v1;140;ln takun qadrana hataa ealaa tafadih , 'ant earidat qadhra! / You wouldn't even be able to parry it, you filthy casual!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;alhayat jayidat. / Life is good.
+v2;30;fi alwaqie. ladayna tbun watiknulujiaan wafun wamusiqaa waeimarat wafilsifat eazimatan. ma hu alwaqt almunasib liakun ealaa qayd alhayaata! / Indeed. We've got great medicine, technology, art, music, architecture, and philosophy. What a time to be alive!
+
+newchat;key:talking7,v1:male,v1:adult,v2:vtype:architect_byzantine,weigth:15
+v1;0;ya $targetfirstname 'ant rumani 'alays kdhlk? qul li , ma hi 'aslihatuk mthl? / Hey, $targetfirstname, you're a Roman aren't you? Tell me, what are your weapons like?
+v2;30;'aslihat al'iimbiraturiat tajeal 'aeda'aha yartaeidun khawfa! / The empire's weapons make her enemies tremble in fear!
+v1;60;min aljayd maerifat dhlk , lkn hal yumkinuk wasafuha? / That's good to know, but can you describe them?
+v2;90;hsnana , ladaya hdha alsuwlajan alqadim alsady min jdy. yumkin lirasih dhi alhwaf 'an yursil tyranana brbryana! / Well, I have this rusty old mace from my grandfather. Its flanged head can send a barbarian flying!
+v2;110;ladayna aydana muharakat hisar ymknha ramy alhijarat aldakhmat bshwlt ealaa aleudww. / We've also got siege engines that can effortlessly hurl massive stones at the enemy.
+v2;130;wamin yastatie 'an yansaa tilk almadat alqawiat alty dafaeat ean bizintat fi alqurun almadia? / And who could forget that potent substance that has defended Byzantium these past centuries?
+v1;160;ma hdha? / What is it?
+v2;180;la taelam? rbma ymkn 'an yaghfir jahlak. alsilah hu min 'asrar aldawlat alkhadieat lihirasat mushdadatin. / You don't know? Perhaps your ignorance can be forgiven. The weapon is a closely guarded state secret.
+v2;200;yumkin ruyat alrueb almutlaq lhdha alsilah hayth yumkin alqawl 'iinah 'aqalu twqeana. min al'afdal aistikhdamih fi albahr. / The sheer terror of this weapon can be witnessed where it is arguably least expected. It is best used at sea.
+v2;220;li'anah fi albahr yumkin lilnnar alyunaniat 'an tashtaeil bi'aejubat ealaa alma' , ftsthlk astwlana bi'akmalih fi hariq rhyb! / For it is at sea that greek fire can miraculously ignite on water, consuming an entire fleet in a terrible blaze!
+
+newchat;key:talking8,v1:vtype:andalus_philosopher,v2:vtype:andalus_philosopher,weigth:15
+v1;0;alnamadhij majridatu. alnamudhaj hu alnawe almathaliu likhasayisih wa'anwaeih almuqabalat. / Forms are abstract. A form is the ideal type of its corresponding properties and kinds.
+v2;30;kalaa , al'ashkal hi jawhariat lilkayin. / Nay, forms are intrinsic to the object. 
+v1;60;alnamudhaj mawjud. / Form exists.
+v2;90;naem. / Yes.
+v1;120;naem. / Yes.
+
+newchat;key:talking9,v1:adult,v2:adult,weigth:10
+v1;0;hadha almakan yazdad gharabatan ... / This place just keeps getting stranger ...
+v2;30;limadha taetaqid dhlk? / Why do you think that?
+v1;60;ybdw 'an 'ahad alnubla' dhu ​​alruuws alssakhinat wajad qaryat shahadat wahawal ealaa alfawr aintizae aljaziat. / It appears that one hot-headed noble found a testificate village and immediately tried to extract tribute.
+v2;90;ln yuajih alkthyr min almataeib mae dhlk , fahum yaqulun 'iina tilk alquraa la hawl laha wala quatin. / He won't have much trouble with that, they say those villages are completely defenseless.
+v1;120;lays hadha. ealaa ma yabdu , taearad hu wafursanuh lildurub min qibal eimlaq hadidiin baed 'an darab shaykh alqariat. / Not this one. Apparently, he and his knights were thrashed by an iron giant after beating up the village elder.
+v2;140;hiah , yukhdimuhum bishakl sahihan! / Heh, serves them right!
+
+newchat;key:talking10,v1:adult,v2:adult,weigth:10
+v1;0;hal sumetay? shaeb almayaa huala' lays ladayhim hadiyd! / Did you hear? Those Maya people don't have iron!
+v2;30;wabialtaly? / So?
+v1;60;wabialtaly?? la yumkinuk wade athnyn waithnayn maea? / So?? Can't you put two and two together? 
+v1;80;yumkinuna juniyun tharwat hayilat min baye alhadid lahum! / We can make a massive fortune selling them iron!
+
+newchat;key:talking11,v1:vtype:andalus_cowfarmer,weigth:15
+v1;0;'ahtaj 'iilaa aistirahat min rayihat almashiat alfaziea ... / I need a break from that awful cattle smell ...
+v2;30;hal haqa? aietaqadat 'ana alraayihat kanat lika. / Really? I thought the smell was yours.
+v1;60;mudhak lilghayati. / Very funny.
+v1;80;'aqwam bikuli al'aemal alqdhrat fi alqaryat wahadha hu alshukr aldhy 'ahsal ealayh? / I do all the dirty work in the village and this is the thanks I get?
+v2;120;rubama tushkarik alqaryat 'iidha astahmamat limarat wahdat. / Maybe the village will be thanking you if you take a bath for once.
+
+newchat;key:talking12,v1:adult,v2:adult,weigth:15
+v1;0;'atfal hadhih al'ayami. lm yaeud ladayhim 'ayu aihtiram lishuyukhihim baed alan. / Children these days. They've got no respect for their elders anymore.
+v2;30;hadha ma qalah lana kibar alsin min qibal , hal tatadhakaruna? / That's what our elders said to us before, remember?
+v1;60;tueal 'iilaa altafkir fi al'amr , 'aetaqid 'anani samiet walidaya yaqulan shyyana mshabhana ... / Come to think of it, I guess I did hear my parents say something similar ...

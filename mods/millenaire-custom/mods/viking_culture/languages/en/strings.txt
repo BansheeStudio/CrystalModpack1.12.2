@@ -1,0 +1,8 @@
+goal.mineandesite=Mining andesite
+goal.makevikingboots=Making boots
+goal.makevikinghelmet=Making helmet
+goal.makevikinglegs=Making leggings
+goal.makevikingplate=Making chestplate
+goal.makevikingsword=Making sword
+goal.makefirepitnorse=Making firepit
+goal.makecarpet_brown=Making carpet

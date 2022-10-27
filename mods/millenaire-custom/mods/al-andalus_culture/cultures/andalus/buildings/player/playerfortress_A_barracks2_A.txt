@@ -1,0 +1,11 @@
+building.length=41
+building.width=40
+building.max=0
+building.issubbuilding=true
+building.parentbuildingplan=playerfortress_A5
+building.icon=andalusspear
+
+initial.startlevel=-4
+initial.nativename=Thakunnat Easkaria
+initial.male=andalus_soldier
+initial.priority=400

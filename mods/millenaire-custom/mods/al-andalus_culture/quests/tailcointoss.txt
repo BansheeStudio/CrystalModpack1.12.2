@@ -1,0 +1,9 @@
+minreputation:0
+chanceperhour:0.5
+maxsimultaneous:2
+
+step:new
+definevillager:key=startvillager,type=andalus/andalus_peasant
+villager:startvillager
+duration:3
+requiredgood:denierargent,1

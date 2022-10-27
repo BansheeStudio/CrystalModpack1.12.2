@@ -1,0 +1,12 @@
+priority=35
+priorityrandom=10
+
+townhalllimit=andesite,128
+
+sourceblockstate=minecraft:stone
+
+loot=andesite,1
+
+sentencekey=mining
+
+range=4

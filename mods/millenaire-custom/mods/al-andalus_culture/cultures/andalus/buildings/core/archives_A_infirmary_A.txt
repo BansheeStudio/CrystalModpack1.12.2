@@ -1,0 +1,14 @@
+building.length=20
+building.width=17
+building.areatoclear=3
+building.issubbuilding=true
+building.parentbuildingplan=archives_A1
+building.max=0
+building.icon=mint_tea
+
+initial.startlevel=-1
+initial.nativename=Maristan
+initial.priority=1000
+initial.shop=physician
+initial.male=andalus_physician
+initial.female=andalus_peasantwife

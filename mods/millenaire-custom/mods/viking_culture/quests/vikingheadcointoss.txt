@@ -1,0 +1,12 @@
+minreputation:0
+chanceperhour:0.5
+maxsimultaneous:2
+
+step:new
+definevillager:key=startvillager,type=viking/vikingfarmer,forbiddentag=headcointoss_done
+villager:startvillager
+duration:3
+requiredgood:denieror,1
+rewardgood:denieror,2
+settagsuccess:startvillager,headcointoss_done
+settagfailure:startvillager,headcointoss_done

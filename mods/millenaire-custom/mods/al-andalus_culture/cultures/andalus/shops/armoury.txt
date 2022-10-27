@@ -1,0 +1,5 @@
+sells=andalushelmet,andalusplate,andaluslegs,andalusboots,andalusspear,seljukscimitar,seljukbow,bow,arrow,steelHelmet,chainChest,chainLegs,chainBoots
+
+buys=iron,ironnugget,leather,wood
+
+deliverto=ironnugget,leather

@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=20
+buildingorientation=3
+building.icon=sapling
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Lundr
+initial.priority=1000
+initial.pathwidth=1
+initial.tag=grove
+initial.tag=nopaths
+initial.abstractedproduction=wood_pine,64

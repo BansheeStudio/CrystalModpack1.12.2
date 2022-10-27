@@ -1,0 +1,44 @@
+culture.viking=Viking
+culture.fullname=Les Vinkings
+
+village.town=Ville
+village.fortress=Forteresse
+village.commercialtown=Ville commerciale
+village.agriculturalvillage=Village Agricole
+village.fortifiedplayercolony=Colonie de joueurs fortifiee
+
+villager.andalus_merchant=Marchand andalou
+villager.artmerchant=Marchant d'Art
+villager.berserker=Berserker
+villager.fru=Dame
+villager.gothi=Gothi
+villager.hostileberserker=Berserker
+villager.jarl=Chef de clan
+villager.jomsviking=Jomsviking
+villager.jomsvikingbrigand=Jomsviking
+villager.localmerchant=Marchant Local
+villager.merchant_weapons=Marchant d'Armes
+villager.norseboy=Garcon
+villager.norsegirl=Fille
+villager.raider=Raider
+villager.shieldmaiden=Femme Guerriere
+villager.vikingcattlefarmerfemale=Vachere
+villager.vikingcattlefarmermale=Vacher
+villager.vikingcraftsman=Artisan
+villager.vikingfarmer2=Fermier
+villager.vikingfarmer=Fermier
+villager.vikingfisherman=Pecheur
+villager.vikinglumberman=Bucheron
+villager.vikingmerchant=Marchant Vikings
+villager.vikingminer=Mineur
+villager.vikingshepherd=Berger
+villager.vikingsmith=Forgeron
+villager.vikingwarrior=Guerrier
+villager.vikingwife=Villageoise
+
+
+shop.vikingtownhall=Mairie
+shop.vikingcattlefarm=Ferme d'elevage
+shop.vikingforge=Armures et armes
+shop.vikingfishery=Pecheur
+shop.vikingworkshop=Atelier

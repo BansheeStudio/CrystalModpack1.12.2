@@ -1,0 +1,25 @@
+name=Masjid Wahid
+weight=10
+radius=40
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+biome=Savanna Plateau M
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=prairie
+biome=shrubland
+biome=xeric shrubland
+biome=lush desert
+biome=outback
+
+namelist=mosques
+
+//starting buildings=
+centre=lonemosque

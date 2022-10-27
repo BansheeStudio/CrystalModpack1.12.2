@@ -1,0 +1,16 @@
+building.length=41
+building.width=40
+building.max=0
+building.issubbuilding=true
+building.parentbuildingplan=playerfortress_A4
+building.icon=anvil
+
+initial.startlevel=-4
+initial.nativename=Mustawdae Al'asliha
+initial.male=andalus_fortarmourysmith
+initial.priority=400
+initial.tag=armoury
+initial.tag=forge
+initial.parenttag=armyforge
+initial.shop=armoury
+

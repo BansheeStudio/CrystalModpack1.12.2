@@ -1,0 +1,17 @@
+building.length=17
+building.width=13
+building.max=0
+building.showtownhallsigns=false
+building.startinggood=bread,1.0,8,16
+
+building.icon=bread
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Noria
+initial.male=andalus_lonemiller
+initial.female=andalus_lonewife
+initial.tag=bakery
+initial.tag=leasure
+initial.shop=lonemill
+

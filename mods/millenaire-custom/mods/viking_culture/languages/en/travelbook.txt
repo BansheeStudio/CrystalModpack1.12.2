@@ -1,0 +1,5 @@
+travelbook.trade_good.viking_boots.desc=These sturdy boots are ideal for long marches through diverse terrains that the Vikings somehow find themselves in.
+travelbook.trade_good.viking_helmet.desc=Warriors prioritized getting a good helmet before anything else. This helmet has eye guards that resemble spectacles and are thus called "spectacle helmets".
+travelbook.trade_good.viking_legs.desc=This armor protects the avid adventurer from knee-splitting arrows.
+travelbook.trade_good.viking_plate.desc=This mail shirt is called a hauberk and it's made of thousands of interlocking iron rings. Don't forget to put it on when resting near Stamford bridge.
+travelbook.trade_good.viking_sword.desc=Swords were usually more expensive than axes and spears but it was the mark of a warrior. This double-edged sword has a small crossguard and a large pommel.

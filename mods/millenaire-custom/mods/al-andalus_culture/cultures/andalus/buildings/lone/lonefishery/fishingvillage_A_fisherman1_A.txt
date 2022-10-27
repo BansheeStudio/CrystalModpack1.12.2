@@ -1,0 +1,15 @@
+building.length=55
+building.width=55
+building.fixedorientation=south
+building.issubbuilding=true
+building.parentbuildingplan=fishingvillage_A0
+building.max=0
+building.icon=fishraw
+
+initial.startlevel=-7
+initial.nativename=Musmaka
+initial.male=andalus_fisherman
+initial.female=andalus_peasantwife
+initial.tag=leasure
+initial.tag=fishingspot
+initial.tag=oven

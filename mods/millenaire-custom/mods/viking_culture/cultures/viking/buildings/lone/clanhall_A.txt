@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=44
+building.startinggood=denier,1.0,50,100
+building.startinggood=denierargent,1.0,10,20
+
+building.icon=steelaxe
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Salur Berserkr AEttarinnar
+initial.male=berserker
+initial.male=hostileberserker
+initial.male=hostileberserker
+initial.male=hostileberserker
+initial.male=hostileberserker
+initial.male=hostileberserker

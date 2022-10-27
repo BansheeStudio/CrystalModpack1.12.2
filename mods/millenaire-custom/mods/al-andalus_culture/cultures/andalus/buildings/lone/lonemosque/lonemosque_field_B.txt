@@ -1,0 +1,11 @@
+building.length=26
+building.width=26
+building.travelbook_display=false
+building.issubbuilding=true
+building.parentbuildingplan=lonemosque_A0
+
+initial.tag=wheat
+initial.startlevel=-1
+initial.nativename=Haql
+initial.tag=wheatpaddy
+

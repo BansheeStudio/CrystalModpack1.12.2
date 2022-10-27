@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=32
+building.width=15
+building.buildingorientation=3
+building.max=0
+building.reputation=8192
+building.price=8192
+building.icon=denierargent
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Langhus
+initial.priority=1000000
+
+
+
+

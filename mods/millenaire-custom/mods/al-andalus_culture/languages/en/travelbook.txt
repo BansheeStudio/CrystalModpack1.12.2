@@ -1,0 +1,18 @@
+//* These strings are used in the Travel Book for goods used by multiple cultures
+
+travelbook.trade_good.andalusboots.desc=These sturdy boots are ideal for long marches through desert sands and rugged mountain passes.
+travelbook.trade_good.andalushelmet.desc=The helmet protects a soldier's head, a vulnerable and vital body part. As such, warriors prioritized getting a good helmet before anything else.
+travelbook.trade_good.andaluslegs.desc=This armor protects the avid adventurer from knee-splitting arrows.
+travelbook.trade_good.andalusplate.desc=A mail shirt covered by gilded lamellar and draped in exquisite red cloth.
+travelbook.trade_good.andalusspear.desc=The spear lacks the elegance of a sword but is cheap and deadly. It truly is a remarkable weapon.
+travelbook.trade_good.carved_wood.desc=This block of wood is carved with intricate geometric patterns. It is usually incorporated into ceiling designs. 
+travelbook.trade_good.couscous.desc=This is a grain dish from the Berbers of Algeria and Morocco.
+travelbook.trade_good.dates.desc=A staple food in Al-Andalus harvested from tall date palms. 
+travelbook.trade_good.glazed_terracotta_brown.desc=Glazed tiles are one of the many prized exports of Cordoba. This brown pattern can be used with wood due to it's color.
+travelbook.trade_good.glazed_terracotta_lime.desc=Glazed tiles are one of the many prized exports of Cordoba. This lime pattern resembles nature.
+travelbook.trade_good.glazed_terracotta_white.desc=Glazed tiles are one of the many prized exports of Cordoba. This pattern is made to resemble the heavens.
+travelbook.trade_good.healing_potion.desc=This potion is too strong for you, traveler.
+travelbook.trade_good.lamp_stand.desc=A fancy iron lamp stand.
+travelbook.trade_good.mint.desc=This aromatic herb is a common sight in a physician's garden.
+travelbook.trade_good.mint_tea.desc=A mundane drink in the old world which has somehow gained miraculous healing abilities. 
+travelbook.trade_good.regen_potion.desc=A red potion with a strange glow, the product of an environment that is more receptive to alchemical methods.

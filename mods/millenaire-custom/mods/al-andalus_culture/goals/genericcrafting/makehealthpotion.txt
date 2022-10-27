@@ -1,0 +1,13 @@
+priority=50
+
+duration=90000
+
+heldItems=sugar,redflower
+
+input=glass,1
+input=sugar,1
+input=redflower,1
+output=healing_potion,1
+
+buildinglimit=healing_potion,5
+

@@ -1,0 +1,176 @@
+norseboy.greeting=Þegar eg verð stór, vil eg vera eins og pabbi! / / Quand je serai grand, je veux etre comme papa !
+norseboy.greeting=Af hverju á eg ekki skegg ennþá? / Pourquoi je n'ai pas encore de barbe ?
+norseboy.greeting=Ætti eg að trúa á Óðinn eða Kristr? / Dois-je croire en Odin ou en Christ ?
+norseboy.greeting=Af hverju baða allir alltaf á laugardaginn? / Pourquoi tout le monde se baigne-t-il toujours le samedi ?
+norseboy.greeting=eg ætla að verða mikill stríðsmaður einn daginn. / Je vais etre un grand guerrier un jour.
+
+vikingfarmer.BringBackResourcesHome=Við skulum koma með það gullhveiti. / Ramenons ce ble dore.
+vikingfarmer.CollectCrop=Útlit er fyrir að hveitið se þroskað. / On dirait que le ble est mur.
+vikingfarmer.CollectCrop=Það er uppskerutímabil! / C'est la saison des recoltes !
+vikingfarmer.PlantSeeds=eg sá, og þá mun eg uppskera. / Je seme, puis je recolte.
+vikingfarmer.PlantSeeds=Enginn skal treysta fyrsta sáðkorninu ne syni hans of fljótt; hvati ræður barninu, og veðrið ræður vellinum, hver er opinn fyrir tilviljun. / Que personne ne mette trop tot foi en la premiere semence ni en son fils ; caprice regne sur l'enfant, et sur le terrain, chacun est ouvert au hasard.
+
+vikingwarrior.greeting=Þú lítur svolítið út. eg ver þig ef þú lendir í vandræðum. Fyrir verð, auðvitað. / Tu as l'air un peu maigre, $name. Je te protegerai si tu as des ennuis. Pour un prix, bien sur.
+vikingwarrior.greeting=eg velti því fyrir mer hvar við munum víkja næst. / Je me demande ou nous ferons des raids la prochaine fois.
+vikingwarrior.greeting=Serðu stríðsmennina fyrir austan? Þeir eru með bogin sverð. Boginn. Sverð. / Vous voyez ces guerriers de l'est ? Ils ont des epees courbees. Incurve. epees.
+vikingwarrior.greeting=Minna að tala, meira víking! / Moins de discussions, plus de raids !
+vikingwarrior.greeting=Ertu að leita að málaliða, herra? Þú gætir ráðið mig og restina af piltunum í nokkra afneitendur. / Cherchez-vous des mercenaires, monsieur ? Tu pourrais m'engager, moi et le reste des gars, pour quelques deniers.
+
+shieldmaiden.greeting=Þú lítur svolítið út. eg ver þig ef þú lendir í vandræðum. Fyrir verð, auðvitað. / Tu as l'air un peu maigre, $name. Je te protegerai si tu as des ennuis.
+shieldmaiden.greeting=Menn hafa ekki þann snyrtilega sem þarf til að vinna nákvæmni. Jafnvel í bardaga. / Les hommes n'ont pas la proprete necessaire pour un travail de precision. Meme au combat.
+shieldmaiden.greeting=Ef maðurinn minn flýr frá bardaga, mun eg ekki hika við að drepa hann. Enginn feigur á skilið að vera maðurinn minn. / Si mon epoux fuit la bataille, je n'hesiterai pas a le tuer. Aucun lâche ne merite d'etre mon mari.
+shieldmaiden.greeting=Þú lítur út eins og þú hafir aldrei seð kvenmann. Myndir þú sjá um að ráða einn? Og nei, við bjóðum ekki upp á neina aðra þjónustu fyrir utan málaliðaverk. / Vous avez l'air de n'avoir jamais vu de femme guerriere auparavant. Souhaitez-vous en embaucher un ? Et non, nous n'offrons pas d'autres services que le travail de mercenaire.
+
+berserker.greeting=Það er tvennt sem eg elska í þessum heimi: mjöður og berjast./ Il y a deux choses que j'aime dans ce monde : l'hydromel et les combats.
+berserker.greeting=eg get ekki seð hvers vegna þessir "borgaralegu" menn kalla áfram okkur villimenn. Ætla þeir ekki líka stríð? / Je ne vois pas pourquoi ces hommes "civils" continuent de nous traiter de sauvages. Ne venerent-ils pas aussi la guerre ?
+berserker.greeting=Það er fínt höfuð sem þú ert með á herðum þínum <3 / C'est une belle tete que tu as sur les epaules <3
+berserker.greeting=Við erum á dimmum öldum segirðu? Bah! Þetta er besti tíminn til að vera á lífi! / Nous sommes a l'âge des tenebres, dites-vous ? Bah ! C'est le meilleur moment pour etre en vie !
+
+jomsviking.greeting=eg man enn þann mikla bardaga við Hjörungavágr. Bardagi á sjó innan um grimmur haglhríð og þrumandi ský. Það var þegar eg dó næstum að eg fann sannarlega á lífi. / Je me souviens encore de la grande bataille de Hjörungavágr. Une bataille en mer au milieu d'une violente tempete de grele et de nuages tonitruants. C'est au moment ou j'ai failli mourir que je me suis senti vraiment vivant.
+jomsviking.greeting=Fyrir aðeins fáa afneitendur muntu hafa stjórn á nokkrum sterkustu stríðsmönnum í Eystrasaltsríkjunum! / Pour quelques deniers seulement, vous serez aux commandes de certains des guerriers les plus puissants de la Baltique !
+jomsviking.greeting=Hversu eg þrái að ganga í einherjar í Valhöll. Vinir mínir hljóta að bíða eftir mer þar. / Combien j'ai envie de rejoindre l'einherjar dans le valhalla. Mes amis doivent m'attendre la-bas.
+jomsviking.greeting=Ferð til jaðra heimsins og þú munt enn finna stríð. Stríð breytist aldrei. / Voyagez aux confins du monde et vous trouverez toujours la guerre. La guerre ne change jamais.
+jomsviking.greeting=Þú hefðir átt að sjá Jomsborg aftur í gamla heiminum. eg efast um að eg muni nokkru sinni sjá glæsilegra vígi en vígi jómvíkinganna. / Vous auriez du revoir Jomsborg dans l'ancien monde. Je doute que je verrai jamais une forteresse plus impressionnante que la forteresse des Jomsvikings.
+jomsviking.greeting=Þú þarna! Ertu einhvern veginn kristinn? Segðu bara orðið og eg mun vera tilbúinn til að taka þig af með sverði mínu. / Vous ici! Es-tu chretien par hasard ? Dis juste le mot et je serai pret a te debaptiser avec mon epee.
+
+jarl.greeting=Gestur okkar er kominn! / Notre invite est arrive !
+jarl.greeting=Komdu að sigla með okkur einhvern daginn. Ævintýri bíður okkar! / Venez naviguer avec nous un jour. L'aventure nous attend !
+jarl.greeting=eg hafði þann heiður að berjast í skjaldvegg við Harald konung einu sinni. Það er ljúf minning. / J'ai eu l'honneur de combattre dans un mur de bouclier avec le roi Harald une fois. C'est un doux souvenir.
+jarl.greeting=Ekkert magn af mjöri getur passað við gleðina við að horfa á þorpið þitt vaxa. / Aucune quantite d'hydromel ne peut egaler la joie de voir grandir votre village.
+jarl.greeting=Rúnirnar, múrari. Hvað meina þeir? / Les runes, maçon. Que signifient-ils?
+jarl.greeting=Gestur verður að fara aftur á leið sinni, ne vera á sama stað nokkru sinni; ef hann dvelur of lengi verður honum hatað. / Un invite doit repartir sur son chemin, ni rester jamais au meme endroit ; s'il attend trop longtemps sur le banc d'un autre, l'etre aime devient vite haï.
+jarl.patrol=Varist skrælingjar, $name. Aðeins heimskingi myndi treysta þessum villimönnum. / Mefiez-vous des skraelings, $name. Seul un idiot ferait confiance a ces barbares.
+jarl.greeting=England tilheyrir Norðmanninum! / L'Angleterre appartient aux Nordiques !
+jarl.greeting=Skål! / Bravo!
+jarl.patrol=Hefur þú seð einhver skrímsli undanfarið? Sýndu mer hvar þeir eru og eg geri afganginn.af brigandum. / Soyez prudent lors de vos deplacements. Les routes sont pleines de brigands.
+jarl.patrol=Stríð er alveg eins og hnefatafl. Það er leikur vitur þar sem betri herforinginn sigrar. / La guerre, c'est comme hnefatafl. C'est un jeu d'esprit ou le meilleur commandant triomphe.
+
+fru.greeting=$name! Komdu með okkur við aflinn. Leyfðu okkur að deila sögum og drekka mjöður saman. / $nom ! Venez nous rejoindre au coin du feu. Partageons des histoires et buvons de l'hydromel ensemble.
+fru.greeting=Hvernig hefur þú það í dag? / Comment vas-tu aujourd'hui?
+fru.greeting=Nefndu einn mann í þessu þorpi sem er ekki með skegg. / Nommez un homme de ce village qui n'a pas de barbe.
+fru.greeting=Ef aðeins maðurinn minn myndi láta mig koma í árásum. / Si seulement mon mari me laissait faire des raids.
+fru.greeting=Komdu og veislu með okkur næst, $name. / Viens festoyer avec nous la prochaine fois, $name.
+
+gothi.greeting=Skalat maðr rúnar rísta, nema ráða vel kunni / Un homme ne devrait pas tailler de runes, a moins qu'il ne sache bien les controler.
+gothi.greeting=Ósnotr maðr þykkisk alt vita ef hann á ser í vá veru hitki hann veit hvat hann skal við kveða ef hans freista firar / L'idiot qui se croit plein de sagesse alors qu'il est assis pres de son foyer a la maison se rend vite compte, lorsqu'il est interroge par les autres, qu'il ne sait rien du tout.
+gothi.greeting=Fróðr sá þykkisk er fregna kann ok segja hit sama eyvitu leyna megu ýta synir því er gengr of guma / Bien demander, bien repondre, sont les marques d'un sage : les hommes doivent parler des actes des hommes, ce qui se passe ne doit pas etre cache.
+gothi.greeting=Fear síns er fengit hefir skylit maðr þörf þola opt sparir leiðum þats hefir ljúfum hugat mart gengr verr en varir / Une fois qu'il a acquis suffisamment de richesses, un homme ne devrait plus desirer davantage : ce qu'il economise pour ses amis, les ennemis peuvent le prendre ; les espoirs sont souvent des mensonges.
+
+vikinglumberman.greeting=eg get ekki beðið eftir næstu árás. eg hef höggvið mörg tre og ekki svo marga menn. / J'ai hâte au prochain raid. J'ai coupe beaucoup d'arbres et pas tant d'hommes.
+vikinglumberman.greeting=Ekkert þorp er mögulegt án auðmjúkra starfa timburmanns. / Aucun village n'est possible sans l'humble travail d'un bucheron.
+vikinglumberman.BringBackResourcesHome=Viðurinn minn er góður. Spurðu konuna mína. / Mon bois est bon. Demandez a ma femme.
+vikinglumberman.BringBackResourcesHome=Þyngdu hó! / Hehe !
+vikinglumberman.ChopTrees=Timbur! / Charpente!
+vikinglumberman.ChopTrees= Chöp Chöp
+vikinglumberman.ChopTrees=Eigi fellr tre við fyrsta högg / Un arbre ne tombe pas du premier coup
+vikinglumberman.GatherGoods=eg vona að eg geti seð Yggdrasill einhvern daginn... / J'espere que je pourrai voir l'arbre du monde un jour...
+vikinglumberman.PlantSaplings=Brátt verður þetta stórt glæsilegt tre! Og eg skal skera það niður. / Bientot ce sera un grand arbre majestueux ! Et je vais le couper.
+
+vikingminer.Cooking=Nú er þetta alvarleg elda. / Maintenant, c'est de la cuisine serieuse.
+vikingminer.Mining=eg vona að eg lendi ekki í neinum tröllum meðan á námuvinnslu stendur. / J'espere que je ne rencontrerai pas de trolls pendant le minage.
+vikingminer.Mining=Enginn annar í þorpinu hefur styrk og þrek til að vinna þetta starf. Og hvaða þakkir fæ eg? / Personne d'autre dans le village n'a la force et l'endurance necessaires pour faire ce travail. Et quels remerciements ai-je ?
+vikingminer.Mining=eg velti því fyrir mer hvort eg myndi hitta dverga ef eg gróf nógu djúpt. / Si je creuse assez profondement, je me demande si je rencontrerais des nains.
+vikingminer.Mining=$name, gætirðu hjálpað mer? eg hef seð þig eiga tonn af steini! / $name, pourriez-vous peut-etre m'aider? Je t'ai vu miner des tonnes de pierres !
+vikingminer.Mining=Sveifla, sveifla, sveifla með mer. Lyftu pikkössum þínum og lyftu röddinni! / Danses, balances toi, danse avec moi. Faites votre choix et elevez la voix !
+
+vikingsmith.greeting=eg verð að segja, Frakkar vita hvernig á að falsa vopn! / Je dois dire que les Normands savent forger des armes !
+vikingsmith.greeting=Þú getur ekki kallað þig stríðsmann án almennilegs vopns. / Vous ne pouvez pas vous appeler un guerrier sans une arme appropriee.
+vikingsmith.greeting=Ef þú rekst einhvern tíma á sverð að nafni Tyrfing, ekki taka því. Treystu mer, það sverð eru slæmar frettir. / Si jamais vous tombez sur une epee nommee Tyrfing, ne la prenez pas. Croyez-moi, cette lame est une mauvaise nouvelle.
+vikingsmith.greeting=Vápnum sínum skala maðr velli á feti ganga framar því at óvist er at vita nær verðr á vegum úti geirs um þörf guma / Un voyageur ne doit pas marcher sans armes, mais avoir ses armes a portee de main : il ne sait pas quand il peut en avoir besoin d'une lance, ni quelle menace l'attend sur la route.
+vikingsmith.MakeTools=eg segi að þessi tæki muni endast í mörgum tunglum. / Ces outils dureront de nombreuses lunes, je parie.
+vikingsmith.MakeTools=Þú getur treyst á stálið mitt! / Vous pouvez compter sur mon acier !
+vikingsmith.makesteelaxe=Ef þú serð Víkingr vörumerki einum ásnum mínum, þá ættirðu að hlaupa! / Si vous voyez un Viking brandir une de mes haches, vous feriez mieux de courir !
+vikingsmith.makevikingsword=Segðu þeim Skaldum að sleppa lýrunum og taka upp sverð í eitt skipti! Kjánalegar stelpur... / Dites a ces Skalds de lâcher leurs lyres et de ramasser une epee pour une fois ! Nous n'avons pas besoin de poetes effemines...
+vikingsmith.MakeWeapons=Borðaðu hjarta þitt, Völundr! / Mange ton cœur, Wayland !
+vikingsmith.MakeWeapons=Skellið í óvini ykkar eins og hamar og anna! / Frappez vos ennemis comme un marteau et une enclume !
+
+villager.BecomeAdult=Tími til að verða eitthvað í heiminum! / Il est temps de devenir quelqu'un dans le monde !
+villager.BecomeAdult=eg mun sakna þess að vera krakki... / etre un enfant va me manquer...
+
+villager.GoPlay=eg held að eg fari að leika úti. / Je pense que je vais aller jouer dehors.
+
+villager.calltoarms=Til vopna, bræður! / Aux armes! Freres!
+villager.calltoarms=Til Valhöll! / Au Valhalla !
+villager.calltoarms=Hleðsla! / Chargez!
+villager.calltoarms=RAAAAHH!
+villager.calltoarms=Óðinn á yðr alla! / Odin vous possede tous !
+villager.calltoarms=Dieu du Nord!
+
+villager.childobserveagriculture=Það er sagt að landbúnaður se göfugt starf, og samt hef eg aldrei seð að göfugmenni geri neitt! / On dit que l'agriculture est un metier noble, et pourtant je n'ai jamais vu un noble en faire !
+villager.childobserveconstruction=Það er svolítið skrítið að aðeins konur byggja í þorpinu okkar. / C'est un peu etrange que seules les femmes construisent dans notre village.
+villager.childobservesmithing=Bam! Bam! Þú verður að slá á járnið meðan það er heitt! / Bam ! Bam ! Vous devez frapper le fer pendant qu'il est chaud !
+
+villager.gorest=eg er þreyttur. / Je suis fatigue.
+villager.gorest=Að lokum get eg hvílt mig núna. / Enfin, maintenant je peux me reposer.
+villager.gorest=Ekkert spennandi gerist herna. / Rien d'excitant ne se passe jamais ici.
+villager.gorest=eg gæti gert mer hvíld ... / Je pourrais le faire avec un peu de repos...
+villager.gorest=Óvitur maðurinn er vakandi alla nóttina og veltir öllu fyrir ser; þegar morguninn kemur er hann þreyttur í huga og allt er byrði sem fyrr. / L'homme imprudent est eveille toute la nuit et reflechit a tout ; quand vient le matin, il a l'esprtit fatigue, et tout est un fardeau comme toujours.
+
+villager.greeting=eg fekk góðan svefn í gærkveldi! Mer líður endurnærð! / J'ai bien dormi la nuit derniere ! Je me sens rafraîchi !
+villager.greeting=Fallegur dagur, er það ekki? / Belle journee, n'est-ce pas ?
+villager.greeting=Heill, $name / bonjour, $name!
+villager.greeting=Það fer að rigna, eg finn fyrir því. / Il va pleuvoir, je le sens.
+villager.greeting=eg man ekki eftir Miðgarðr alveg svona. / Je ne me souvenais pas vraiment de Midgard comme ça.
+villager.greeting=Ertu búinn að borða? / As-tu deja mange?
+villager.greeting=Hefurðu seð Jörgen? / Avez-vous vu Jörgen ?
+villager.greeting=Vertu sæll, vinur. / Salut, ami.
+
+vikingwife.DeliverGoodsHousehold=Geta þeir ekki sótt hluti sjálfir? eg er orðin vinnukona á staðnum! /  Ne peuvent-ils pas chercher les choses eux-memes ? Je suis devenue la femme de menage locale !
+
+vikingwife.GethousethResources=Lítur út fyrir að latur eiginmaður minn hafi framleitt eitthvað í einu. / On dirait que mon paresseux de mari a produit quelque chose pour une fois.
+vikingwife.GetResourcesForBuild=Burt til að ná í tonn eða tvö af byggingarefnum. eg er sterkari en eg lít út. / Il faut du courage pour ramasser une tonne ou deux de materiaux de construction. Je suis plus fort que j'en ai l'air.
+
+villager.construction=Traustur timbur okkar mun eflaust styrkja þessa byggingu. / Nos grosses buches feront sans aucun doute ce bâtiment solide.
+villager.construction=Þetta verður fínt listaverk. / Cela va etre une belle œuvre d'art.
+villager.construction=Bygging róar taugarnar. / La construction apaise les nerfs.
+villager.construction=Við gátum ekki smíðað hluti svona fljótt aftur í gamla daga. / Autrefois, nous ne pouvions pas construire des choses aussi rapidement.
+
+vikingwife.getGoodsHousehold=Af hverju er eg alltaf sá sem er sendur til að sækja efni? / Pourquoi suis-je toujours celui qui est envoye pour ramasser des trucs ?
+
+vikingfisherman.greeting=Það er svo auðvelt að veiða fisk í þessum nýja heimi! / Attraper du poisson dans ce nouveau monde est si facile !
+vikingfisherman.greeting=Hafin her virðast ekki hafa sjávarföll. eg hef heyrt sögur af slíkum stað. eg held að þeir hafi kallað það Miðjarðarhafið. / Les mers ici semblent n'avoir pas de marees. J'ai entendu des histoires sur un tel endroit. Je pense qu'ils l'ont appele la Mediterranee.
+vikingfisherman.greeting=eg myndi ekki fara of langt út í sjóinn ef eg væri þú. Hinn mikli höggormur J?rmungandr liggur við brúnir Miðgarðr. / Je n'irais pas trop loin dans la mer si j'etais vous. Le grand serpent Jörmungandr se cache le long des bords de Midgard.
+vikingfisherman.greeting=Við ættum að reyna að veiða hval fljótlega. / Nous devrions essayer d'attraper une baleine bientot.
+
+vikingshepherd.greeting=eg verð að láta kindurnar mínar beita eins mikið og mögulegt er áður en veturinn kemur. / Je vais devoir laisser mes moutons paître le plus possible avant l'hiver.
+
+viking_merchant.KeepStall=Víkingagaldur er öflugur galdur. / La magie viking est une magie puissante.
+viking_merchant.KeepStall=Komdu og keyptu. eg mun ekki segja þer hvaða fórnir voru gerðar til að gera þessar verndargripir sterkar. / Venez acheter. Je ne vous dirai pas quels sacrifices ont ete faits pour rendre ces amulettes fortes.
+viking_merchant.KeepStall=Þú þar, komdu og skoðaðu vöru minn! eg hef nákvæmlega það sem þú ert að leita að. / Vous la, venez voir mes marchandises ! J'ai exactement ce que vous cherchez.
+viking_merchant.greeting=Í dag kem eg til viðskipta. Á morgun ... / Aujourd'hui je viens faire du commerce. Demain...
+viking_merchant.greeting=Þetta land er víkingaland. Bretland er víkingaland. Sikiley er víkingaland. Við ráðum! / Cette terre est une terre viking. L'Angleterre est une terre viking. La Sicile est une terre viking. Nous gouvernons !
+viking_merchant.greeting=Ekki allir Norðmenn eru víkingar. / Tous les hommes nordiques ne sont pas des raiders.
+viking_merchant.greeting=Þessi listakaupari heldur áfram að blástra um hversu siðmenntaður hann er. eg er svo nálægt því að setja ör í hauskúpuna hans... / Ce marchand d'art n'arrete pas de dire a quel point il est civilise. Je suis si pres de lui mettre une fleche dans son crâne...
+viking_merchant.greeting=Ef þú vildir spyrja einhvern um gamla heiminn, myndir þú spyrja mig. eg hef verslað frá Miklagarðr til Garðaríki, róið niður Volga, gengið meðfram silkiveginum og siglt yfir Miðjarðarhafið. / Si vous vouliez interroger quelqu'un sur l'ancien monde, vous me le demanderiez. J'ai fait du commerce de Constantinople a Kiev, j'ai descendu la Volga a la rame, j'ai marche le long de la route de la soie et j'ai traverse la Mediterranee a la voile.
+viking_merchant.greeting=Einu sinni á ferðalögum mínum hitti eg mann að nafni Frank Sigmar. Undarlegur náungi sem maðurinn var... / Une fois dans mes voyages, j'ai rencontre un homme nomme Frank Sigmar. Un homme etrange que cet homme etait...
+
+art_merchant.KeepStall=Margaritária prin apó tous choírous, ópos lene edó. / Des perles avant les porcs, comme on dit ici.
+art_merchant.greeting=Kamía póli ston kósmo den boreí na synkritheí me tin Konstantinoúpoli! / Aucune ville au monde ne peut se comparer a Constantinople !
+art_merchant.greeting=Oi ánthropoi edó eínai várvaroi. / Les gens ici sont des barbares.
+
+weapon_merchant.KeepStall=You do not want to know what happened to the man who gave me that scar. But you can buy the blade I used. / Vous ne voulez pas savoir ce qui est arrive a l’homme qui m’a fait cette cicatrice. Mais vous pouvez acheter la lame que j’ai utilisee.  
+weapon_merchant.greeting=Do you want to know how I survived all those years travelling alone with valuable merchandise? / Vous voulez vraiment savoir comment j'ai survecu toutes ces annees voyageant seul avec des marchandises precieuses?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

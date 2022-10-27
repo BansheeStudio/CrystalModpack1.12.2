@@ -1,0 +1,3 @@
+sells=yogurt,beefraw,leather,bone
+
+buys=wheat

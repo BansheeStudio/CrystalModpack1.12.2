@@ -1,0 +1,70 @@
+//Andalus Basic
+
+headcointoss_0_label=Feeling lucky
+headcointoss_0_description=Oi, wanna flip a coin? If it's heads, I give you another coin. If it's tails, I'll keep your coin.
+headcointoss_0_description_success=Damn, it's heads. Today's your lucky day, huh? Fine, take this. I don't think my wife will be happy when I get back home...
+headcointoss_0_description_refuse=Wise choice. Have it your way then.
+
+tailcointoss_0_label=Feeling lucky
+tailcointoss_0_description=Oi, wanna flip a coin? If it's heads, I give you another coin. If it's tails, I'll keep your coin.
+tailcointoss_0_description_success=Ha! It's Tails! I guess I'll be keeping this then.
+tailcointoss_0_description_refuse=Wise choice. Have it your way then.
+
+couscous_0_label=Couscous
+couscous_0_description=$name, can you please do me a favor? I wanted to try out a new Maghrebi recipe lately but I don't have the ingredients so I need someone to plant these seeds for me.
+couscous_0_description_success=God bless you, $name! I believe five bundles of wheat will be enough. Now go, I have some chores to do.
+couscous_0_description_refuse=Fine, I'll do it myself. I didn't think you'd be as lazy as my husband...
+couscous_1_label=Return With the Spoils
+couscous_1_description=It is good to see you again. Have you brought the wheat?
+couscous_1_description_success=Splendid work! Here, have some too, you deserve it!
+couscous_1_description_refuse=This isn't enough. I expected so much more of you...
+couscous_1_description_timeup=The seasons have changed and I am assured that that is bad for farming. Maybe you can try again another time.
+couscous_1_listing=Grow 5 bundles of wheat and give them to $startvillager_villagername$ for a delicious bowl of couscous.
+
+poorscholar_0_label=The Poor Scholar
+poorscholar_0_description=These taxes are too much, I couldn't even afford any more paper. How will I ever write poems or finish my latest treatise?
+poorscholar_0_description_success=Oh thank God for your kindness, $name! Here, take this golden apple. One of my colleagues made it for me as a good luck charm. It never worked for me but I hope it does for you.
+poorscholar_0_description_refuse=I guess I'll just sell this golden apple, I didn't have much use for it anyway...
+
+artisanwine_0_label=Thirsty!
+artisanwine_0_description=Being the only decent builder in the village is quite tiresome. I wish I could rest with a bottle of wine in my hands but it's difficult to find those in these parts.
+artisanwine_0_description_success=Ah, I needed that! How I miss the taste of Roman wine... Thank you very much, my good man!
+artisanwine_0_description_refuse=I can't blame you, it was silly of me to ask for wine in this village of all places.
+
+operation_0_label=A gruesome operation
+operation_0_description=Ah, $name! Can a friend ask a favor? A patient is in dire need of an arm amputation but he hid my axe in fear. What's worse is that this man is the local blacksmith so I can't even get a new axe. Would you happen to have one with you? 
+operation_0_description_success=Thank you very much, dear friend. Now I'm afraid the village won't be so happy about this transaction of ours so it's only fair that I give you a generous sum of money. Don't feel so down, this is all in the name of science!
+operation_0_description_refuse=Does nobody understand the basic application of medical theory nowadays? Fine, don't blame me if anyone here dies from a humoral imbalance.
+
+relic_0_label=Gift from the Caliph
+relic_0_description=Greetings, $name, I bring good news! You have become something of a legend among our people and tales of your greatness have reached the ears of the Caliph himself! In his stead, I offer you Zulfiqar, the sword of Ali, as a reward for your devotion to our cause. Do you accept it?
+relic_0_description_success=May the spirit of Ali guide you on your travels, $name! We are eternally grateful for your service.
+relic_0_description_refuse=Very well. You may ask again if you change your mind.
+
+bandits_0_label=Bandit Hunting
+bandits_0_description=$name, I have an urgent mission and you seem to be the right person for the job. A few days ago, a caravan under my protection was attacked by a band of outlaws. To make matters worse, they stole a compendium containing invaluable knowledge about the new world. I had already paid the caravan for their losses but that book is something I cannot replace. If you are able to retrieve this item, I will give you permission to keep their stolen goods. Do we have a deal?
+bandits_0_description_success=Splendid! I trust in you without a doubt, $name but I advise that you plan your attack carefully. The reports say that we are dealing with a sizeable force. I wish you the best of luck.
+bandits_0_description_refuse=You disappoint me, $name. Perhaps I need to find someone with more mettle.
+bandits_1_label=Retrieve the Compendium
+bandits_1_description=I'm glad to see you again, $name. Have you made any progress?
+bandits_1_description_success=Excellent work, $name! The village will be in your debt for taking down those lawless vagabonds. You deserve some rest. Today we celebrate your victory!
+bandits_1_description_refuse=That's a shame, $name. I thought I could rely on you but it seems that I was sorely mistaken. 
+bandits_1_description_timeup=Having no luck selling the book in the market, the bandits have had their way with it. Now, the book is damaged and vandalized beyond repair.
+bandits_1_listing=Track down the bandits and return the book of knowledge to $startvillager_villagername$.
+
+ransom_0_label=Ransom
+ransom_0_description=$name, I have a pressing issue. It saddens me to say that an important merchant got kidnapped by a viking warband. Now I need someone to deliver this ransom to them so that he can be released. Can I trust you to accomplish this task?
+ransom_0_description_success=Good! Remember, I only need you to find their camp and hand over this ransom. Under no circumstance should you ever provoke them without ensuring that the merchant is safely released. Those heathens are ruthless.
+ransom_0_description_refuse=You disappoint me, $name. Perhaps I need to find someone with more mettle.
+ransom_1_label=Report Back
+ransom_1_description=I'm glad to see you again, $name. Have you made any progress?
+ransom_1_description_success=Well done, $name! I knew you're someone I can trust. This calls for a feast!
+ransom_1_description_refuse=Get out of my sight, $name. Never have I seen such stunning failure in my life.
+ransom_1_description_timeup= Upon hearing news of your failure, the village merchant became furious.
+ransom_1_listing=Find the sea raiders and negotiate the release of the merchant using the ransom.
+
+ransom_meeting_0_label=Negotiate
+ransom_meeting_0_description=Look what we have here. You must be the messenger, eh? Now let's keep this simple, you hand over the money, and I release the merchant.
+ransom_meeting_0_description_success=You're smarter than you look. We're in a mood for trouble today so if you've got a good head on your shoulders and you wish to keep it there, you'd better leave.
+ransom_meeting_0_description_refuse=*The sea raiders are not amused. The merchant's head is then swiftly chopped off by a massive axe.*
+

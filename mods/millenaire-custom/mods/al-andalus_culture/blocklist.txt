@@ -1,0 +1,1 @@
+carved_wood;andalus:carved_wood;0;false;165/42/42
